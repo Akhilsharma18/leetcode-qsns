@@ -5,8 +5,28 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-22T08:43:06.286Z",
+  "updatedAt": "2026-10-22T08:43:29.632Z",
   "problems": [
+    {
+      "frontendId": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "problemName": "0921-minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "folderPath": "leetcode/0921-minimum-add-to-make-parentheses-valid/",
+      "readmePath": "leetcode/0921-minimum-add-to-make-parentheses-valid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0921-minimum-add-to-make-parentheses-valid.cpp",
+          "path": "leetcode/0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp",
+          "sha": "00417ac02a813bea8f2b3d1e6b0367f6660926ac",
+          "lastSyncedAt": "2026-10-22T08:43:29.632Z"
+        }
+      ]
+    },
     {
       "frontendId": "1021",
       "title": "Remove Outermost Parentheses",
