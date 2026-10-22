@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:23:47.013Z",
+  "updatedAt": "2026-10-22T09:24:03.741Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "leetcode/1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.cpp",
           "sha": "3a5cdb210d8fd216eb9f11a71901e3dea2b25c37",
           "lastSyncedAt": "2026-10-22T09:03:54.599Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1846",
+      "title": "Maximum Element After Decreasing and Rearranging",
+      "slug": "maximum-element-after-decreasing-and-rearranging",
+      "problemName": "1846-maximum-element-after-decreasing-and-rearranging",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/",
+      "folderPath": "leetcode/1846-maximum-element-after-decreasing-and-rearranging/",
+      "readmePath": "leetcode/1846-maximum-element-after-decreasing-and-rearranging/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1846-maximum-element-after-decreasing-and-rearranging.cpp",
+          "path": "leetcode/1846-maximum-element-after-decreasing-and-rearranging/1846-maximum-element-after-decreasing-and-rearranging.cpp",
+          "sha": "e2dcbc22af23f706df7a1a7ef0fcda1df876f6c0",
+          "lastSyncedAt": "2026-10-22T09:24:03.741Z"
         }
       ]
     },
