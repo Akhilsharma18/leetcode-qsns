@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database",
+    "tagId": "61043"
+  },
+  "updatedAt": "2026-10-22T09:18:57.664Z",
+  "problems": [
+    {
+      "frontendId": "262",
+      "title": "Trips and Users",
+      "slug": "trips-and-users",
+      "problemName": "0262-trips-and-users",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trips-and-users/",
+      "folderPath": "leetcode/0262-trips-and-users/",
+      "readmePath": "leetcode/0262-trips-and-users/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0262-trips-and-users.sql",
+          "path": "leetcode/0262-trips-and-users/0262-trips-and-users.sql",
+          "sha": "572f7f52a4e19e5da89301700de56ef4b228f151",
+          "lastSyncedAt": "2026-10-22T09:18:57.664Z"
+        }
+      ]
+    }
+  ]
+}
