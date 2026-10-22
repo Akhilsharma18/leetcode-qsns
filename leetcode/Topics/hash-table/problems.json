@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T11:18:07.749Z",
+  "updatedAt": "2026-10-22T11:18:07.772Z",
   "problems": [
     {
       "frontendId": "1",
@@ -283,7 +283,7 @@
           "filename": "1807-evaluate-the-bracket-pairs-of-a-string.cpp",
           "path": "leetcode/1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.cpp",
           "sha": "3a5cdb210d8fd216eb9f11a71901e3dea2b25c37",
-          "lastSyncedAt": "2026-10-22T10:52:33.577Z"
+          "lastSyncedAt": "2026-10-22T11:18:07.772Z"
         }
       ]
     },
