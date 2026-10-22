@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:15:32.646Z",
+  "updatedAt": "2026-10-22T11:15:35.422Z",
   "problems": [
     {
       "frontendId": "1",
@@ -383,7 +383,7 @@
           "filename": "1283-find-the-smallest-divisor-given-a-threshold.cpp",
           "path": "leetcode/1283-find-the-smallest-divisor-given-a-threshold/1283-find-the-smallest-divisor-given-a-threshold.cpp",
           "sha": "67b27bb74ad4ded808699c881d9e2f160aa5499d",
-          "lastSyncedAt": "2026-10-22T09:25:00.860Z"
+          "lastSyncedAt": "2026-10-22T11:15:35.422Z"
         }
       ]
     },
