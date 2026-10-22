@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T08:41:25.641Z",
+  "updatedAt": "2026-10-22T08:41:41.524Z",
   "problems": [
+    {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problemName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+      "folderPath": "leetcode/2913-subarrays-distinct-element-sum-of-squares-i/",
+      "readmePath": "leetcode/2913-subarrays-distinct-element-sum-of-squares-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2913-subarrays-distinct-element-sum-of-squares-i.cpp",
+          "path": "leetcode/2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.cpp",
+          "sha": "1196d571458040742bfa0e2c079b7dc266b4706f",
+          "lastSyncedAt": "2026-10-22T08:41:41.524Z"
+        }
+      ]
+    },
     {
       "frontendId": "2916",
       "title": "Subarrays Distinct Element Sum of Squares II",
