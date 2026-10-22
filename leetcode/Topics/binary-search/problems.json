@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-22T08:57:38.901Z",
+  "updatedAt": "2026-10-22T08:59:48.619Z",
   "problems": [
     {
       "frontendId": "349",
@@ -24,6 +24,26 @@
           "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "66a7e9aa73830f6fe3ad2b3f392a660e26c71f59",
           "lastSyncedAt": "2026-10-22T08:57:38.901Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1237",
+      "title": "Find Positive Integer Solution for a Given Equation",
+      "slug": "find-positive-integer-solution-for-a-given-equation",
+      "problemName": "1237-find-positive-integer-solution-for-a-given-equation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/",
+      "folderPath": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/",
+      "readmePath": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1237-find-positive-integer-solution-for-a-given-equation.cpp",
+          "path": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/1237-find-positive-integer-solution-for-a-given-equation.cpp",
+          "sha": "3fac227c62956e577395bd470258125a8344dbab",
+          "lastSyncedAt": "2026-10-22T08:59:48.619Z"
         }
       ]
     },
