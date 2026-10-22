@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T10:52:57.348Z",
+  "updatedAt": "2026-10-22T10:54:30.835Z",
   "problems": [
     {
       "frontendId": "15",
@@ -274,8 +274,8 @@
       "problemName": "1520-maximum-number-of-non-overlapping-substrings",
       "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
-      "folderPath": "leetcode/Hard/1520-maximum-number-of-non-overlapping-substrings/",
-      "readmePath": "leetcode/Hard/1520-maximum-number-of-non-overlapping-substrings/README.md",
+      "folderPath": "leetcode/1520-maximum-number-of-non-overlapping-substrings/",
+      "readmePath": "leetcode/1520-maximum-number-of-non-overlapping-substrings/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -283,7 +283,7 @@
           "filename": "1520-maximum-number-of-non-overlapping-substrings.cpp",
           "path": "leetcode/1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.cpp",
           "sha": "3325ac9f8e46ea0187790d13a140aac65393e90d",
-          "lastSyncedAt": "2026-10-22T09:49:29.484Z"
+          "lastSyncedAt": "2026-10-22T10:54:30.835Z"
         }
       ]
     },
