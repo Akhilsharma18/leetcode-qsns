@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-22T09:26:23.252Z",
+  "updatedAt": "2026-10-22T09:26:41.839Z",
   "problems": [
     {
       "frontendId": "20",
@@ -264,6 +264,26 @@
           "path": "leetcode/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "20be2bc46490ab02f702b98a8d009889131cae9b",
           "lastSyncedAt": "2026-10-22T09:03:37.933Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1700",
+      "title": "Number of Students Unable to Eat Lunch",
+      "slug": "number-of-students-unable-to-eat-lunch",
+      "problemName": "1700-number-of-students-unable-to-eat-lunch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
+      "folderPath": "leetcode/1700-number-of-students-unable-to-eat-lunch/",
+      "readmePath": "leetcode/1700-number-of-students-unable-to-eat-lunch/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1700-number-of-students-unable-to-eat-lunch.cpp",
+          "path": "leetcode/1700-number-of-students-unable-to-eat-lunch/1700-number-of-students-unable-to-eat-lunch.cpp",
+          "sha": "5bd673739d735909f1dd4c5b52d30eece1bfb64f",
+          "lastSyncedAt": "2026-10-22T09:26:41.839Z"
         }
       ]
     },
