@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:50:13.817Z",
+  "updatedAt": "2026-10-22T08:51:20.704Z",
   "problems": [
     {
       "frontendId": "14",
@@ -404,6 +404,26 @@
           "path": "leetcode/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp",
           "sha": "a7ebe8db9ea97c25abe39275fa15f7341dc5da71",
           "lastSyncedAt": "2026-10-22T08:46:51.665Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3734",
+      "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "problemName": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/",
+      "folderPath": "leetcode/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/",
+      "readmePath": "leetcode/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target.cpp",
+          "path": "leetcode/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/3734-lexicographically-smallest-palindromic-permutation-greater-than-target.cpp",
+          "sha": "a1829d34dc3be93d5ac0de27821386e311be44e6",
+          "lastSyncedAt": "2026-10-22T08:51:20.704Z"
         }
       ]
     },
