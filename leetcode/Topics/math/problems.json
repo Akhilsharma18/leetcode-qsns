@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T08:55:44.759Z",
+  "updatedAt": "2026-10-22T08:57:55.082Z",
   "problems": [
     {
       "frontendId": "168",
@@ -264,6 +264,26 @@
           "path": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.cpp",
           "sha": "f1debdf8747a70ebde5166386f96a75ac2a13187",
           "lastSyncedAt": "2026-10-22T08:52:48.171Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3360",
+      "title": "Stone Removal Game",
+      "slug": "stone-removal-game",
+      "problemName": "3360-stone-removal-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-removal-game/",
+      "folderPath": "leetcode/3360-stone-removal-game/",
+      "readmePath": "leetcode/3360-stone-removal-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3360-stone-removal-game.cpp",
+          "path": "leetcode/3360-stone-removal-game/3360-stone-removal-game.cpp",
+          "sha": "33b9095477c556d90695d95f8c3733c2e24c45d1",
+          "lastSyncedAt": "2026-10-22T08:57:55.082Z"
         }
       ]
     },
