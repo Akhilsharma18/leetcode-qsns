@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:00:21.411Z",
+  "updatedAt": "2026-10-22T11:00:38.164Z",
   "problems": [
     {
       "frontendId": "1",
@@ -554,8 +554,8 @@
       "problemName": "1563-stone-game-v",
       "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
-      "folderPath": "leetcode/Hard/1563-stone-game-v/",
-      "readmePath": "leetcode/Hard/1563-stone-game-v/README.md",
+      "folderPath": "leetcode/1563-stone-game-v/",
+      "readmePath": "leetcode/1563-stone-game-v/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -563,7 +563,7 @@
           "filename": "1563-stone-game-v.cpp",
           "path": "leetcode/1563-stone-game-v/1563-stone-game-v.cpp",
           "sha": "4abe1ee2022a17a79dc26e581a014653a95e7236",
-          "lastSyncedAt": "2026-10-22T09:54:28.729Z"
+          "lastSyncedAt": "2026-10-22T11:00:38.164Z"
         }
       ]
     },
