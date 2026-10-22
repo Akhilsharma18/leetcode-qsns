@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-22T09:13:52.647Z",
+  "updatedAt": "2026-10-22T09:25:20.130Z",
   "problems": [
     {
       "frontendId": "109",
@@ -24,6 +24,26 @@
           "path": "leetcode/0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.cpp",
           "sha": "2f269e3564305b67a7aad79f363a6a7a11e1829d",
           "lastSyncedAt": "2026-10-22T09:13:52.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "problemName": "0111-minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+      "folderPath": "leetcode/0111-minimum-depth-of-binary-tree/",
+      "readmePath": "leetcode/0111-minimum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0111-minimum-depth-of-binary-tree.cpp",
+          "path": "leetcode/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.cpp",
+          "sha": "bb5013c21f4207956ea15e705207fcf038349a45",
+          "lastSyncedAt": "2026-10-22T09:25:20.130Z"
         }
       ]
     },
