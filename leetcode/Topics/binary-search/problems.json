@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-22T08:46:12.531Z",
+  "updatedAt": "2026-10-22T08:47:28.208Z",
   "problems": [
+    {
+      "frontendId": "1477",
+      "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+      "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "problemName": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+      "folderPath": "leetcode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+      "readmePath": "leetcode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
+          "path": "leetcode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
+          "sha": "2e7e1daea0442a69b29fbc2c18ddeed73eab1adb",
+          "lastSyncedAt": "2026-10-22T08:47:28.208Z"
+        }
+      ]
+    },
     {
       "frontendId": "1658",
       "title": "Minimum Operations to Reduce X to Zero",
