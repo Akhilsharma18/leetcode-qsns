@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:50:04.594Z",
+  "updatedAt": "2026-10-22T08:50:13.817Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "leetcode/0001-two-sum/0001-two-sum.cpp",
           "sha": "935fbdc4d2724e06077e7b0546c326a24fcf7b3f",
           "lastSyncedAt": "2026-10-22T08:40:37.784Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "leetcode/0014-longest-common-prefix/",
+      "readmePath": "leetcode/0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0014-longest-common-prefix.cpp",
+          "path": "leetcode/0014-longest-common-prefix/0014-longest-common-prefix.cpp",
+          "sha": "927f592d8b7dab5b59ac07512cfbcab413c9f7ad",
+          "lastSyncedAt": "2026-10-22T08:50:13.817Z"
         }
       ]
     },
