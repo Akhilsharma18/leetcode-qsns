@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T08:57:38.901Z",
+  "updatedAt": "2026-10-22T08:58:34.583Z",
   "problems": [
     {
       "frontendId": "349",
@@ -64,6 +64,26 @@
           "path": "leetcode/3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.cpp",
           "sha": "f74bf96d9aeaf4ba164458c665124aefebaaa0cb",
           "lastSyncedAt": "2026-10-22T08:53:07.769Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3302",
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "slug": "find-the-lexicographically-smallest-valid-sequence",
+      "problemName": "3302-find-the-lexicographically-smallest-valid-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/",
+      "folderPath": "leetcode/3302-find-the-lexicographically-smallest-valid-sequence/",
+      "readmePath": "leetcode/3302-find-the-lexicographically-smallest-valid-sequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3302-find-the-lexicographically-smallest-valid-sequence.cpp",
+          "path": "leetcode/3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.cpp",
+          "sha": "d7903d4594d83603790bafc71fd7a4a4a1f86f68",
+          "lastSyncedAt": "2026-10-22T08:58:34.583Z"
         }
       ]
     },
