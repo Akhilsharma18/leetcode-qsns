@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T16:14:01.601Z",
+  "updatedAt": "2026-10-22T16:14:19.011Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1223,7 +1223,7 @@
           "filename": "3467-transform-array-by-parity.cpp",
           "path": "leetcode/3467-transform-array-by-parity/3467-transform-array-by-parity.cpp",
           "sha": "a7ff405920fc2a30648d358c1773d0249c672474",
-          "lastSyncedAt": "2026-10-22T11:25:59.456Z"
+          "lastSyncedAt": "2026-10-22T16:14:19.011Z"
         }
       ]
     },
