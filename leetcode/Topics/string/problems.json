@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:49:12.389Z",
+  "updatedAt": "2026-10-22T08:49:38.322Z",
   "problems": [
     {
       "frontendId": "20",
@@ -64,6 +64,26 @@
           "path": "leetcode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp",
           "sha": "e030018a0b2800479cdb7eed866f0a9d6bae4753",
           "lastSyncedAt": "2026-10-22T08:44:02.296Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "115",
+      "title": "Distinct Subsequences",
+      "slug": "distinct-subsequences",
+      "problemName": "0115-distinct-subsequences",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
+      "folderPath": "leetcode/0115-distinct-subsequences/",
+      "readmePath": "leetcode/0115-distinct-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0115-distinct-subsequences.cpp",
+          "path": "leetcode/0115-distinct-subsequences/0115-distinct-subsequences.cpp",
+          "sha": "1b2e532618d14799caa621df13221042f653d9a6",
+          "lastSyncedAt": "2026-10-22T08:49:38.322Z"
         }
       ]
     },
