@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:18:22.441Z",
+  "updatedAt": "2026-10-22T09:18:38.411Z",
   "problems": [
     {
       "frontendId": "168",
@@ -104,6 +104,26 @@
           "path": "leetcode/0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "bb3deb7dc423324682349fbd6ab1baa6ad4b811a",
           "lastSyncedAt": "2026-10-22T09:17:12.471Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "628",
+      "title": "Maximum Product of Three Numbers",
+      "slug": "maximum-product-of-three-numbers",
+      "problemName": "0628-maximum-product-of-three-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+      "folderPath": "leetcode/0628-maximum-product-of-three-numbers/",
+      "readmePath": "leetcode/0628-maximum-product-of-three-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0628-maximum-product-of-three-numbers.cpp",
+          "path": "leetcode/0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.cpp",
+          "sha": "7353ec081efa8d2a7b554f0e6a7dee6269d31dc4",
+          "lastSyncedAt": "2026-10-22T09:18:38.411Z"
         }
       ]
     },
