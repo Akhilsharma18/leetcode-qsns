@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T09:13:02.829Z",
+  "updatedAt": "2026-10-22T09:18:00.993Z",
   "problems": [
     {
       "frontendId": "682",
@@ -64,6 +64,26 @@
           "path": "leetcode/3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.cpp",
           "sha": "f74bf96d9aeaf4ba164458c665124aefebaaa0cb",
           "lastSyncedAt": "2026-10-22T09:09:52.633Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3222",
+      "title": "Find the Winning Player in Coin Game",
+      "slug": "find-the-winning-player-in-coin-game",
+      "problemName": "3222-find-the-winning-player-in-coin-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-winning-player-in-coin-game/",
+      "folderPath": "leetcode/3222-find-the-winning-player-in-coin-game/",
+      "readmePath": "leetcode/3222-find-the-winning-player-in-coin-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3222-find-the-winning-player-in-coin-game.cpp",
+          "path": "leetcode/3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.cpp",
+          "sha": "c137ee2fbfb2f810e7bef09c7aa6526c7d12560d",
+          "lastSyncedAt": "2026-10-22T09:18:00.993Z"
         }
       ]
     },
