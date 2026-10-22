@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:21:22.693Z",
+  "updatedAt": "2026-10-22T09:21:31.660Z",
   "problems": [
     {
       "frontendId": "168",
@@ -544,6 +544,26 @@
           "path": "leetcode/3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
           "sha": "c913706845764c248152f5e7f991efaf4974ef97",
           "lastSyncedAt": "2026-10-22T09:20:38.800Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3336",
+      "title": "Find the Number of Subsequences With Equal GCD",
+      "slug": "find-the-number-of-subsequences-with-equal-gcd",
+      "problemName": "3336-find-the-number-of-subsequences-with-equal-gcd",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/",
+      "folderPath": "leetcode/3336-find-the-number-of-subsequences-with-equal-gcd/",
+      "readmePath": "leetcode/3336-find-the-number-of-subsequences-with-equal-gcd/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3336-find-the-number-of-subsequences-with-equal-gcd.cpp",
+          "path": "leetcode/3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.cpp",
+          "sha": "17e5f31c7518620effa34b610a9052f8349a0d6d",
+          "lastSyncedAt": "2026-10-22T09:21:31.660Z"
         }
       ]
     },
