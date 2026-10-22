@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T08:49:31.896Z",
+  "updatedAt": "2026-10-22T08:50:04.594Z",
   "problems": [
     {
       "frontendId": "836",
@@ -244,6 +244,26 @@
           "path": "leetcode/3871-count-commas-in-range-ii/3871-count-commas-in-range-ii.cpp",
           "sha": "feabd1ad0b678ef422ea85031f8b73d3fc2cea06",
           "lastSyncedAt": "2026-10-22T08:49:05.696Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3876",
+      "title": "Construct Uniform Parity Array II",
+      "slug": "construct-uniform-parity-array-ii",
+      "problemName": "3876-construct-uniform-parity-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
+      "folderPath": "leetcode/3876-construct-uniform-parity-array-ii/",
+      "readmePath": "leetcode/3876-construct-uniform-parity-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3876-construct-uniform-parity-array-ii.cpp",
+          "path": "leetcode/3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.cpp",
+          "sha": "ebb353d11942fc9d09c1dd33aa6ab8a9ef029446",
+          "lastSyncedAt": "2026-10-22T08:50:04.594Z"
         }
       ]
     },
