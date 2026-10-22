@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-22T09:13:52.647Z",
+  "updatedAt": "2026-10-22T09:26:08.021Z",
   "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "leetcode/0021-merge-two-sorted-lists/",
+      "readmePath": "leetcode/0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0021-merge-two-sorted-lists.cpp",
+          "path": "leetcode/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
+          "sha": "0d5abd930789764308c25b71492f58a58ff058b9",
+          "lastSyncedAt": "2026-10-22T09:26:08.021Z"
+        }
+      ]
+    },
     {
       "frontendId": "24",
       "title": "Swap Nodes in Pairs",
