@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T08:54:37.132Z",
+  "updatedAt": "2026-10-22T08:57:23.923Z",
   "problems": [
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "leetcode/0389-find-the-difference/",
+      "readmePath": "leetcode/0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0389-find-the-difference.cpp",
+          "path": "leetcode/0389-find-the-difference/0389-find-the-difference.cpp",
+          "sha": "2af820e7e528039d650b6a38f933768e56d7b95b",
+          "lastSyncedAt": "2026-10-22T08:57:23.923Z"
+        }
+      ]
+    },
     {
       "frontendId": "1386",
       "title": "Cinema Seat Allocation",
