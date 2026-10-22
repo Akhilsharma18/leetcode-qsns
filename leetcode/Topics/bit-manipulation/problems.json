@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T17:53:20.756Z",
+  "updatedAt": "2026-10-22T17:53:52.548Z",
   "problems": [
     {
       "frontendId": "389",
@@ -43,7 +43,7 @@
           "filename": "1386-cinema-seat-allocation.cpp",
           "path": "leetcode/1386-cinema-seat-allocation/1386-cinema-seat-allocation.cpp",
           "sha": "00110c9dca4570cf4096745dd4af9d6dd2893085",
-          "lastSyncedAt": "2026-10-22T16:36:49.833Z"
+          "lastSyncedAt": "2026-10-22T17:53:52.548Z"
         }
       ]
     },
