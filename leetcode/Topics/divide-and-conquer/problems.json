@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-22T08:58:47.299Z",
+  "updatedAt": "2026-10-22T08:59:19.526Z",
   "problems": [
+    {
+      "frontendId": "109",
+      "title": "Convert Sorted List to Binary Search Tree",
+      "slug": "convert-sorted-list-to-binary-search-tree",
+      "problemName": "0109-convert-sorted-list-to-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/",
+      "folderPath": "leetcode/0109-convert-sorted-list-to-binary-search-tree/",
+      "readmePath": "leetcode/0109-convert-sorted-list-to-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0109-convert-sorted-list-to-binary-search-tree.cpp",
+          "path": "leetcode/0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.cpp",
+          "sha": "2f269e3564305b67a7aad79f363a6a7a11e1829d",
+          "lastSyncedAt": "2026-10-22T08:59:19.526Z"
+        }
+      ]
+    },
     {
       "frontendId": "912",
       "title": "Sort an Array",
