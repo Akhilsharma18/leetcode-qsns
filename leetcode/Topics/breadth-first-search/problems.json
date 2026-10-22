@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-22T09:04:27.638Z",
+  "updatedAt": "2026-10-22T09:08:08.021Z",
   "problems": [
     {
       "frontendId": "301",
@@ -63,7 +63,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.cpp",
           "path": "leetcode/3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.cpp",
           "sha": "cadd70a23596c4f9499b510e225d4fe1a6126df8",
-          "lastSyncedAt": "2026-10-22T08:50:33.534Z"
+          "lastSyncedAt": "2026-10-22T09:08:08.021Z"
         }
       ]
     }
