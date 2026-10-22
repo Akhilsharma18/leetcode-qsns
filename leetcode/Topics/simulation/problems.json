@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T09:21:06.051Z",
+  "updatedAt": "2026-10-22T09:26:00.493Z",
   "problems": [
     {
       "frontendId": "682",
@@ -144,6 +144,26 @@
           "path": "leetcode/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp",
           "sha": "a7ebe8db9ea97c25abe39275fa15f7341dc5da71",
           "lastSyncedAt": "2026-10-22T09:05:27.232Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3612",
+      "title": "Process String with Special Operations I",
+      "slug": "process-string-with-special-operations-i",
+      "problemName": "3612-process-string-with-special-operations-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/process-string-with-special-operations-i/",
+      "folderPath": "leetcode/3612-process-string-with-special-operations-i/",
+      "readmePath": "leetcode/3612-process-string-with-special-operations-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3612-process-string-with-special-operations-i.cpp",
+          "path": "leetcode/3612-process-string-with-special-operations-i/3612-process-string-with-special-operations-i.cpp",
+          "sha": "c3fd370ac719c487705ad7cbe179da5dd4cc9fd5",
+          "lastSyncedAt": "2026-10-22T09:26:00.493Z"
         }
       ]
     },
