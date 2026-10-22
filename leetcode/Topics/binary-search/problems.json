@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-22T09:22:50.115Z",
+  "updatedAt": "2026-10-22T09:25:00.860Z",
   "problems": [
     {
       "frontendId": "349",
@@ -44,6 +44,26 @@
           "path": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/1237-find-positive-integer-solution-for-a-given-equation.cpp",
           "sha": "3fac227c62956e577395bd470258125a8344dbab",
           "lastSyncedAt": "2026-10-22T09:14:14.881Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1283",
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "slug": "find-the-smallest-divisor-given-a-threshold",
+      "problemName": "1283-find-the-smallest-divisor-given-a-threshold",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+      "folderPath": "leetcode/1283-find-the-smallest-divisor-given-a-threshold/",
+      "readmePath": "leetcode/1283-find-the-smallest-divisor-given-a-threshold/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1283-find-the-smallest-divisor-given-a-threshold.cpp",
+          "path": "leetcode/1283-find-the-smallest-divisor-given-a-threshold/1283-find-the-smallest-divisor-given-a-threshold.cpp",
+          "sha": "67b27bb74ad4ded808699c881d9e2f160aa5499d",
+          "lastSyncedAt": "2026-10-22T09:25:00.860Z"
         }
       ]
     },
