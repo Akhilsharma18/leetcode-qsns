@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:25:31.460Z",
+  "updatedAt": "2026-10-22T09:26:31.984Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1484,6 +1484,26 @@
           "path": "leetcode/3833-count-dominant-indices/3833-count-dominant-indices.cpp",
           "sha": "2777efe391bcac05fc7ca1211d9964e8617485f5",
           "lastSyncedAt": "2026-10-22T09:14:23.650Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "problemName": "3838-weighted-word-mapping",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "folderPath": "leetcode/3838-weighted-word-mapping/",
+      "readmePath": "leetcode/3838-weighted-word-mapping/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3838-weighted-word-mapping.cpp",
+          "path": "leetcode/3838-weighted-word-mapping/3838-weighted-word-mapping.cpp",
+          "sha": "de33887b824d2e041136fdbe711d640815510018",
+          "lastSyncedAt": "2026-10-22T09:26:31.984Z"
         }
       ]
     },
