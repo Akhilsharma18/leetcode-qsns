@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-22T09:13:52.647Z",
+  "updatedAt": "2026-10-22T09:24:14.900Z",
   "problems": [
     {
       "frontendId": "109",
@@ -64,6 +64,26 @@
           "path": "leetcode/1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
           "sha": "4ca1273430e2228c70eefe013d5683e38ac84f3b",
           "lastSyncedAt": "2026-10-22T09:00:30.028Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "leetcode/3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "leetcode/3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3737-count-subarrays-with-majority-element-i.cpp",
+          "path": "leetcode/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.cpp",
+          "sha": "ed95717fcc2d658fa2ed20a3ff340347dd663d98",
+          "lastSyncedAt": "2026-10-22T09:24:14.900Z"
         }
       ]
     }
