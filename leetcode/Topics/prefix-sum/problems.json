@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-22T08:46:12.531Z",
+  "updatedAt": "2026-10-22T08:47:41.934Z",
   "problems": [
+    {
+      "frontendId": "1621",
+      "title": "Number of Sets of K Non-Overlapping Line Segments",
+      "slug": "number-of-sets-of-k-non-overlapping-line-segments",
+      "problemName": "1621-number-of-sets-of-k-non-overlapping-line-segments",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/",
+      "folderPath": "leetcode/1621-number-of-sets-of-k-non-overlapping-line-segments/",
+      "readmePath": "leetcode/1621-number-of-sets-of-k-non-overlapping-line-segments/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
+          "path": "leetcode/1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
+          "sha": "16427f352cc894f3e2b4d11f68462488cb3022d8",
+          "lastSyncedAt": "2026-10-22T08:47:41.934Z"
+        }
+      ]
+    },
     {
       "frontendId": "1658",
       "title": "Minimum Operations to Reduce X to Zero",
