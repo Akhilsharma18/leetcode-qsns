@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-22T17:41:55.293Z",
+  "updatedAt": "2026-10-22T17:42:03.655Z",
   "problems": [
     {
       "frontendId": "20",
@@ -243,7 +243,7 @@
           "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
           "path": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
           "sha": "20236ba50f2f1a7fbc3c162f551eecf495a13989",
-          "lastSyncedAt": "2026-10-22T16:29:10.880Z"
+          "lastSyncedAt": "2026-10-22T17:42:03.655Z"
         }
       ]
     }
