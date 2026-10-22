@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T11:17:41.499Z",
+  "updatedAt": "2026-10-22T11:18:22.941Z",
   "problems": [
     {
       "frontendId": "5",
@@ -524,6 +524,26 @@
           "path": "leetcode/3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
           "sha": "484f92564ab8bcdfc7f098d7bb2a34d2c3e82d96",
           "lastSyncedAt": "2026-10-22T11:12:55.081Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3751",
+      "title": "Total Waviness of Numbers in Range I",
+      "slug": "total-waviness-of-numbers-in-range-i",
+      "problemName": "3751-total-waviness-of-numbers-in-range-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/",
+      "folderPath": "leetcode/3751-total-waviness-of-numbers-in-range-i/",
+      "readmePath": "leetcode/3751-total-waviness-of-numbers-in-range-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3751-total-waviness-of-numbers-in-range-i.cpp",
+          "path": "leetcode/3751-total-waviness-of-numbers-in-range-i/3751-total-waviness-of-numbers-in-range-i.cpp",
+          "sha": "70c79b0df719aeeec70ad249072e3499e06e0c17",
+          "lastSyncedAt": "2026-10-22T11:18:22.941Z"
         }
       ]
     },
