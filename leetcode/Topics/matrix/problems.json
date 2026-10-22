@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-22T11:14:11.988Z",
+  "updatedAt": "2026-10-22T11:17:41.499Z",
   "problems": [
     {
       "frontendId": "835",
@@ -63,7 +63,7 @@
           "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
           "path": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
           "sha": "20236ba50f2f1a7fbc3c162f551eecf495a13989",
-          "lastSyncedAt": "2026-10-22T10:52:01.954Z"
+          "lastSyncedAt": "2026-10-22T11:17:41.499Z"
         }
       ]
     },
