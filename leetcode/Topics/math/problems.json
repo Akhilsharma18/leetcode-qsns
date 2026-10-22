@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:53:28.988Z",
+  "updatedAt": "2026-10-22T09:53:39.344Z",
   "problems": [
     {
       "frontendId": "168",
@@ -814,8 +814,8 @@
       "problemName": "3622-check-divisibility-by-digit-sum-and-product",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/",
-      "folderPath": "leetcode/3622-check-divisibility-by-digit-sum-and-product/",
-      "readmePath": "leetcode/3622-check-divisibility-by-digit-sum-and-product/README.md",
+      "folderPath": "leetcode/Easy/3622-check-divisibility-by-digit-sum-and-product/",
+      "readmePath": "leetcode/Easy/3622-check-divisibility-by-digit-sum-and-product/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -823,7 +823,7 @@
           "filename": "3622-check-divisibility-by-digit-sum-and-product.cpp",
           "path": "leetcode/3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.cpp",
           "sha": "aa440341ba3409b5ed16e13dfe9789108c4197ad",
-          "lastSyncedAt": "2026-10-22T09:09:36.450Z"
+          "lastSyncedAt": "2026-10-22T09:53:39.344Z"
         }
       ]
     },
