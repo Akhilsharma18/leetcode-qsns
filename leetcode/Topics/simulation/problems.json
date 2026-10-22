@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T09:19:51.456Z",
+  "updatedAt": "2026-10-22T09:21:06.051Z",
   "problems": [
     {
       "frontendId": "682",
@@ -144,6 +144,26 @@
           "path": "leetcode/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp",
           "sha": "a7ebe8db9ea97c25abe39275fa15f7341dc5da71",
           "lastSyncedAt": "2026-10-22T09:05:27.232Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3867",
+      "title": "Sum of GCD of Formed Pairs",
+      "slug": "sum-of-gcd-of-formed-pairs",
+      "problemName": "3867-sum-of-gcd-of-formed-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/",
+      "folderPath": "leetcode/3867-sum-of-gcd-of-formed-pairs/",
+      "readmePath": "leetcode/3867-sum-of-gcd-of-formed-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3867-sum-of-gcd-of-formed-pairs.cpp",
+          "path": "leetcode/3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.cpp",
+          "sha": "975843e60d460553386593cca4ac04195b6ce903",
+          "lastSyncedAt": "2026-10-22T09:21:06.051Z"
         }
       ]
     }
