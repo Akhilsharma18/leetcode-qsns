@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T11:20:05.112Z",
+  "updatedAt": "2026-10-22T11:20:26.249Z",
   "problems": [
     {
       "frontendId": "5",
@@ -483,7 +483,7 @@
           "filename": "3414-maximum-score-of-non-overlapping-intervals.cpp",
           "path": "leetcode/3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.cpp",
           "sha": "3056c6739b270a6b79113307cb6140d71296d1d3",
-          "lastSyncedAt": "2026-10-22T10:55:38.220Z"
+          "lastSyncedAt": "2026-10-22T11:20:26.249Z"
         }
       ]
     },
