@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-22T08:51:30.653Z",
+  "updatedAt": "2026-10-22T09:00:05.186Z",
   "problems": [
     {
       "frontendId": "2778",
@@ -84,6 +84,26 @@
           "path": "leetcode/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/3734-lexicographically-smallest-palindromic-permutation-greater-than-target.cpp",
           "sha": "a1829d34dc3be93d5ac0de27821386e311be44e6",
           "lastSyncedAt": "2026-10-22T08:51:20.704Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3833",
+      "title": "Count Dominant Indices",
+      "slug": "count-dominant-indices",
+      "problemName": "3833-count-dominant-indices",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-dominant-indices/",
+      "folderPath": "leetcode/3833-count-dominant-indices/",
+      "readmePath": "leetcode/3833-count-dominant-indices/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3833-count-dominant-indices.cpp",
+          "path": "leetcode/3833-count-dominant-indices/3833-count-dominant-indices.cpp",
+          "sha": "2777efe391bcac05fc7ca1211d9964e8617485f5",
+          "lastSyncedAt": "2026-10-22T09:00:05.186Z"
         }
       ]
     },
