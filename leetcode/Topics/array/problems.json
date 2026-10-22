@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:58:04.495Z",
+  "updatedAt": "2026-10-22T08:58:15.369Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "leetcode/0835-image-overlap/0835-image-overlap.cpp",
           "sha": "f44d0c27cea82a69bc9514ba7d4b2216c2d66ad1",
           "lastSyncedAt": "2026-10-22T08:48:17.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1140",
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "problemName": "1140-stone-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ii/",
+      "folderPath": "leetcode/1140-stone-game-ii/",
+      "readmePath": "leetcode/1140-stone-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1140-stone-game-ii.cpp",
+          "path": "leetcode/1140-stone-game-ii/1140-stone-game-ii.cpp",
+          "sha": "aa812d5ec19a5f3695202573e29fda14c61ad846",
+          "lastSyncedAt": "2026-10-22T08:58:15.369Z"
         }
       ]
     },
