@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T11:17:05.841Z",
+  "updatedAt": "2026-10-22T11:17:08.804Z",
   "problems": [
     {
       "frontendId": "5",
@@ -83,7 +83,7 @@
           "filename": "0022-generate-parentheses.cpp",
           "path": "leetcode/0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "41bc03132f3aad5cd3c592d5e49cd3c916a3a02a",
-          "lastSyncedAt": "2026-10-22T10:51:30.506Z"
+          "lastSyncedAt": "2026-10-22T11:17:08.804Z"
         }
       ]
     },
