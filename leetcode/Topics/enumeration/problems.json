@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-22T09:14:29.828Z",
+  "updatedAt": "2026-10-22T09:14:40.166Z",
   "problems": [
     {
       "frontendId": "2778",
@@ -84,6 +84,26 @@
           "path": "leetcode/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/3734-lexicographically-smallest-palindromic-permutation-greater-than-target.cpp",
           "sha": "a1829d34dc3be93d5ac0de27821386e311be44e6",
           "lastSyncedAt": "2026-10-22T09:08:40.773Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3827",
+      "title": "Count Monobit Integers",
+      "slug": "count-monobit-integers",
+      "problemName": "3827-count-monobit-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-monobit-integers/",
+      "folderPath": "leetcode/3827-count-monobit-integers/",
+      "readmePath": "leetcode/3827-count-monobit-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3827-count-monobit-integers.cpp",
+          "path": "leetcode/3827-count-monobit-integers/3827-count-monobit-integers.cpp",
+          "sha": "86ae5dfab2b2bf050b416b669536e8681e5a0ad4",
+          "lastSyncedAt": "2026-10-22T09:14:40.166Z"
         }
       ]
     },
