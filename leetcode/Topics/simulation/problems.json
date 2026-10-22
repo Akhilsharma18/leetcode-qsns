@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T09:26:31.984Z",
+  "updatedAt": "2026-10-22T09:26:41.839Z",
   "problems": [
     {
       "frontendId": "682",
@@ -44,6 +44,26 @@
           "path": "leetcode/1260-shift-2d-grid/1260-shift-2d-grid.cpp",
           "sha": "2db56e98070d59540769f802c45e6aa5932a125a",
           "lastSyncedAt": "2026-10-22T09:19:51.456Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1700",
+      "title": "Number of Students Unable to Eat Lunch",
+      "slug": "number-of-students-unable-to-eat-lunch",
+      "problemName": "1700-number-of-students-unable-to-eat-lunch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
+      "folderPath": "leetcode/1700-number-of-students-unable-to-eat-lunch/",
+      "readmePath": "leetcode/1700-number-of-students-unable-to-eat-lunch/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1700-number-of-students-unable-to-eat-lunch.cpp",
+          "path": "leetcode/1700-number-of-students-unable-to-eat-lunch/1700-number-of-students-unable-to-eat-lunch.cpp",
+          "sha": "5bd673739d735909f1dd4c5b52d30eece1bfb64f",
+          "lastSyncedAt": "2026-10-22T09:26:41.839Z"
         }
       ]
     },
