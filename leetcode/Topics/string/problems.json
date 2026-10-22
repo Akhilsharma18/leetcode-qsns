@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:45:07.576Z",
+  "updatedAt": "2026-10-22T08:45:17.972Z",
   "problems": [
     {
       "frontendId": "20",
@@ -244,6 +244,26 @@
           "path": "leetcode/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "20be2bc46490ab02f702b98a8d009889131cae9b",
           "lastSyncedAt": "2026-10-22T08:44:58.178Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1807",
+      "title": "Evaluate the Bracket Pairs of a String",
+      "slug": "evaluate-the-bracket-pairs-of-a-string",
+      "problemName": "1807-evaluate-the-bracket-pairs-of-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/",
+      "folderPath": "leetcode/1807-evaluate-the-bracket-pairs-of-a-string/",
+      "readmePath": "leetcode/1807-evaluate-the-bracket-pairs-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1807-evaluate-the-bracket-pairs-of-a-string.cpp",
+          "path": "leetcode/1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.cpp",
+          "sha": "3a5cdb210d8fd216eb9f11a71901e3dea2b25c37",
+          "lastSyncedAt": "2026-10-22T08:45:17.972Z"
         }
       ]
     },
