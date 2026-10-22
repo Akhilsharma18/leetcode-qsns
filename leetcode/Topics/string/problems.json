@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T09:00:08.306Z",
+  "updatedAt": "2026-10-22T09:02:03.725Z",
   "problems": [
     {
       "frontendId": "14",
@@ -363,7 +363,7 @@
           "filename": "1541-minimum-insertions-to-balance-a-parentheses-string.cpp",
           "path": "leetcode/1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.cpp",
           "sha": "5f91c6061e26db55d37639015c98af2d947b6e0b",
-          "lastSyncedAt": "2026-10-22T08:42:49.488Z"
+          "lastSyncedAt": "2026-10-22T09:02:03.725Z"
         }
       ]
     },
