@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-22T08:51:20.704Z",
+  "updatedAt": "2026-10-22T08:51:30.653Z",
   "problems": [
     {
       "frontendId": "2778",
@@ -44,6 +44,26 @@
           "path": "leetcode/3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.cpp",
           "sha": "31c98bdf9b06737ad021b23372081bcc4154fbc5",
           "lastSyncedAt": "2026-10-22T08:48:38.355Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3720",
+      "title": "Lexicographically Smallest Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-permutation-greater-than-target",
+      "problemName": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
+      "folderPath": "leetcode/3720-lexicographically-smallest-permutation-greater-than-target/",
+      "readmePath": "leetcode/3720-lexicographically-smallest-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3720-lexicographically-smallest-permutation-greater-than-target.cpp",
+          "path": "leetcode/3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.cpp",
+          "sha": "8c3cdc41b03c9c1eacb182b4f9b5792e1fe4d4f9",
+          "lastSyncedAt": "2026-10-22T08:51:30.653Z"
         }
       ]
     },
