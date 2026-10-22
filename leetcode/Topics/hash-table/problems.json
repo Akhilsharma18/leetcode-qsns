@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T10:49:53.374Z",
+  "updatedAt": "2026-10-22T10:52:33.577Z",
   "problems": [
     {
       "frontendId": "1",
@@ -274,8 +274,8 @@
       "problemName": "1807-evaluate-the-bracket-pairs-of-a-string",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/",
-      "folderPath": "leetcode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/",
-      "readmePath": "leetcode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/README.md",
+      "folderPath": "leetcode/1807-evaluate-the-bracket-pairs-of-a-string/",
+      "readmePath": "leetcode/1807-evaluate-the-bracket-pairs-of-a-string/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -283,7 +283,7 @@
           "filename": "1807-evaluate-the-bracket-pairs-of-a-string.cpp",
           "path": "leetcode/1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.cpp",
           "sha": "3a5cdb210d8fd216eb9f11a71901e3dea2b25c37",
-          "lastSyncedAt": "2026-10-22T09:48:08.508Z"
+          "lastSyncedAt": "2026-10-22T10:52:33.577Z"
         }
       ]
     },
