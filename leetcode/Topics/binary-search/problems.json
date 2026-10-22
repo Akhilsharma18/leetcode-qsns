@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-22T08:48:25.291Z",
+  "updatedAt": "2026-10-22T08:52:48.171Z",
   "problems": [
     {
       "frontendId": "1477",
@@ -84,6 +84,26 @@
           "path": "leetcode/2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
           "sha": "49c8ba64f353161beb872d5929a9423e349c2718",
           "lastSyncedAt": "2026-10-22T08:42:33.964Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3116",
+      "title": "Kth Smallest Amount With Single Denomination Combination",
+      "slug": "kth-smallest-amount-with-single-denomination-combination",
+      "problemName": "3116-kth-smallest-amount-with-single-denomination-combination",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/",
+      "folderPath": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/",
+      "readmePath": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3116-kth-smallest-amount-with-single-denomination-combination.cpp",
+          "path": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.cpp",
+          "sha": "f1debdf8747a70ebde5166386f96a75ac2a13187",
+          "lastSyncedAt": "2026-10-22T08:52:48.171Z"
         }
       ]
     },
