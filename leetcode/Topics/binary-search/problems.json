@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-22T08:59:48.619Z",
+  "updatedAt": "2026-10-22T09:00:22.442Z",
   "problems": [
     {
       "frontendId": "349",
@@ -103,7 +103,7 @@
           "filename": "2089-find-target-indices-after-sorting-array.cpp",
           "path": "leetcode/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "4ee62b86a6117083da121d58a73d7e00c9b385e2",
-          "lastSyncedAt": "2026-10-22T08:40:19.823Z"
+          "lastSyncedAt": "2026-10-22T09:00:22.442Z"
         }
       ]
     },
