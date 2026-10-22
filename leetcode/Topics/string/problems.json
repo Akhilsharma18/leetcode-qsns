@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T10:58:04.649Z",
+  "updatedAt": "2026-10-22T10:58:14.289Z",
   "problems": [
     {
       "frontendId": "5",
@@ -814,8 +814,8 @@
       "problemName": "3720-lexicographically-smallest-permutation-greater-than-target",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
-      "folderPath": "leetcode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/",
-      "readmePath": "leetcode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/README.md",
+      "folderPath": "leetcode/3720-lexicographically-smallest-permutation-greater-than-target/",
+      "readmePath": "leetcode/3720-lexicographically-smallest-permutation-greater-than-target/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -823,7 +823,7 @@
           "filename": "3720-lexicographically-smallest-permutation-greater-than-target.cpp",
           "path": "leetcode/3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.cpp",
           "sha": "8c3cdc41b03c9c1eacb182b4f9b5792e1fe4d4f9",
-          "lastSyncedAt": "2026-10-22T09:52:46.797Z"
+          "lastSyncedAt": "2026-10-22T10:58:14.289Z"
         }
       ]
     },
