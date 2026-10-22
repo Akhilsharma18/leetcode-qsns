@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-22T08:44:35.355Z",
+  "updatedAt": "2026-10-22T08:44:44.210Z",
   "problems": [
     {
       "frontendId": "20",
@@ -184,6 +184,26 @@
           "path": "leetcode/1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.cpp",
           "sha": "5f91c6061e26db55d37639015c98af2d947b6e0b",
           "lastSyncedAt": "2026-10-22T08:42:49.488Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "problemName": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/",
+      "folderPath": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/",
+      "readmePath": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
+          "path": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
+          "sha": "20236ba50f2f1a7fbc3c162f551eecf495a13989",
+          "lastSyncedAt": "2026-10-22T08:44:44.210Z"
         }
       ]
     }
