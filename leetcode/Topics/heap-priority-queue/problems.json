@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-22T09:13:34.409Z",
+  "updatedAt": "2026-10-22T09:18:11.341Z",
   "problems": [
     {
       "frontendId": "506",
@@ -44,6 +44,26 @@
           "path": "leetcode/0912-sort-an-array/0912-sort-an-array.cpp",
           "sha": "2f168417f3a3e9dc875c0ea7ebfaf43b2235c28d",
           "lastSyncedAt": "2026-10-22T09:13:34.409Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "problemName": "1464-maximum-product-of-two-elements-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+      "folderPath": "leetcode/1464-maximum-product-of-two-elements-in-an-array/",
+      "readmePath": "leetcode/1464-maximum-product-of-two-elements-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1464-maximum-product-of-two-elements-in-an-array.java",
+          "path": "leetcode/1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.java",
+          "sha": "fc69dac2ce21a5526ea1cc07ec1d9216463d6f33",
+          "lastSyncedAt": "2026-10-22T09:18:11.341Z"
         }
       ]
     },
