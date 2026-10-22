@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:00:07.522Z",
+  "updatedAt": "2026-10-22T11:00:21.411Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1174,8 +1174,8 @@
       "problemName": "3471-find-the-largest-almost-missing-integer",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/",
-      "folderPath": "leetcode/Easy/3471-find-the-largest-almost-missing-integer/",
-      "readmePath": "leetcode/Easy/3471-find-the-largest-almost-missing-integer/README.md",
+      "folderPath": "leetcode/3471-find-the-largest-almost-missing-integer/",
+      "readmePath": "leetcode/3471-find-the-largest-almost-missing-integer/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -1183,7 +1183,7 @@
           "filename": "3471-find-the-largest-almost-missing-integer.cpp",
           "path": "leetcode/3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.cpp",
           "sha": "95b13bd87275e36850eba18ff8562d78893407d1",
-          "lastSyncedAt": "2026-10-22T09:54:18.326Z"
+          "lastSyncedAt": "2026-10-22T11:00:21.411Z"
         }
       ]
     },
