@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-22T09:55:06.779Z",
+  "updatedAt": "2026-10-22T09:55:26.379Z",
   "problems": [
     {
       "frontendId": "594",
@@ -94,8 +94,8 @@
       "problemName": "2958-length-of-longest-subarray-with-at-most-k-frequency",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/",
-      "folderPath": "leetcode/2958-length-of-longest-subarray-with-at-most-k-frequency/",
-      "readmePath": "leetcode/2958-length-of-longest-subarray-with-at-most-k-frequency/README.md",
+      "folderPath": "leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/",
+      "readmePath": "leetcode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -103,7 +103,7 @@
           "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
           "path": "leetcode/2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.cpp",
           "sha": "37dd58186794da8303912e6902aede206dae259c",
-          "lastSyncedAt": "2026-10-22T09:11:10.381Z"
+          "lastSyncedAt": "2026-10-22T09:55:26.379Z"
         }
       ]
     },
