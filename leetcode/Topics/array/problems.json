@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T10:55:49.385Z",
+  "updatedAt": "2026-10-22T10:56:46.628Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1694,8 +1694,8 @@
       "problemName": "3904-smallest-stable-index-ii",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
-      "folderPath": "leetcode/Medium/3904-smallest-stable-index-ii/",
-      "readmePath": "leetcode/Medium/3904-smallest-stable-index-ii/README.md",
+      "folderPath": "leetcode/3904-smallest-stable-index-ii/",
+      "readmePath": "leetcode/3904-smallest-stable-index-ii/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -1703,7 +1703,7 @@
           "filename": "3904-smallest-stable-index-ii.cpp",
           "path": "leetcode/3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.cpp",
           "sha": "f553d983e9ebec3f08d34794e43ddb58c4fe1224",
-          "lastSyncedAt": "2026-10-22T09:51:34.929Z"
+          "lastSyncedAt": "2026-10-22T10:56:46.628Z"
         }
       ]
     }
