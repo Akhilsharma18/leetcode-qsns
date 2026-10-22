@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:47:54.304Z",
+  "updatedAt": "2026-10-22T08:49:12.389Z",
   "problems": [
     {
       "frontendId": "20",
@@ -144,6 +144,26 @@
           "path": "leetcode/0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp",
           "sha": "00417ac02a813bea8f2b3d1e6b0367f6660926ac",
           "lastSyncedAt": "2026-10-22T08:43:29.632Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "940",
+      "title": "Distinct Subsequences II",
+      "slug": "distinct-subsequences-ii",
+      "problemName": "0940-distinct-subsequences-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences-ii/",
+      "folderPath": "leetcode/0940-distinct-subsequences-ii/",
+      "readmePath": "leetcode/0940-distinct-subsequences-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0940-distinct-subsequences-ii.cpp",
+          "path": "leetcode/0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.cpp",
+          "sha": "e8fd28a979eccaff3936e7b5d74e58505c23cc6a",
+          "lastSyncedAt": "2026-10-22T08:49:12.389Z"
         }
       ]
     },
