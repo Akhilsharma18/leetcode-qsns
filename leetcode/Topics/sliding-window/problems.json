@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-22T10:54:44.153Z",
+  "updatedAt": "2026-10-22T10:58:27.565Z",
   "problems": [
     {
       "frontendId": "594",
@@ -74,8 +74,8 @@
       "problemName": "2904-shortest-and-lexicographically-smallest-beautiful-string",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/",
-      "folderPath": "leetcode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/",
-      "readmePath": "leetcode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/README.md",
+      "folderPath": "leetcode/2904-shortest-and-lexicographically-smallest-beautiful-string/",
+      "readmePath": "leetcode/2904-shortest-and-lexicographically-smallest-beautiful-string/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -83,7 +83,7 @@
           "filename": "2904-shortest-and-lexicographically-smallest-beautiful-string.cpp",
           "path": "leetcode/2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.cpp",
           "sha": "d79c8b6af329ea75a05862dba81a4974573e79f5",
-          "lastSyncedAt": "2026-10-22T09:52:57.865Z"
+          "lastSyncedAt": "2026-10-22T10:58:27.565Z"
         }
       ]
     },
