@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-22T09:52:57.865Z",
+  "updatedAt": "2026-10-22T09:55:06.779Z",
   "problems": [
     {
       "frontendId": "594",
@@ -114,8 +114,8 @@
       "problemName": "3090-maximum-length-substring-with-two-occurrences",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
-      "folderPath": "leetcode/3090-maximum-length-substring-with-two-occurrences/",
-      "readmePath": "leetcode/3090-maximum-length-substring-with-two-occurrences/README.md",
+      "folderPath": "leetcode/Easy/3090-maximum-length-substring-with-two-occurrences/",
+      "readmePath": "leetcode/Easy/3090-maximum-length-substring-with-two-occurrences/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -123,7 +123,7 @@
           "filename": "3090-maximum-length-substring-with-two-occurrences.cpp",
           "path": "leetcode/3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.cpp",
           "sha": "8fdc214912a1d69fcecf0bcae7c09d10fa10de13",
-          "lastSyncedAt": "2026-10-22T09:10:55.369Z"
+          "lastSyncedAt": "2026-10-22T09:55:06.779Z"
         }
       ]
     }
