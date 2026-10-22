@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:48:17.205Z",
+  "updatedAt": "2026-10-22T08:48:25.291Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "leetcode/2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.cpp",
           "sha": "0cca4e8438bd33a32cc7648e850e8d712636b222",
           "lastSyncedAt": "2026-10-22T08:41:25.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3414",
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "slug": "maximum-score-of-non-overlapping-intervals",
+      "problemName": "3414-maximum-score-of-non-overlapping-intervals",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/",
+      "folderPath": "leetcode/3414-maximum-score-of-non-overlapping-intervals/",
+      "readmePath": "leetcode/3414-maximum-score-of-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3414-maximum-score-of-non-overlapping-intervals.cpp",
+          "path": "leetcode/3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.cpp",
+          "sha": "3056c6739b270a6b79113307cb6140d71296d1d3",
+          "lastSyncedAt": "2026-10-22T08:48:25.291Z"
         }
       ]
     },
