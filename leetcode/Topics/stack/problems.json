@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-22T08:45:07.576Z",
+  "updatedAt": "2026-10-22T08:45:43.734Z",
   "problems": [
     {
       "frontendId": "20",
@@ -124,6 +124,26 @@
           "path": "leetcode/1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "652d9053bb3d8a1b5da26d244a61cfa541a03252",
           "lastSyncedAt": "2026-10-22T08:43:06.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "leetcode/1096-brace-expansion-ii/",
+      "readmePath": "leetcode/1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1096-brace-expansion-ii.cpp",
+          "path": "leetcode/1096-brace-expansion-ii/1096-brace-expansion-ii.cpp",
+          "sha": "76fe89a260b793c8724acc88d72bb77d402d0cef",
+          "lastSyncedAt": "2026-10-22T08:45:43.734Z"
         }
       ]
     },
