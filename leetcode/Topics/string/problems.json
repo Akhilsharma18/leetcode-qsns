@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T10:42:35.380Z",
+  "updatedAt": "2026-10-22T10:42:46.715Z",
   "problems": [
     {
       "frontendId": "5",
@@ -254,8 +254,8 @@
       "problemName": "0856-score-of-parentheses",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
-      "folderPath": "leetcode/Medium/0856-score-of-parentheses/",
-      "readmePath": "leetcode/Medium/0856-score-of-parentheses/README.md",
+      "folderPath": "leetcode/0856-score-of-parentheses/",
+      "readmePath": "leetcode/0856-score-of-parentheses/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -263,7 +263,7 @@
           "filename": "0856-score-of-parentheses.cpp",
           "path": "leetcode/0856-score-of-parentheses/0856-score-of-parentheses.cpp",
           "sha": "22d8becba799c49447827adb0f52293dda3f0cbb",
-          "lastSyncedAt": "2026-10-22T09:46:46.942Z"
+          "lastSyncedAt": "2026-10-22T10:42:46.715Z"
         }
       ]
     },
