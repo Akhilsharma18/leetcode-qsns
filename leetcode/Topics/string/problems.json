@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T10:42:46.715Z",
+  "updatedAt": "2026-10-22T10:42:54.714Z",
   "problems": [
     {
       "frontendId": "5",
@@ -234,8 +234,8 @@
       "problemName": "0678-valid-parenthesis-string",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
-      "folderPath": "leetcode/Medium/0678-valid-parenthesis-string/",
-      "readmePath": "leetcode/Medium/0678-valid-parenthesis-string/README.md",
+      "folderPath": "leetcode/0678-valid-parenthesis-string/",
+      "readmePath": "leetcode/0678-valid-parenthesis-string/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -243,7 +243,7 @@
           "filename": "0678-valid-parenthesis-string.cpp",
           "path": "leetcode/0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
           "sha": "26903116d8da4d323d8a7009371cc0f3a6e48a59",
-          "lastSyncedAt": "2026-10-22T09:46:54.532Z"
+          "lastSyncedAt": "2026-10-22T10:42:54.714Z"
         }
       ]
     },
