@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-22T11:15:27.025Z",
+  "updatedAt": "2026-10-22T11:22:27.274Z",
   "problems": [
     {
       "frontendId": "387",
@@ -223,7 +223,7 @@
           "filename": "3720-lexicographically-smallest-permutation-greater-than-target.cpp",
           "path": "leetcode/3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.cpp",
           "sha": "8c3cdc41b03c9c1eacb182b4f9b5792e1fe4d4f9",
-          "lastSyncedAt": "2026-10-22T10:58:14.289Z"
+          "lastSyncedAt": "2026-10-22T11:22:27.274Z"
         }
       ]
     },
