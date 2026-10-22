@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:17:35.888Z",
+  "updatedAt": "2026-10-22T09:18:00.993Z",
   "problems": [
     {
       "frontendId": "168",
@@ -444,6 +444,26 @@
           "path": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.cpp",
           "sha": "f1debdf8747a70ebde5166386f96a75ac2a13187",
           "lastSyncedAt": "2026-10-22T09:09:39.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3222",
+      "title": "Find the Winning Player in Coin Game",
+      "slug": "find-the-winning-player-in-coin-game",
+      "problemName": "3222-find-the-winning-player-in-coin-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-winning-player-in-coin-game/",
+      "folderPath": "leetcode/3222-find-the-winning-player-in-coin-game/",
+      "readmePath": "leetcode/3222-find-the-winning-player-in-coin-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3222-find-the-winning-player-in-coin-game.cpp",
+          "path": "leetcode/3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.cpp",
+          "sha": "c137ee2fbfb2f810e7bef09c7aa6526c7d12560d",
+          "lastSyncedAt": "2026-10-22T09:18:00.993Z"
         }
       ]
     },
