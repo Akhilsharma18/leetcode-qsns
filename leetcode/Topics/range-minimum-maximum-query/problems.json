@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "range-minimum-maximum-query",
+    "name": "Range Minimum/Maximum Query",
+    "tagId": "122086"
+  },
+  "updatedAt": "2026-10-22T09:26:53.392Z",
+  "problems": [
+    {
+      "frontendId": "84",
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "problemName": "0084-largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "folderPath": "leetcode/0084-largest-rectangle-in-histogram/",
+      "readmePath": "leetcode/0084-largest-rectangle-in-histogram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0084-largest-rectangle-in-histogram.cpp",
+          "path": "leetcode/0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
+          "sha": "7cc68220d60a5767cd8117a7ce66b71ce609bca9",
+          "lastSyncedAt": "2026-10-22T09:26:53.392Z"
+        }
+      ]
+    }
+  ]
+}
