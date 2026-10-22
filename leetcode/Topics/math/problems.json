@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T11:08:45.187Z",
+  "updatedAt": "2026-10-22T11:09:09.407Z",
   "problems": [
     {
       "frontendId": "168",
@@ -563,7 +563,7 @@
           "filename": "3222-find-the-winning-player-in-coin-game.cpp",
           "path": "leetcode/3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.cpp",
           "sha": "c137ee2fbfb2f810e7bef09c7aa6526c7d12560d",
-          "lastSyncedAt": "2026-10-22T09:18:00.993Z"
+          "lastSyncedAt": "2026-10-22T11:09:09.407Z"
         }
       ]
     },
