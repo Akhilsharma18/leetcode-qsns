@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:44:58.178Z",
+  "updatedAt": "2026-10-22T08:45:07.576Z",
   "problems": [
     {
       "frontendId": "20",
@@ -184,6 +184,26 @@
           "path": "leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp",
           "sha": "3e9aa9bcee19c809f21ea129036c4336c2dfcdcd",
           "lastSyncedAt": "2026-10-22T08:44:35.355Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1190",
+      "title": "Reverse Substrings Between Each Pair of Parentheses",
+      "slug": "reverse-substrings-between-each-pair-of-parentheses",
+      "problemName": "1190-reverse-substrings-between-each-pair-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/",
+      "folderPath": "leetcode/1190-reverse-substrings-between-each-pair-of-parentheses/",
+      "readmePath": "leetcode/1190-reverse-substrings-between-each-pair-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1190-reverse-substrings-between-each-pair-of-parentheses.cpp",
+          "path": "leetcode/1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.cpp",
+          "sha": "84476a5573876a63a85fc52f4254145e4432d410",
+          "lastSyncedAt": "2026-10-22T08:45:07.576Z"
         }
       ]
     },
