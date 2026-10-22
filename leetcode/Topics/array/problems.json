@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:48:25.291Z",
+  "updatedAt": "2026-10-22T08:48:38.355Z",
   "problems": [
     {
       "frontendId": "1",
@@ -304,6 +304,26 @@
           "path": "leetcode/3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.cpp",
           "sha": "3056c6739b270a6b79113307cb6140d71296d1d3",
           "lastSyncedAt": "2026-10-22T08:48:25.291Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "problemName": "3483-unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+      "folderPath": "leetcode/3483-unique-3-digit-even-numbers/",
+      "readmePath": "leetcode/3483-unique-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3483-unique-3-digit-even-numbers.cpp",
+          "path": "leetcode/3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.cpp",
+          "sha": "31c98bdf9b06737ad021b23372081bcc4154fbc5",
+          "lastSyncedAt": "2026-10-22T08:48:38.355Z"
         }
       ]
     },
