@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:45:43.734Z",
+  "updatedAt": "2026-10-22T08:46:51.665Z",
   "problems": [
     {
       "frontendId": "20",
@@ -284,6 +284,26 @@
           "path": "leetcode/1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.cpp",
           "sha": "3a5cdb210d8fd216eb9f11a71901e3dea2b25c37",
           "lastSyncedAt": "2026-10-22T08:45:17.972Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3498",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "problemName": "3498-reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/",
+      "folderPath": "leetcode/3498-reverse-degree-of-a-string/",
+      "readmePath": "leetcode/3498-reverse-degree-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3498-reverse-degree-of-a-string.cpp",
+          "path": "leetcode/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp",
+          "sha": "a7ebe8db9ea97c25abe39275fa15f7341dc5da71",
+          "lastSyncedAt": "2026-10-22T08:46:51.665Z"
         }
       ]
     },
