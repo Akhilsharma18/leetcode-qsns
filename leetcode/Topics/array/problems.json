@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:56:51.467Z",
+  "updatedAt": "2026-10-22T09:57:00.579Z",
   "problems": [
     {
       "frontendId": "1",
@@ -154,8 +154,8 @@
       "problemName": "0506-relative-ranks",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/relative-ranks/",
-      "folderPath": "leetcode/0506-relative-ranks/",
-      "readmePath": "leetcode/0506-relative-ranks/README.md",
+      "folderPath": "leetcode/Easy/0506-relative-ranks/",
+      "readmePath": "leetcode/Easy/0506-relative-ranks/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -163,7 +163,7 @@
           "filename": "0506-relative-ranks.cpp",
           "path": "leetcode/0506-relative-ranks/0506-relative-ranks.cpp",
           "sha": "13d687c1fa8f0f75783ca7718c2b54ec07782e75",
-          "lastSyncedAt": "2026-10-22T09:12:27.974Z"
+          "lastSyncedAt": "2026-10-22T09:57:00.579Z"
         }
       ]
     },
