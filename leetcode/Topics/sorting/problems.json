@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting",
+    "tagId": "61049"
+  },
+  "updatedAt": "2026-10-22T08:39:58.188Z",
+  "problems": [
+    {
+      "frontendId": "3886",
+      "title": "Sum of Sortable Integers",
+      "slug": "sum-of-sortable-integers",
+      "problemName": "3886-sum-of-sortable-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-sortable-integers/",
+      "folderPath": "leetcode/3886-sum-of-sortable-integers/",
+      "readmePath": "leetcode/3886-sum-of-sortable-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3886-sum-of-sortable-integers.cpp",
+          "path": "leetcode/3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.cpp",
+          "sha": "8c180881343427ec786c4df319691d48e1b2748a",
+          "lastSyncedAt": "2026-10-22T08:39:58.188Z"
+        }
+      ]
+    }
+  ]
+}
