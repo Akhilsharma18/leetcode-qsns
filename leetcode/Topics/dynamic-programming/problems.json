@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T10:54:44.153Z",
+  "updatedAt": "2026-10-22T10:54:58.601Z",
   "problems": [
     {
       "frontendId": "5",
@@ -354,8 +354,8 @@
       "problemName": "1621-number-of-sets-of-k-non-overlapping-line-segments",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/",
-      "folderPath": "leetcode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/",
-      "readmePath": "leetcode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/README.md",
+      "folderPath": "leetcode/1621-number-of-sets-of-k-non-overlapping-line-segments/",
+      "readmePath": "leetcode/1621-number-of-sets-of-k-non-overlapping-line-segments/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -363,7 +363,7 @@
           "filename": "1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
           "path": "leetcode/1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
           "sha": "16427f352cc894f3e2b4d11f68462488cb3022d8",
-          "lastSyncedAt": "2026-10-22T09:49:51.448Z"
+          "lastSyncedAt": "2026-10-22T10:54:58.601Z"
         }
       ]
     },
