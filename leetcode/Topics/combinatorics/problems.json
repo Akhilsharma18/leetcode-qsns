@@ -5,7 +5,7 @@
     "name": "Combinatorics",
     "tagId": "61056"
   },
-  "updatedAt": "2026-10-22T09:09:39.641Z",
+  "updatedAt": "2026-10-22T09:17:35.888Z",
   "problems": [
     {
       "frontendId": "1569",
@@ -64,6 +64,26 @@
           "path": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.cpp",
           "sha": "f1debdf8747a70ebde5166386f96a75ac2a13187",
           "lastSyncedAt": "2026-10-22T09:09:39.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3518",
+      "title": "Smallest Palindromic Rearrangement II",
+      "slug": "smallest-palindromic-rearrangement-ii",
+      "problemName": "3518-smallest-palindromic-rearrangement-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
+      "folderPath": "leetcode/3518-smallest-palindromic-rearrangement-ii/",
+      "readmePath": "leetcode/3518-smallest-palindromic-rearrangement-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3518-smallest-palindromic-rearrangement-ii.cpp",
+          "path": "leetcode/3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.cpp",
+          "sha": "5fb07944e67bd40ceafe7db9c9bd2a16c7cdaac0",
+          "lastSyncedAt": "2026-10-22T09:17:35.888Z"
         }
       ]
     }
