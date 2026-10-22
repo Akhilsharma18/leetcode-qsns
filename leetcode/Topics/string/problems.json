@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:42:49.488Z",
+  "updatedAt": "2026-10-22T08:43:06.286Z",
   "problems": [
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "leetcode/1021-remove-outermost-parentheses/",
+      "readmePath": "leetcode/1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1021-remove-outermost-parentheses.cpp",
+          "path": "leetcode/1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
+          "sha": "652d9053bb3d8a1b5da26d244a61cfa541a03252",
+          "lastSyncedAt": "2026-10-22T08:43:06.286Z"
+        }
+      ]
+    },
     {
       "frontendId": "1541",
       "title": "Minimum Insertions to Balance a Parentheses String",
