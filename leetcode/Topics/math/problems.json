@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:23:16.538Z",
+  "updatedAt": "2026-10-22T09:24:32.280Z",
   "problems": [
     {
       "frontendId": "168",
@@ -164,6 +164,26 @@
           "path": "leetcode/0877-stone-game/0877-stone-game.cpp",
           "sha": "78176b57d82d37a6ae27193bc76b26a2a5c4d01e",
           "lastSyncedAt": "2026-10-22T09:15:55.584Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "989",
+      "title": "Add to Array-Form of Integer",
+      "slug": "add-to-array-form-of-integer",
+      "problemName": "0989-add-to-array-form-of-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+      "folderPath": "leetcode/0989-add-to-array-form-of-integer/",
+      "readmePath": "leetcode/0989-add-to-array-form-of-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0989-add-to-array-form-of-integer.cpp",
+          "path": "leetcode/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.cpp",
+          "sha": "70c08d751ea779b876b896d755c8fe45e7f3dbfe",
+          "lastSyncedAt": "2026-10-22T09:24:32.280Z"
         }
       ]
     },
