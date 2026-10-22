@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T09:52:29.664Z",
+  "updatedAt": "2026-10-22T09:55:34.532Z",
   "problems": [
     {
       "frontendId": "15",
@@ -414,8 +414,8 @@
       "problemName": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/",
-      "folderPath": "leetcode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/",
-      "readmePath": "leetcode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/README.md",
+      "folderPath": "leetcode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/",
+      "readmePath": "leetcode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -423,7 +423,7 @@
           "filename": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "path": "leetcode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "sha": "565b074d0c0adb9d420407413e75dfc9017f25f5",
-          "lastSyncedAt": "2026-10-22T09:11:17.010Z"
+          "lastSyncedAt": "2026-10-22T09:55:34.532Z"
         }
       ]
     },
