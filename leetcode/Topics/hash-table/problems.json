@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T11:13:49.205Z",
+  "updatedAt": "2026-10-22T11:13:55.176Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,7 +103,7 @@
           "filename": "0451-sort-characters-by-frequency.cpp",
           "path": "leetcode/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
           "sha": "fa438154db5651e378b7d1282f1a5c53d5bb7151",
-          "lastSyncedAt": "2026-10-22T09:23:32.142Z"
+          "lastSyncedAt": "2026-10-22T11:13:55.176Z"
         }
       ]
     },
