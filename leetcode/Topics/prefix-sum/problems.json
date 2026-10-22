@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-22T08:47:41.934Z",
+  "updatedAt": "2026-10-22T08:49:46.458Z",
   "problems": [
     {
       "frontendId": "1621",
@@ -44,6 +44,26 @@
           "path": "leetcode/1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
           "sha": "bda38902a431073930a1a5191d1a7cc79a245140",
           "lastSyncedAt": "2026-10-22T08:46:12.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3904",
+      "title": "Smallest Stable Index II",
+      "slug": "smallest-stable-index-ii",
+      "problemName": "3904-smallest-stable-index-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
+      "folderPath": "leetcode/3904-smallest-stable-index-ii/",
+      "readmePath": "leetcode/3904-smallest-stable-index-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3904-smallest-stable-index-ii.cpp",
+          "path": "leetcode/3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.cpp",
+          "sha": "f553d983e9ebec3f08d34794e43ddb58c4fe1224",
+          "lastSyncedAt": "2026-10-22T08:49:46.458Z"
         }
       ]
     }
