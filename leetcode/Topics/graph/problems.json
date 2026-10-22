@@ -5,8 +5,28 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-10-22T09:15:04.642Z",
+  "updatedAt": "2026-10-22T09:22:15.516Z",
   "problems": [
+    {
+      "frontendId": "2685",
+      "title": "Count the Number of Complete Components",
+      "slug": "count-the-number-of-complete-components",
+      "problemName": "2685-count-the-number-of-complete-components",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-complete-components/",
+      "folderPath": "leetcode/2685-count-the-number-of-complete-components/",
+      "readmePath": "leetcode/2685-count-the-number-of-complete-components/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2685-count-the-number-of-complete-components.cpp",
+          "path": "leetcode/2685-count-the-number-of-complete-components/2685-count-the-number-of-complete-components.cpp",
+          "sha": "bcc138860e293f42cd437a70ecbbb42f3d3dd65c",
+          "lastSyncedAt": "2026-10-22T09:22:15.516Z"
+        }
+      ]
+    },
     {
       "frontendId": "3310",
       "title": "Remove Methods From Project",
