@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T08:47:41.934Z",
+  "updatedAt": "2026-10-22T08:48:09.366Z",
   "problems": [
+    {
+      "frontendId": "836",
+      "title": "Rectangle Overlap",
+      "slug": "rectangle-overlap",
+      "problemName": "0836-rectangle-overlap",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap/",
+      "folderPath": "leetcode/0836-rectangle-overlap/",
+      "readmePath": "leetcode/0836-rectangle-overlap/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0836-rectangle-overlap.cpp",
+          "path": "leetcode/0836-rectangle-overlap/0836-rectangle-overlap.cpp",
+          "sha": "204913dd62668d49f40772a8d670a230a3690567",
+          "lastSyncedAt": "2026-10-22T08:48:09.366Z"
+        }
+      ]
+    },
     {
       "frontendId": "1401",
       "title": "Circle and Rectangle Overlapping",
