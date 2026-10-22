@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:09:36.450Z",
+  "updatedAt": "2026-10-22T09:09:39.641Z",
   "problems": [
     {
       "frontendId": "168",
@@ -303,7 +303,7 @@
           "filename": "3116-kth-smallest-amount-with-single-denomination-combination.cpp",
           "path": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.cpp",
           "sha": "f1debdf8747a70ebde5166386f96a75ac2a13187",
-          "lastSyncedAt": "2026-10-22T08:52:48.171Z"
+          "lastSyncedAt": "2026-10-22T09:09:39.641Z"
         }
       ]
     },
