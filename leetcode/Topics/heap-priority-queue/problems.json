@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-22T10:50:10.265Z",
+  "updatedAt": "2026-10-22T11:02:52.221Z",
   "problems": [
     {
       "frontendId": "451",
@@ -94,8 +94,8 @@
       "problemName": "2231-largest-number-after-digit-swaps-by-parity",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/",
-      "folderPath": "leetcode/Easy/2231-largest-number-after-digit-swaps-by-parity/",
-      "readmePath": "leetcode/Easy/2231-largest-number-after-digit-swaps-by-parity/README.md",
+      "folderPath": "leetcode/2231-largest-number-after-digit-swaps-by-parity/",
+      "readmePath": "leetcode/2231-largest-number-after-digit-swaps-by-parity/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -103,7 +103,7 @@
           "filename": "2231-largest-number-after-digit-swaps-by-parity.cpp",
           "path": "leetcode/2231-largest-number-after-digit-swaps-by-parity/2231-largest-number-after-digit-swaps-by-parity.cpp",
           "sha": "a56d560d212ce2c7589b96652edb17fb55717f45",
-          "lastSyncedAt": "2026-10-22T09:56:24.473Z"
+          "lastSyncedAt": "2026-10-22T11:02:52.221Z"
         }
       ]
     },
