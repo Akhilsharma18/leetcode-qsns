@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T11:16:54.993Z",
+  "updatedAt": "2026-10-22T11:17:54.686Z",
   "problems": [
     {
       "frontendId": "5",
@@ -124,6 +124,26 @@
           "path": "leetcode/2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.cpp",
           "sha": "a1e38e073f1084529fedd5e24a80a39a9c1261d3",
           "lastSyncedAt": "2026-10-22T11:16:54.993Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "leetcode/2161-partition-array-according-to-given-pivot/",
+      "readmePath": "leetcode/2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2161-partition-array-according-to-given-pivot.cpp",
+          "path": "leetcode/2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.cpp",
+          "sha": "e7453ea793676557f0551cb7ef735587ab8de29e",
+          "lastSyncedAt": "2026-10-22T11:17:54.686Z"
         }
       ]
     },
