@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-22T09:46:11.487Z",
+  "updatedAt": "2026-10-22T09:46:21.545Z",
   "problems": [
     {
       "frontendId": "20",
@@ -154,8 +154,8 @@
       "problemName": "1021-remove-outermost-parentheses",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
-      "folderPath": "leetcode/1021-remove-outermost-parentheses/",
-      "readmePath": "leetcode/1021-remove-outermost-parentheses/README.md",
+      "folderPath": "leetcode/Easy/1021-remove-outermost-parentheses/",
+      "readmePath": "leetcode/Easy/1021-remove-outermost-parentheses/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -163,7 +163,7 @@
           "filename": "1021-remove-outermost-parentheses.cpp",
           "path": "leetcode/1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "652d9053bb3d8a1b5da26d244a61cfa541a03252",
-          "lastSyncedAt": "2026-10-22T09:02:13.665Z"
+          "lastSyncedAt": "2026-10-22T09:46:21.545Z"
         }
       ]
     },
