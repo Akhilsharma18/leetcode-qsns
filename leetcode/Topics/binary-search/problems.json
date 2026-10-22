@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-22T16:01:41.163Z",
+  "updatedAt": "2026-10-22T16:03:27.559Z",
   "problems": [
     {
       "frontendId": "349",
@@ -163,7 +163,7 @@
           "filename": "2333-minimum-sum-of-squared-difference.cpp",
           "path": "leetcode/2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
           "sha": "49c8ba64f353161beb872d5929a9423e349c2718",
-          "lastSyncedAt": "2026-10-22T11:37:05.303Z"
+          "lastSyncedAt": "2026-10-22T16:03:27.559Z"
         }
       ]
     },
