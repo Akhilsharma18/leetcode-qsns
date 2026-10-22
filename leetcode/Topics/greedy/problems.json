@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-22T08:52:28.068Z",
+  "updatedAt": "2026-10-22T08:53:18.891Z",
   "problems": [
     {
       "frontendId": "678",
@@ -44,6 +44,26 @@
           "path": "leetcode/0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp",
           "sha": "00417ac02a813bea8f2b3d1e6b0367f6660926ac",
           "lastSyncedAt": "2026-10-22T08:43:29.632Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1386",
+      "title": "Cinema Seat Allocation",
+      "slug": "cinema-seat-allocation",
+      "problemName": "1386-cinema-seat-allocation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation/",
+      "folderPath": "leetcode/1386-cinema-seat-allocation/",
+      "readmePath": "leetcode/1386-cinema-seat-allocation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1386-cinema-seat-allocation.cpp",
+          "path": "leetcode/1386-cinema-seat-allocation/1386-cinema-seat-allocation.cpp",
+          "sha": "00110c9dca4570cf4096745dd4af9d6dd2893085",
+          "lastSyncedAt": "2026-10-22T08:53:18.891Z"
         }
       ]
     },
