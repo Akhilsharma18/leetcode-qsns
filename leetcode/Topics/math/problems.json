@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T11:12:11.927Z",
+  "updatedAt": "2026-10-22T11:13:27.678Z",
   "problems": [
     {
       "frontendId": "168",
@@ -903,7 +903,7 @@
           "filename": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
           "path": "leetcode/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
           "sha": "9e578767a4d667ab25dc2e55092daaa7b61a2836",
-          "lastSyncedAt": "2026-10-22T09:23:02.622Z"
+          "lastSyncedAt": "2026-10-22T11:13:27.678Z"
         }
       ]
     },
