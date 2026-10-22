@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T09:52:39.440Z",
+  "updatedAt": "2026-10-22T09:53:59.470Z",
   "problems": [
     {
       "frontendId": "5",
@@ -154,8 +154,8 @@
       "problemName": "3069-distribute-elements-into-two-arrays-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
-      "folderPath": "leetcode/3069-distribute-elements-into-two-arrays-i/",
-      "readmePath": "leetcode/3069-distribute-elements-into-two-arrays-i/README.md",
+      "folderPath": "leetcode/Easy/3069-distribute-elements-into-two-arrays-i/",
+      "readmePath": "leetcode/Easy/3069-distribute-elements-into-two-arrays-i/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -163,7 +163,7 @@
           "filename": "3069-distribute-elements-into-two-arrays-i.cpp",
           "path": "leetcode/3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.cpp",
           "sha": "f74bf96d9aeaf4ba164458c665124aefebaaa0cb",
-          "lastSyncedAt": "2026-10-22T09:09:52.633Z"
+          "lastSyncedAt": "2026-10-22T09:53:59.470Z"
         }
       ]
     },
