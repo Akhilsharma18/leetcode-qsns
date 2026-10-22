@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:40:37.784Z",
+  "updatedAt": "2026-10-22T08:41:16.739Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "leetcode/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "4ee62b86a6117083da121d58a73d7e00c9b385e2",
           "lastSyncedAt": "2026-10-22T08:40:19.823Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3551",
+      "title": "Minimum Swaps to Sort by Digit Sum",
+      "slug": "minimum-swaps-to-sort-by-digit-sum",
+      "problemName": "3551-minimum-swaps-to-sort-by-digit-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/",
+      "folderPath": "leetcode/3551-minimum-swaps-to-sort-by-digit-sum/",
+      "readmePath": "leetcode/3551-minimum-swaps-to-sort-by-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3551-minimum-swaps-to-sort-by-digit-sum.cpp",
+          "path": "leetcode/3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.cpp",
+          "sha": "75060ca273e7782e1ea7bd85524e24f77dd21e97",
+          "lastSyncedAt": "2026-10-22T08:41:16.739Z"
         }
       ]
     },
