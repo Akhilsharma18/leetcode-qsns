@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-22T08:42:26.220Z",
+  "updatedAt": "2026-10-22T08:48:38.355Z",
   "problems": [
     {
       "frontendId": "2778",
@@ -24,6 +24,26 @@
           "path": "leetcode/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
           "sha": "e93085d5e776b7a50ec11f1b30a6738c0a23ff79",
           "lastSyncedAt": "2026-10-22T08:42:26.220Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "problemName": "3483-unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+      "folderPath": "leetcode/3483-unique-3-digit-even-numbers/",
+      "readmePath": "leetcode/3483-unique-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3483-unique-3-digit-even-numbers.cpp",
+          "path": "leetcode/3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.cpp",
+          "sha": "31c98bdf9b06737ad021b23372081bcc4154fbc5",
+          "lastSyncedAt": "2026-10-22T08:48:38.355Z"
         }
       ]
     },
