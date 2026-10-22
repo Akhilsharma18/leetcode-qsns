@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-22T10:08:54.028Z",
+  "updatedAt": "2026-10-22T10:08:59.783Z",
   "problems": [
     {
       "frontendId": "1291",
@@ -34,8 +34,8 @@
       "problemName": "1534-count-good-triplets",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/count-good-triplets/",
-      "folderPath": "leetcode/1534-count-good-triplets/",
-      "readmePath": "leetcode/1534-count-good-triplets/README.md",
+      "folderPath": "leetcode/Easy/1534-count-good-triplets/",
+      "readmePath": "leetcode/Easy/1534-count-good-triplets/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -43,7 +43,7 @@
           "filename": "1534-count-good-triplets.cpp",
           "path": "leetcode/1534-count-good-triplets/1534-count-good-triplets.cpp",
           "sha": "49a9c3ce40f8fe0457152c6752e588e66ca56d3b",
-          "lastSyncedAt": "2026-10-22T09:14:48.261Z"
+          "lastSyncedAt": "2026-10-22T10:08:59.783Z"
         }
       ]
     },
