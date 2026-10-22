@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T08:50:33.534Z",
+  "updatedAt": "2026-10-22T08:52:48.171Z",
   "problems": [
     {
       "frontendId": "2897",
@@ -24,6 +24,26 @@
           "path": "leetcode/2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "sha": "5458de49112ae0ab719a488843eb048b1e8e5019",
           "lastSyncedAt": "2026-10-22T08:42:13.323Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3116",
+      "title": "Kth Smallest Amount With Single Denomination Combination",
+      "slug": "kth-smallest-amount-with-single-denomination-combination",
+      "problemName": "3116-kth-smallest-amount-with-single-denomination-combination",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/",
+      "folderPath": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/",
+      "readmePath": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3116-kth-smallest-amount-with-single-denomination-combination.cpp",
+          "path": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.cpp",
+          "sha": "f1debdf8747a70ebde5166386f96a75ac2a13187",
+          "lastSyncedAt": "2026-10-22T08:52:48.171Z"
         }
       ]
     },
