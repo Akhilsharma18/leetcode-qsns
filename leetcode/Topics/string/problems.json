@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T09:23:02.622Z",
+  "updatedAt": "2026-10-22T09:23:32.142Z",
   "problems": [
     {
       "frontendId": "14",
@@ -164,6 +164,26 @@
           "path": "leetcode/0389-find-the-difference/0389-find-the-difference.cpp",
           "sha": "2af820e7e528039d650b6a38f933768e56d7b95b",
           "lastSyncedAt": "2026-10-22T09:12:34.193Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "leetcode/0451-sort-characters-by-frequency/",
+      "readmePath": "leetcode/0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0451-sort-characters-by-frequency.cpp",
+          "path": "leetcode/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
+          "sha": "fa438154db5651e378b7d1282f1a5c53d5bb7151",
+          "lastSyncedAt": "2026-10-22T09:23:32.142Z"
         }
       ]
     },
