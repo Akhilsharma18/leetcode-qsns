@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T16:12:54.150Z",
+  "updatedAt": "2026-10-22T16:13:03.781Z",
   "problems": [
     {
       "frontendId": "5",
@@ -543,7 +543,7 @@
           "filename": "2213-longest-substring-of-one-repeating-character.cpp",
           "path": "leetcode/2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "3a9a5e761e18b0bc7bf0910847d5001f11c8b779",
-          "lastSyncedAt": "2026-10-22T11:24:53.753Z"
+          "lastSyncedAt": "2026-10-22T16:13:03.781Z"
         }
       ]
     },
