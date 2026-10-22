@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:54:55.260Z",
+  "updatedAt": "2026-10-22T08:57:23.923Z",
   "problems": [
     {
       "frontendId": "14",
@@ -144,6 +144,26 @@
           "path": "leetcode/0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp",
           "sha": "5858e86f3bc28138989fa454471bc5e210e90950",
           "lastSyncedAt": "2026-10-22T08:43:16.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "leetcode/0389-find-the-difference/",
+      "readmePath": "leetcode/0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0389-find-the-difference.cpp",
+          "path": "leetcode/0389-find-the-difference/0389-find-the-difference.cpp",
+          "sha": "2af820e7e528039d650b6a38f933768e56d7b95b",
+          "lastSyncedAt": "2026-10-22T08:57:23.923Z"
         }
       ]
     },
