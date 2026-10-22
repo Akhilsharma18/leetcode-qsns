@@ -5,7 +5,7 @@
     "name": "Combinatorics",
     "tagId": "61056"
   },
-  "updatedAt": "2026-10-22T08:47:41.934Z",
+  "updatedAt": "2026-10-22T08:52:48.171Z",
   "problems": [
     {
       "frontendId": "1569",
@@ -44,6 +44,26 @@
           "path": "leetcode/1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
           "sha": "16427f352cc894f3e2b4d11f68462488cb3022d8",
           "lastSyncedAt": "2026-10-22T08:47:41.934Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3116",
+      "title": "Kth Smallest Amount With Single Denomination Combination",
+      "slug": "kth-smallest-amount-with-single-denomination-combination",
+      "problemName": "3116-kth-smallest-amount-with-single-denomination-combination",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/",
+      "folderPath": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/",
+      "readmePath": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3116-kth-smallest-amount-with-single-denomination-combination.cpp",
+          "path": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.cpp",
+          "sha": "f1debdf8747a70ebde5166386f96a75ac2a13187",
+          "lastSyncedAt": "2026-10-22T08:52:48.171Z"
         }
       ]
     }
