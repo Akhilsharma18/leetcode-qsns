@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T09:17:25.113Z",
+  "updatedAt": "2026-10-22T09:17:35.888Z",
   "problems": [
     {
       "frontendId": "14",
@@ -604,6 +604,26 @@
           "path": "leetcode/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp",
           "sha": "a7ebe8db9ea97c25abe39275fa15f7341dc5da71",
           "lastSyncedAt": "2026-10-22T09:05:27.232Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3518",
+      "title": "Smallest Palindromic Rearrangement II",
+      "slug": "smallest-palindromic-rearrangement-ii",
+      "problemName": "3518-smallest-palindromic-rearrangement-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
+      "folderPath": "leetcode/3518-smallest-palindromic-rearrangement-ii/",
+      "readmePath": "leetcode/3518-smallest-palindromic-rearrangement-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3518-smallest-palindromic-rearrangement-ii.cpp",
+          "path": "leetcode/3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.cpp",
+          "sha": "5fb07944e67bd40ceafe7db9c9bd2a16c7cdaac0",
+          "lastSyncedAt": "2026-10-22T09:17:35.888Z"
         }
       ]
     },
