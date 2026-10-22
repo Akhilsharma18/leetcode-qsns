@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-22T17:49:17.719Z",
+  "updatedAt": "2026-10-22T17:54:13.815Z",
   "problems": [
     {
       "frontendId": "21",
@@ -43,7 +43,7 @@
           "filename": "0024-swap-nodes-in-pairs.cpp",
           "path": "leetcode/0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
           "sha": "7b1c9c5289a799e3e4928c3ed7e4a4fac60c2504",
-          "lastSyncedAt": "2026-10-22T16:37:06.381Z"
+          "lastSyncedAt": "2026-10-22T17:54:13.815Z"
         }
       ]
     },
