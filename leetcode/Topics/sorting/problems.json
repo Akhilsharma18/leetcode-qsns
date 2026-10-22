@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T08:56:07.687Z",
+  "updatedAt": "2026-10-22T08:56:21.456Z",
   "problems": [
     {
       "frontendId": "1096",
@@ -64,6 +64,26 @@
           "path": "leetcode/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "4ee62b86a6117083da121d58a73d7e00c9b385e2",
           "lastSyncedAt": "2026-10-22T08:40:19.823Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2231",
+      "title": "Largest Number After Digit Swaps by Parity",
+      "slug": "largest-number-after-digit-swaps-by-parity",
+      "problemName": "2231-largest-number-after-digit-swaps-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/",
+      "folderPath": "leetcode/2231-largest-number-after-digit-swaps-by-parity/",
+      "readmePath": "leetcode/2231-largest-number-after-digit-swaps-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2231-largest-number-after-digit-swaps-by-parity.cpp",
+          "path": "leetcode/2231-largest-number-after-digit-swaps-by-parity/2231-largest-number-after-digit-swaps-by-parity.cpp",
+          "sha": "a56d560d212ce2c7589b96652edb17fb55717f45",
+          "lastSyncedAt": "2026-10-22T08:56:21.456Z"
         }
       ]
     },
