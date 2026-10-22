@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-10-22T08:39:50.301Z",
+  "problems": [
+    {
+      "frontendId": "3863",
+      "title": "Minimum Operations to Sort a String",
+      "slug": "minimum-operations-to-sort-a-string",
+      "problemName": "3863-minimum-operations-to-sort-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/",
+      "folderPath": "leetcode/3863-minimum-operations-to-sort-a-string/",
+      "readmePath": "leetcode/3863-minimum-operations-to-sort-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3863-minimum-operations-to-sort-a-string.cpp",
+          "path": "leetcode/3863-minimum-operations-to-sort-a-string/3863-minimum-operations-to-sort-a-string.cpp",
+          "sha": "59fa3f3e80e152ae4146317f33f5bec123dad97a",
+          "lastSyncedAt": "2026-10-22T08:39:50.301Z"
+        }
+      ]
+    }
+  ]
+}
