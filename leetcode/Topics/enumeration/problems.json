@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-22T09:44:13.458Z",
+  "updatedAt": "2026-10-22T09:45:52.219Z",
   "problems": [
     {
       "frontendId": "1291",
@@ -54,8 +54,8 @@
       "problemName": "2778-sum-of-squares-of-special-elements",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
-      "folderPath": "leetcode/2778-sum-of-squares-of-special-elements/",
-      "readmePath": "leetcode/2778-sum-of-squares-of-special-elements/README.md",
+      "folderPath": "leetcode/Easy/2778-sum-of-squares-of-special-elements/",
+      "readmePath": "leetcode/Easy/2778-sum-of-squares-of-special-elements/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -63,7 +63,7 @@
           "filename": "2778-sum-of-squares-of-special-elements.cpp",
           "path": "leetcode/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
           "sha": "e93085d5e776b7a50ec11f1b30a6738c0a23ff79",
-          "lastSyncedAt": "2026-10-22T09:01:46.178Z"
+          "lastSyncedAt": "2026-10-22T09:45:52.219Z"
         }
       ]
     },
