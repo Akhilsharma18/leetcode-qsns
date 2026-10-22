@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-22T17:53:04.298Z",
+  "updatedAt": "2026-10-22T17:56:06.439Z",
   "problems": [
     {
       "frontendId": "111",
@@ -63,7 +63,7 @@
           "filename": "1096-brace-expansion-ii.cpp",
           "path": "leetcode/1096-brace-expansion-ii/1096-brace-expansion-ii.cpp",
           "sha": "76fe89a260b793c8724acc88d72bb77d402d0cef",
-          "lastSyncedAt": "2026-10-22T17:42:57.928Z"
+          "lastSyncedAt": "2026-10-22T17:56:06.439Z"
         }
       ]
     },
