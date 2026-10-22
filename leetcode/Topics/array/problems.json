@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:51:53.582Z",
+  "updatedAt": "2026-10-22T08:52:01.222Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "leetcode/1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.cpp",
           "sha": "3a5cdb210d8fd216eb9f11a71901e3dea2b25c37",
           "lastSyncedAt": "2026-10-22T08:45:17.972Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1872",
+      "title": "Stone Game VIII",
+      "slug": "stone-game-viii",
+      "problemName": "1872-stone-game-viii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-viii/",
+      "folderPath": "leetcode/1872-stone-game-viii/",
+      "readmePath": "leetcode/1872-stone-game-viii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1872-stone-game-viii.cpp",
+          "path": "leetcode/1872-stone-game-viii/1872-stone-game-viii.cpp",
+          "sha": "b0eafdda0fd90c31dfaaf03708991e6a8745951a",
+          "lastSyncedAt": "2026-10-22T08:52:01.222Z"
         }
       ]
     },
