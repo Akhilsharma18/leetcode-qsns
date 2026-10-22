@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "euclidean-algorithm",
+    "name": "Euclidean Algorithm",
+    "tagId": "89463"
+  },
+  "updatedAt": "2026-10-22T09:20:18.690Z",
+  "problems": [
+    {
+      "frontendId": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "slug": "find-greatest-common-divisor-of-array",
+      "problemName": "1979-find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "folderPath": "leetcode/1979-find-greatest-common-divisor-of-array/",
+      "readmePath": "leetcode/1979-find-greatest-common-divisor-of-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1979-find-greatest-common-divisor-of-array.cpp",
+          "path": "leetcode/1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
+          "sha": "3565b434a735aa494ced7179aefa2eccbeb333dd",
+          "lastSyncedAt": "2026-10-22T09:20:18.690Z"
+        }
+      ]
+    }
+  ]
+}
