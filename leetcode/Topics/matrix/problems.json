@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-22T09:08:08.021Z",
+  "updatedAt": "2026-10-22T09:19:51.456Z",
   "problems": [
     {
       "frontendId": "835",
@@ -24,6 +24,26 @@
           "path": "leetcode/0835-image-overlap/0835-image-overlap.cpp",
           "sha": "f44d0c27cea82a69bc9514ba7d4b2216c2d66ad1",
           "lastSyncedAt": "2026-10-22T09:06:40.172Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1260",
+      "title": "Shift 2D Grid",
+      "slug": "shift-2d-grid",
+      "problemName": "1260-shift-2d-grid",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shift-2d-grid/",
+      "folderPath": "leetcode/1260-shift-2d-grid/",
+      "readmePath": "leetcode/1260-shift-2d-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1260-shift-2d-grid.cpp",
+          "path": "leetcode/1260-shift-2d-grid/1260-shift-2d-grid.cpp",
+          "sha": "2db56e98070d59540769f802c45e6aa5932a125a",
+          "lastSyncedAt": "2026-10-22T09:19:51.456Z"
         }
       ]
     },
