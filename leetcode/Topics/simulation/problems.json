@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T11:16:32.880Z",
+  "updatedAt": "2026-10-22T11:17:05.841Z",
   "problems": [
     {
       "frontendId": "682",
@@ -203,7 +203,7 @@
           "filename": "3838-weighted-word-mapping.cpp",
           "path": "leetcode/3838-weighted-word-mapping/3838-weighted-word-mapping.cpp",
           "sha": "de33887b824d2e041136fdbe711d640815510018",
-          "lastSyncedAt": "2026-10-22T09:26:31.984Z"
+          "lastSyncedAt": "2026-10-22T11:17:05.841Z"
         }
       ]
     },
