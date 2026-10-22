@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:50:13.817Z",
+  "updatedAt": "2026-10-22T08:50:25.979Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "leetcode/3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
           "sha": "8563f1f1dcf859f7cef523c0f5776b18e90b9e9e",
           "lastSyncedAt": "2026-10-22T08:42:03.634Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "leetcode/3875-construct-uniform-parity-array-i/",
+      "readmePath": "leetcode/3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3875-construct-uniform-parity-array-i.cpp",
+          "path": "leetcode/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.cpp",
+          "sha": "e41b8b90ceffd07e811a0141b01f816c41a2bc8b",
+          "lastSyncedAt": "2026-10-22T08:50:25.979Z"
         }
       ]
     },
