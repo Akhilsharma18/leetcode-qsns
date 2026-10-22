@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T10:52:33.577Z",
+  "updatedAt": "2026-10-22T10:52:44.754Z",
   "problems": [
     {
       "frontendId": "1",
@@ -754,8 +754,8 @@
       "problemName": "2073-time-needed-to-buy-tickets",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/time-needed-to-buy-tickets/",
-      "folderPath": "leetcode/Easy/2073-time-needed-to-buy-tickets/",
-      "readmePath": "leetcode/Easy/2073-time-needed-to-buy-tickets/README.md",
+      "folderPath": "leetcode/2073-time-needed-to-buy-tickets/",
+      "readmePath": "leetcode/2073-time-needed-to-buy-tickets/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -763,7 +763,7 @@
           "filename": "2073-time-needed-to-buy-tickets.cpp",
           "path": "leetcode/2073-time-needed-to-buy-tickets/2073-time-needed-to-buy-tickets.cpp",
           "sha": "46c99bca7d8386f7d7fbcc479676141f6a90ddc8",
-          "lastSyncedAt": "2026-10-22T09:48:16.352Z"
+          "lastSyncedAt": "2026-10-22T10:52:44.754Z"
         }
       ]
     },
