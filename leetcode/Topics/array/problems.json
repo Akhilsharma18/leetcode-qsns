@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T17:57:46.213Z",
+  "updatedAt": "2026-10-22T17:57:55.815Z",
   "problems": [
     {
       "frontendId": "1",
@@ -223,7 +223,7 @@
           "filename": "0594-longest-harmonious-subsequence.cpp",
           "path": "leetcode/0594-longest-harmonious-subsequence/0594-longest-harmonious-subsequence.cpp",
           "sha": "a5d285eaffd7dd6d5cdb360bb452cda661c6fb71",
-          "lastSyncedAt": "2026-10-22T16:39:56.487Z"
+          "lastSyncedAt": "2026-10-22T17:57:55.815Z"
         }
       ]
     },
