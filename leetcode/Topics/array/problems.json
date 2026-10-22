@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:22:29.619Z",
+  "updatedAt": "2026-10-22T09:22:50.115Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1104,6 +1104,26 @@
           "path": "leetcode/3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.cpp",
           "sha": "3a2b9d7f807a3ea5d2cc40e2645b3f01b1a08f4f",
           "lastSyncedAt": "2026-10-22T09:05:08.528Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3532",
+      "title": "Path Existence Queries in a Graph I",
+      "slug": "path-existence-queries-in-a-graph-i",
+      "problemName": "3532-path-existence-queries-in-a-graph-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/",
+      "folderPath": "leetcode/3532-path-existence-queries-in-a-graph-i/",
+      "readmePath": "leetcode/3532-path-existence-queries-in-a-graph-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3532-path-existence-queries-in-a-graph-i.cpp",
+          "path": "leetcode/3532-path-existence-queries-in-a-graph-i/3532-path-existence-queries-in-a-graph-i.cpp",
+          "sha": "20a5d5a48e6cccf50f489a8f773ecc654fc6893d",
+          "lastSyncedAt": "2026-10-22T09:22:50.115Z"
         }
       ]
     },
