@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-22T08:44:15.199Z",
+  "updatedAt": "2026-10-22T08:45:43.734Z",
   "problems": [
     {
       "frontendId": "22",
@@ -44,6 +44,26 @@
           "path": "leetcode/0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp",
           "sha": "5858e86f3bc28138989fa454471bc5e210e90950",
           "lastSyncedAt": "2026-10-22T08:43:16.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "leetcode/1096-brace-expansion-ii/",
+      "readmePath": "leetcode/1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1096-brace-expansion-ii.cpp",
+          "path": "leetcode/1096-brace-expansion-ii/1096-brace-expansion-ii.cpp",
+          "sha": "76fe89a260b793c8724acc88d72bb77d402d0cef",
+          "lastSyncedAt": "2026-10-22T08:45:43.734Z"
         }
       ]
     }
