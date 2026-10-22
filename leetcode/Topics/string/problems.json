@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T09:16:27.645Z",
+  "updatedAt": "2026-10-22T09:17:25.113Z",
   "problems": [
     {
       "frontendId": "14",
@@ -484,6 +484,26 @@
           "path": "leetcode/2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.cpp",
           "sha": "d79c8b6af329ea75a05862dba81a4974573e79f5",
           "lastSyncedAt": "2026-10-22T09:08:58.401Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "leetcode/3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "leetcode/3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.cpp",
+          "path": "leetcode/3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.cpp",
+          "sha": "d6c56253563d84f25c50daedd6e5a65bf582c497",
+          "lastSyncedAt": "2026-10-22T09:17:25.113Z"
         }
       ]
     },
