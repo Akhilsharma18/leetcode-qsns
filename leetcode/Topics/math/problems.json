@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:51:25.491Z",
+  "updatedAt": "2026-10-22T09:51:47.338Z",
   "problems": [
     {
       "frontendId": "168",
@@ -994,8 +994,8 @@
       "problemName": "3876-construct-uniform-parity-array-ii",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
-      "folderPath": "leetcode/3876-construct-uniform-parity-array-ii/",
-      "readmePath": "leetcode/3876-construct-uniform-parity-array-ii/README.md",
+      "folderPath": "leetcode/Medium/3876-construct-uniform-parity-array-ii/",
+      "readmePath": "leetcode/Medium/3876-construct-uniform-parity-array-ii/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -1003,7 +1003,7 @@
           "filename": "3876-construct-uniform-parity-array-ii.cpp",
           "path": "leetcode/3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.cpp",
           "sha": "ebb353d11942fc9d09c1dd33aa6ab8a9ef029446",
-          "lastSyncedAt": "2026-10-22T09:07:51.067Z"
+          "lastSyncedAt": "2026-10-22T09:51:47.338Z"
         }
       ]
     },
