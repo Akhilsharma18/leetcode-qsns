@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:51:30.653Z",
+  "updatedAt": "2026-10-22T08:51:45.453Z",
   "problems": [
     {
       "frontendId": "14",
@@ -384,6 +384,26 @@
           "path": "leetcode/2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
           "sha": "ca2612b8110856b45409c6c1a9d0c1bc3c858209",
           "lastSyncedAt": "2026-10-22T08:47:54.304Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2904",
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+      "problemName": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+      "folderPath": "leetcode/2904-shortest-and-lexicographically-smallest-beautiful-string/",
+      "readmePath": "leetcode/2904-shortest-and-lexicographically-smallest-beautiful-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2904-shortest-and-lexicographically-smallest-beautiful-string.cpp",
+          "path": "leetcode/2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.cpp",
+          "sha": "d79c8b6af329ea75a05862dba81a4974573e79f5",
+          "lastSyncedAt": "2026-10-22T08:51:45.453Z"
         }
       ]
     },
