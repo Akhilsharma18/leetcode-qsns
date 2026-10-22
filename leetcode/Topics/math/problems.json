@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:18:00.993Z",
+  "updatedAt": "2026-10-22T09:18:22.441Z",
   "problems": [
     {
       "frontendId": "168",
@@ -24,6 +24,26 @@
           "path": "leetcode/0168-excel-sheet-column-title/0168-excel-sheet-column-title.cpp",
           "sha": "13cfdb6c3611e3634edb6d39970e9d0ffe3105a2",
           "lastSyncedAt": "2026-10-22T09:10:28.265Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "292",
+      "title": "Nim Game",
+      "slug": "nim-game",
+      "problemName": "0292-nim-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/nim-game/",
+      "folderPath": "leetcode/0292-nim-game/",
+      "readmePath": "leetcode/0292-nim-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0292-nim-game.cpp",
+          "path": "leetcode/0292-nim-game/0292-nim-game.cpp",
+          "sha": "502a093448d93d4d47d5d356ba3804fc6ccc05a2",
+          "lastSyncedAt": "2026-10-22T09:18:22.441Z"
         }
       ]
     },
