@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:27:13.502Z",
+  "updatedAt": "2026-10-22T11:34:24.997Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1764,6 +1764,26 @@
           "path": "leetcode/3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.cpp",
           "sha": "f553d983e9ebec3f08d34794e43ddb58c4fe1224",
           "lastSyncedAt": "2026-10-22T11:21:18.945Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3942",
+      "title": "Minimum Operations to Sort a Permutation",
+      "slug": "minimum-operations-to-sort-a-permutation",
+      "problemName": "3942-minimum-operations-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/",
+      "folderPath": "leetcode/3942-minimum-operations-to-sort-a-permutation/",
+      "readmePath": "leetcode/3942-minimum-operations-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3942-minimum-operations-to-sort-a-permutation.cpp",
+          "path": "leetcode/3942-minimum-operations-to-sort-a-permutation/3942-minimum-operations-to-sort-a-permutation.cpp",
+          "sha": "c8c3b2a572fd27b4cfc15f6ca0f9099a5e554870",
+          "lastSyncedAt": "2026-10-22T11:34:24.997Z"
         }
       ]
     }
