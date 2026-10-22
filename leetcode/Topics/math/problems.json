@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T08:59:33.684Z",
+  "updatedAt": "2026-10-22T08:59:48.619Z",
   "problems": [
     {
       "frontendId": "168",
@@ -64,6 +64,26 @@
           "path": "leetcode/1140-stone-game-ii/1140-stone-game-ii.cpp",
           "sha": "aa812d5ec19a5f3695202573e29fda14c61ad846",
           "lastSyncedAt": "2026-10-22T08:58:15.369Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1237",
+      "title": "Find Positive Integer Solution for a Given Equation",
+      "slug": "find-positive-integer-solution-for-a-given-equation",
+      "problemName": "1237-find-positive-integer-solution-for-a-given-equation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/",
+      "folderPath": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/",
+      "readmePath": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1237-find-positive-integer-solution-for-a-given-equation.cpp",
+          "path": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/1237-find-positive-integer-solution-for-a-given-equation.cpp",
+          "sha": "3fac227c62956e577395bd470258125a8344dbab",
+          "lastSyncedAt": "2026-10-22T08:59:48.619Z"
         }
       ]
     },
