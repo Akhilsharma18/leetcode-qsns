@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-22T09:19:29.967Z",
+  "updatedAt": "2026-10-22T09:24:14.900Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -104,6 +104,26 @@
           "path": "leetcode/3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.cpp",
           "sha": "3a2b9d7f807a3ea5d2cc40e2645b3f01b1a08f4f",
           "lastSyncedAt": "2026-10-22T09:05:08.528Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "leetcode/3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "leetcode/3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3737-count-subarrays-with-majority-element-i.cpp",
+          "path": "leetcode/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.cpp",
+          "sha": "ed95717fcc2d658fa2ed20a3ff340347dd663d98",
+          "lastSyncedAt": "2026-10-22T09:24:14.900Z"
         }
       ]
     }
