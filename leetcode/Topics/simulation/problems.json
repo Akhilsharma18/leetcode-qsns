@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T09:26:00.493Z",
+  "updatedAt": "2026-10-22T09:26:31.984Z",
   "problems": [
     {
       "frontendId": "682",
@@ -164,6 +164,26 @@
           "path": "leetcode/3612-process-string-with-special-operations-i/3612-process-string-with-special-operations-i.cpp",
           "sha": "c3fd370ac719c487705ad7cbe179da5dd4cc9fd5",
           "lastSyncedAt": "2026-10-22T09:26:00.493Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "problemName": "3838-weighted-word-mapping",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "folderPath": "leetcode/3838-weighted-word-mapping/",
+      "readmePath": "leetcode/3838-weighted-word-mapping/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3838-weighted-word-mapping.cpp",
+          "path": "leetcode/3838-weighted-word-mapping/3838-weighted-word-mapping.cpp",
+          "sha": "de33887b824d2e041136fdbe711d640815510018",
+          "lastSyncedAt": "2026-10-22T09:26:31.984Z"
         }
       ]
     },
