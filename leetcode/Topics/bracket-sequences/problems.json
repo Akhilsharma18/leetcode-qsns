@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-22T09:47:55.167Z",
+  "updatedAt": "2026-10-22T09:48:01.912Z",
   "problems": [
     {
       "frontendId": "20",
@@ -174,8 +174,8 @@
       "problemName": "1190-reverse-substrings-between-each-pair-of-parentheses",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/",
-      "folderPath": "leetcode/1190-reverse-substrings-between-each-pair-of-parentheses/",
-      "readmePath": "leetcode/1190-reverse-substrings-between-each-pair-of-parentheses/README.md",
+      "folderPath": "leetcode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/",
+      "readmePath": "leetcode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -183,7 +183,7 @@
           "filename": "1190-reverse-substrings-between-each-pair-of-parentheses.cpp",
           "path": "leetcode/1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.cpp",
           "sha": "84476a5573876a63a85fc52f4254145e4432d410",
-          "lastSyncedAt": "2026-10-22T09:03:45.137Z"
+          "lastSyncedAt": "2026-10-22T09:48:01.912Z"
         }
       ]
     },
