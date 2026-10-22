@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-22T11:06:13.681Z",
+  "updatedAt": "2026-10-22T11:06:20.442Z",
   "problems": [
     {
       "frontendId": "1291",
@@ -194,8 +194,8 @@
       "problemName": "3827-count-monobit-integers",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/count-monobit-integers/",
-      "folderPath": "leetcode/Easy/3827-count-monobit-integers/",
-      "readmePath": "leetcode/Easy/3827-count-monobit-integers/README.md",
+      "folderPath": "leetcode/3827-count-monobit-integers/",
+      "readmePath": "leetcode/3827-count-monobit-integers/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -203,7 +203,7 @@
           "filename": "3827-count-monobit-integers.cpp",
           "path": "leetcode/3827-count-monobit-integers/3827-count-monobit-integers.cpp",
           "sha": "86ae5dfab2b2bf050b416b669536e8681e5a0ad4",
-          "lastSyncedAt": "2026-10-22T10:08:54.028Z"
+          "lastSyncedAt": "2026-10-22T11:06:20.442Z"
         }
       ]
     },
