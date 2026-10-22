@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting-sort",
+    "name": "Counting Sort",
+    "tagId": "61072"
+  },
+  "updatedAt": "2026-10-22T08:56:55.755Z",
+  "problems": [
+    {
+      "frontendId": "561",
+      "title": "Array Partition",
+      "slug": "array-partition",
+      "problemName": "0561-array-partition",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/array-partition/",
+      "folderPath": "leetcode/0561-array-partition/",
+      "readmePath": "leetcode/0561-array-partition/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0561-array-partition.cpp",
+          "path": "leetcode/0561-array-partition/0561-array-partition.cpp",
+          "sha": "340b1d5df7fed2f2610d75f7a0a4b58dec9d0f17",
+          "lastSyncedAt": "2026-10-22T08:56:55.755Z"
+        }
+      ]
+    }
+  ]
+}
