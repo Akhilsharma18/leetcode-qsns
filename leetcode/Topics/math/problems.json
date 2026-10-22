@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T08:54:09.943Z",
+  "updatedAt": "2026-10-22T08:55:44.759Z",
   "problems": [
     {
       "frontendId": "168",
@@ -64,6 +64,26 @@
           "path": "leetcode/1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.cpp",
           "sha": "e9bb9b238bac57329660421ddc027a31dcdf264a",
           "lastSyncedAt": "2026-10-22T08:47:02.217Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "problemName": "1510-stone-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+      "folderPath": "leetcode/1510-stone-game-iv/",
+      "readmePath": "leetcode/1510-stone-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1510-stone-game-iv.cpp",
+          "path": "leetcode/1510-stone-game-iv/1510-stone-game-iv.cpp",
+          "sha": "a19cacc0f91fbe69d3daf14a3198545535f16a01",
+          "lastSyncedAt": "2026-10-22T08:55:44.759Z"
         }
       ]
     },
