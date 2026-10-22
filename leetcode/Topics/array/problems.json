@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:50:46.148Z",
+  "updatedAt": "2026-10-22T08:51:00.703Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "leetcode/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "4ee62b86a6117083da121d58a73d7e00c9b385e2",
           "lastSyncedAt": "2026-10-22T08:40:19.823Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2091",
+      "title": "Removing Minimum and Maximum From Array",
+      "slug": "removing-minimum-and-maximum-from-array",
+      "problemName": "2091-removing-minimum-and-maximum-from-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/",
+      "folderPath": "leetcode/2091-removing-minimum-and-maximum-from-array/",
+      "readmePath": "leetcode/2091-removing-minimum-and-maximum-from-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2091-removing-minimum-and-maximum-from-array.cpp",
+          "path": "leetcode/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.cpp",
+          "sha": "53cd8e47146f38ceaad9b51c720f10268240dc4b",
+          "lastSyncedAt": "2026-10-22T08:51:00.703Z"
         }
       ]
     },
