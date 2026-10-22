@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:18:38.411Z",
+  "updatedAt": "2026-10-22T09:18:49.487Z",
   "problems": [
     {
       "frontendId": "168",
@@ -624,6 +624,26 @@
           "path": "leetcode/3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.cpp",
           "sha": "3a2b9d7f807a3ea5d2cc40e2645b3f01b1a08f4f",
           "lastSyncedAt": "2026-10-22T09:05:08.528Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "problemName": "3536-maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "folderPath": "leetcode/3536-maximum-product-of-two-digits/",
+      "readmePath": "leetcode/3536-maximum-product-of-two-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3536-maximum-product-of-two-digits.cpp",
+          "path": "leetcode/3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.cpp",
+          "sha": "64d59af7ab019e357cc252c4facca9b4fc2d8830",
+          "lastSyncedAt": "2026-10-22T09:18:49.487Z"
         }
       ]
     },
