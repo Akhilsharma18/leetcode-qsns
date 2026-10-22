@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T09:14:40.166Z",
+  "updatedAt": "2026-10-22T09:16:43.514Z",
   "problems": [
     {
       "frontendId": "389",
@@ -104,6 +104,26 @@
           "path": "leetcode/3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.cpp",
           "sha": "cadd70a23596c4f9499b510e225d4fe1a6126df8",
           "lastSyncedAt": "2026-10-22T09:08:08.021Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3674",
+      "title": "Minimum Operations to Equalize Array",
+      "slug": "minimum-operations-to-equalize-array",
+      "problemName": "3674-minimum-operations-to-equalize-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-equalize-array/",
+      "folderPath": "leetcode/3674-minimum-operations-to-equalize-array/",
+      "readmePath": "leetcode/3674-minimum-operations-to-equalize-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3674-minimum-operations-to-equalize-array.cpp",
+          "path": "leetcode/3674-minimum-operations-to-equalize-array/3674-minimum-operations-to-equalize-array.cpp",
+          "sha": "cbda2fc9817627e1e05f50131fcc0ffa05c5b23a",
+          "lastSyncedAt": "2026-10-22T09:16:43.514Z"
         }
       ]
     },
