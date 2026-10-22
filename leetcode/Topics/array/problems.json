@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:19:04.436Z",
+  "updatedAt": "2026-10-22T11:19:10.052Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "leetcode/0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
           "sha": "7cc68220d60a5767cd8117a7ce66b71ce609bca9",
           "lastSyncedAt": "2026-10-22T11:17:29.486Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "228",
+      "title": "Summary Ranges",
+      "slug": "summary-ranges",
+      "problemName": "0228-summary-ranges",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/summary-ranges/",
+      "folderPath": "leetcode/0228-summary-ranges/",
+      "readmePath": "leetcode/0228-summary-ranges/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0228-summary-ranges.cpp",
+          "path": "leetcode/0228-summary-ranges/0228-summary-ranges.cpp",
+          "sha": "f4beae820e55cb6c44c6c97202036ed3116d7c16",
+          "lastSyncedAt": "2026-10-22T11:19:10.052Z"
         }
       ]
     },
