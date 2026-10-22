@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T09:26:15.630Z",
+  "updatedAt": "2026-10-22T09:26:23.252Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "leetcode/2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp",
           "sha": "7e5c0542fbc069a9ed2c405cab8ba899311f789d",
           "lastSyncedAt": "2026-10-22T09:26:15.630Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2130",
+      "title": "Maximum Twin Sum of a Linked List",
+      "slug": "maximum-twin-sum-of-a-linked-list",
+      "problemName": "2130-maximum-twin-sum-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+      "folderPath": "leetcode/2130-maximum-twin-sum-of-a-linked-list/",
+      "readmePath": "leetcode/2130-maximum-twin-sum-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2130-maximum-twin-sum-of-a-linked-list.cpp",
+          "path": "leetcode/2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.cpp",
+          "sha": "a1e38e073f1084529fedd5e24a80a39a9c1261d3",
+          "lastSyncedAt": "2026-10-22T09:26:23.252Z"
         }
       ]
     },
