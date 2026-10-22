@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T09:21:31.660Z",
+  "updatedAt": "2026-10-22T09:22:29.619Z",
   "problems": [
     {
       "frontendId": "22",
@@ -484,6 +484,26 @@
           "path": "leetcode/3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.cpp",
           "sha": "a14169e2e4c81445019456eea1cd2616b8ff9202",
           "lastSyncedAt": "2026-10-22T09:05:18.428Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3534",
+      "title": "Path Existence Queries in a Graph II",
+      "slug": "path-existence-queries-in-a-graph-ii",
+      "problemName": "3534-path-existence-queries-in-a-graph-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/",
+      "folderPath": "leetcode/3534-path-existence-queries-in-a-graph-ii/",
+      "readmePath": "leetcode/3534-path-existence-queries-in-a-graph-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3534-path-existence-queries-in-a-graph-ii.cpp",
+          "path": "leetcode/3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
+          "sha": "484f92564ab8bcdfc7f098d7bb2a34d2c3e82d96",
+          "lastSyncedAt": "2026-10-22T09:22:29.619Z"
         }
       ]
     },
