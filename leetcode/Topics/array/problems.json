@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:44:13.458Z",
+  "updatedAt": "2026-10-22T09:44:23.165Z",
   "problems": [
     {
       "frontendId": "1",
@@ -774,8 +774,8 @@
       "problemName": "2089-find-target-indices-after-sorting-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
-      "folderPath": "leetcode/2089-find-target-indices-after-sorting-array/",
-      "readmePath": "leetcode/2089-find-target-indices-after-sorting-array/README.md",
+      "folderPath": "leetcode/Easy/2089-find-target-indices-after-sorting-array/",
+      "readmePath": "leetcode/Easy/2089-find-target-indices-after-sorting-array/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -783,7 +783,7 @@
           "filename": "2089-find-target-indices-after-sorting-array.cpp",
           "path": "leetcode/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "4ee62b86a6117083da121d58a73d7e00c9b385e2",
-          "lastSyncedAt": "2026-10-22T09:00:22.442Z"
+          "lastSyncedAt": "2026-10-22T09:44:23.165Z"
         }
       ]
     },
