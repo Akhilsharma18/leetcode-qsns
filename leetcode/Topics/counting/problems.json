@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-22T08:54:09.943Z",
+  "updatedAt": "2026-10-22T08:56:07.687Z",
   "problems": [
     {
       "frontendId": "2029",
@@ -24,6 +24,26 @@
           "path": "leetcode/2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "197a2daf465bc1b46c5136a02b6df1d76e3cf3ae",
           "lastSyncedAt": "2026-10-22T08:54:09.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2248",
+      "title": "Intersection of Multiple Arrays",
+      "slug": "intersection-of-multiple-arrays",
+      "problemName": "2248-intersection-of-multiple-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-multiple-arrays/",
+      "folderPath": "leetcode/2248-intersection-of-multiple-arrays/",
+      "readmePath": "leetcode/2248-intersection-of-multiple-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2248-intersection-of-multiple-arrays.cpp",
+          "path": "leetcode/2248-intersection-of-multiple-arrays/2248-intersection-of-multiple-arrays.cpp",
+          "sha": "ac16c29668b830162a3c79f45c066ff9a70d341d",
+          "lastSyncedAt": "2026-10-22T08:56:07.687Z"
         }
       ]
     },
