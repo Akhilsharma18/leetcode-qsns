@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T08:49:20.253Z",
+  "updatedAt": "2026-10-22T08:49:25.717Z",
   "problems": [
     {
       "frontendId": "836",
@@ -104,6 +104,26 @@
           "path": "leetcode/1837-sum-of-digits-in-base-k/1837-sum-of-digits-in-base-k.cpp",
           "sha": "757dc3d16bfb545dfd5a59d5b9c61124958bbf62",
           "lastSyncedAt": "2026-10-22T08:49:20.253Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2235",
+      "title": "Add Two Integers",
+      "slug": "add-two-integers",
+      "problemName": "2235-add-two-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-integers/",
+      "folderPath": "leetcode/2235-add-two-integers/",
+      "readmePath": "leetcode/2235-add-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2235-add-two-integers.cpp",
+          "path": "leetcode/2235-add-two-integers/2235-add-two-integers.cpp",
+          "sha": "cda7e7603edf6c6664289e1dd27009557e459467",
+          "lastSyncedAt": "2026-10-22T08:49:25.717Z"
         }
       ]
     },
