@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T09:13:24.458Z",
+  "updatedAt": "2026-10-22T09:14:29.828Z",
   "problems": [
     {
       "frontendId": "22",
@@ -364,6 +364,26 @@
           "path": "leetcode/3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.cpp",
           "sha": "a14169e2e4c81445019456eea1cd2616b8ff9202",
           "lastSyncedAt": "2026-10-22T09:05:18.428Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3954",
+      "title": "Sum of Compatible Numbers in Range I",
+      "slug": "sum-of-compatible-numbers-in-range-i",
+      "problemName": "3954-sum-of-compatible-numbers-in-range-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/",
+      "folderPath": "leetcode/3954-sum-of-compatible-numbers-in-range-i/",
+      "readmePath": "leetcode/3954-sum-of-compatible-numbers-in-range-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3954-sum-of-compatible-numbers-in-range-i.cpp",
+          "path": "leetcode/3954-sum-of-compatible-numbers-in-range-i/3954-sum-of-compatible-numbers-in-range-i.cpp",
+          "sha": "503c377d91b572c7571444a934d47c2a484c97ff",
+          "lastSyncedAt": "2026-10-22T09:14:29.828Z"
         }
       ]
     }
