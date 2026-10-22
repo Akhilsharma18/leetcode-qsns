@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T09:56:14.472Z",
+  "updatedAt": "2026-10-22T09:56:38.336Z",
   "problems": [
     {
       "frontendId": "1",
@@ -114,8 +114,8 @@
       "problemName": "0594-longest-harmonious-subsequence",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/longest-harmonious-subsequence/",
-      "folderPath": "leetcode/0594-longest-harmonious-subsequence/",
-      "readmePath": "leetcode/0594-longest-harmonious-subsequence/README.md",
+      "folderPath": "leetcode/Easy/0594-longest-harmonious-subsequence/",
+      "readmePath": "leetcode/Easy/0594-longest-harmonious-subsequence/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -123,7 +123,7 @@
           "filename": "0594-longest-harmonious-subsequence.cpp",
           "path": "leetcode/0594-longest-harmonious-subsequence/0594-longest-harmonious-subsequence.cpp",
           "sha": "a5d285eaffd7dd6d5cdb360bb452cda661c6fb71",
-          "lastSyncedAt": "2026-10-22T09:12:07.393Z"
+          "lastSyncedAt": "2026-10-22T09:56:38.336Z"
         }
       ]
     },
