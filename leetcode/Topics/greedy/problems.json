@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-22T08:56:55.755Z",
+  "updatedAt": "2026-10-22T08:58:34.583Z",
   "problems": [
     {
       "frontendId": "45",
@@ -264,6 +264,26 @@
           "path": "leetcode/2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "sha": "5458de49112ae0ab719a488843eb048b1e8e5019",
           "lastSyncedAt": "2026-10-22T08:42:13.323Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3302",
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "slug": "find-the-lexicographically-smallest-valid-sequence",
+      "problemName": "3302-find-the-lexicographically-smallest-valid-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/",
+      "folderPath": "leetcode/3302-find-the-lexicographically-smallest-valid-sequence/",
+      "readmePath": "leetcode/3302-find-the-lexicographically-smallest-valid-sequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3302-find-the-lexicographically-smallest-valid-sequence.cpp",
+          "path": "leetcode/3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.cpp",
+          "sha": "d7903d4594d83603790bafc71fd7a4a4a1f86f68",
+          "lastSyncedAt": "2026-10-22T08:58:34.583Z"
         }
       ]
     },
