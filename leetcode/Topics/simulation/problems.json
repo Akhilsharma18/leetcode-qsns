@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T11:04:15.197Z",
+  "updatedAt": "2026-10-22T11:04:22.914Z",
   "problems": [
     {
       "frontendId": "682",
@@ -14,8 +14,8 @@
       "problemName": "0682-baseball-game",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
-      "folderPath": "leetcode/Easy/0682-baseball-game/",
-      "readmePath": "leetcode/Easy/0682-baseball-game/README.md",
+      "folderPath": "leetcode/0682-baseball-game/",
+      "readmePath": "leetcode/0682-baseball-game/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -23,7 +23,7 @@
           "filename": "0682-baseball-game.cpp",
           "path": "leetcode/0682-baseball-game/0682-baseball-game.cpp",
           "sha": "7eb391d0401585cb57bfb95cc9af189d9f06f3d2",
-          "lastSyncedAt": "2026-10-22T09:57:35.603Z"
+          "lastSyncedAt": "2026-10-22T11:04:22.914Z"
         }
       ]
     },
