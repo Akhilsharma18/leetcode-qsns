@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T10:14:37.804Z",
+  "updatedAt": "2026-10-22T10:15:06.075Z",
   "problems": [
     {
       "frontendId": "1",
@@ -314,8 +314,8 @@
       "problemName": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
       "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
-      "folderPath": "leetcode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/",
-      "readmePath": "leetcode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md",
+      "folderPath": "leetcode/2897-apply-operations-on-array-to-maximize-sum-of-squares/",
+      "readmePath": "leetcode/2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -323,7 +323,7 @@
           "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "path": "leetcode/2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "sha": "5458de49112ae0ab719a488843eb048b1e8e5019",
-          "lastSyncedAt": "2026-10-22T09:45:42.674Z"
+          "lastSyncedAt": "2026-10-22T10:15:06.075Z"
         }
       ]
     },
