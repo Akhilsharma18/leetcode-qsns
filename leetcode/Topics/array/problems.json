@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:45:28.214Z",
+  "updatedAt": "2026-10-22T08:46:02.451Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "leetcode/2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.cpp",
           "sha": "0cca4e8438bd33a32cc7648e850e8d712636b222",
           "lastSyncedAt": "2026-10-22T08:41:25.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "folderPath": "leetcode/3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "leetcode/3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3550-smallest-index-with-digit-sum-equal-to-index.cpp",
+          "path": "leetcode/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
+          "sha": "00608e26d29dabdcdcdb30cbbc9f21e07ed18050",
+          "lastSyncedAt": "2026-10-22T08:46:02.451Z"
         }
       ]
     },
