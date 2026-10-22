@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T09:54:28.729Z",
+  "updatedAt": "2026-10-22T09:55:43.124Z",
   "problems": [
     {
       "frontendId": "5",
@@ -74,8 +74,8 @@
       "problemName": "0045-jump-game-ii",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
-      "folderPath": "leetcode/0045-jump-game-ii/",
-      "readmePath": "leetcode/0045-jump-game-ii/README.md",
+      "folderPath": "leetcode/Medium/0045-jump-game-ii/",
+      "readmePath": "leetcode/Medium/0045-jump-game-ii/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -83,7 +83,7 @@
           "filename": "0045-jump-game-ii.cpp",
           "path": "leetcode/0045-jump-game-ii/0045-jump-game-ii.cpp",
           "sha": "efa41c2428faaec4b4db6fceca2962b9796d37c7",
-          "lastSyncedAt": "2026-10-22T09:11:23.726Z"
+          "lastSyncedAt": "2026-10-22T09:55:43.124Z"
         }
       ]
     },
