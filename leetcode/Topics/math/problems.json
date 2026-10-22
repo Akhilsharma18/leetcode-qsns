@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:19:20.297Z",
+  "updatedAt": "2026-10-22T09:20:18.690Z",
   "problems": [
     {
       "frontendId": "168",
@@ -404,6 +404,26 @@
           "path": "leetcode/1927-sum-game/1927-sum-game.cpp",
           "sha": "4505e1fc52ca18bdbae24e4bb8e45f92dc455a3a",
           "lastSyncedAt": "2026-10-22T09:09:26.744Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "slug": "find-greatest-common-divisor-of-array",
+      "problemName": "1979-find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "folderPath": "leetcode/1979-find-greatest-common-divisor-of-array/",
+      "readmePath": "leetcode/1979-find-greatest-common-divisor-of-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1979-find-greatest-common-divisor-of-array.cpp",
+          "path": "leetcode/1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
+          "sha": "3565b434a735aa494ced7179aefa2eccbeb333dd",
+          "lastSyncedAt": "2026-10-22T09:20:18.690Z"
         }
       ]
     },
