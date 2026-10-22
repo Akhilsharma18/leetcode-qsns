@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "interactive",
+    "name": "Interactive",
+    "tagId": "61059"
+  },
+  "updatedAt": "2026-10-22T08:59:48.619Z",
+  "problems": [
+    {
+      "frontendId": "1237",
+      "title": "Find Positive Integer Solution for a Given Equation",
+      "slug": "find-positive-integer-solution-for-a-given-equation",
+      "problemName": "1237-find-positive-integer-solution-for-a-given-equation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/",
+      "folderPath": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/",
+      "readmePath": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1237-find-positive-integer-solution-for-a-given-equation.cpp",
+          "path": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/1237-find-positive-integer-solution-for-a-given-equation.cpp",
+          "sha": "3fac227c62956e577395bd470258125a8344dbab",
+          "lastSyncedAt": "2026-10-22T08:59:48.619Z"
+        }
+      ]
+    }
+  ]
+}
