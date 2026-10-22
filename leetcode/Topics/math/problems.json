@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:15:55.584Z",
+  "updatedAt": "2026-10-22T09:16:10.567Z",
   "problems": [
     {
       "frontendId": "168",
@@ -44,6 +44,26 @@
           "path": "leetcode/0319-bulb-switcher/0319-bulb-switcher.cpp",
           "sha": "d697d63786dd053e594d23f23089d28915a03f80",
           "lastSyncedAt": "2026-10-22T09:15:28.618Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "486",
+      "title": "Predict the Winner",
+      "slug": "predict-the-winner",
+      "problemName": "0486-predict-the-winner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+      "folderPath": "leetcode/0486-predict-the-winner/",
+      "readmePath": "leetcode/0486-predict-the-winner/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0486-predict-the-winner.cpp",
+          "path": "leetcode/0486-predict-the-winner/0486-predict-the-winner.cpp",
+          "sha": "48396c8199aa91bca1a4572a53a636ac46da5900",
+          "lastSyncedAt": "2026-10-22T09:16:10.567Z"
         }
       ]
     },
