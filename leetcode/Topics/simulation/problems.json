@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T10:54:14.353Z",
+  "updatedAt": "2026-10-22T10:59:56.850Z",
   "problems": [
     {
       "frontendId": "682",
@@ -94,8 +94,8 @@
       "problemName": "3069-distribute-elements-into-two-arrays-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
-      "folderPath": "leetcode/Easy/3069-distribute-elements-into-two-arrays-i/",
-      "readmePath": "leetcode/Easy/3069-distribute-elements-into-two-arrays-i/README.md",
+      "folderPath": "leetcode/3069-distribute-elements-into-two-arrays-i/",
+      "readmePath": "leetcode/3069-distribute-elements-into-two-arrays-i/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -103,7 +103,7 @@
           "filename": "3069-distribute-elements-into-two-arrays-i.cpp",
           "path": "leetcode/3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.cpp",
           "sha": "f74bf96d9aeaf4ba164458c665124aefebaaa0cb",
-          "lastSyncedAt": "2026-10-22T09:53:59.470Z"
+          "lastSyncedAt": "2026-10-22T10:59:56.850Z"
         }
       ]
     },
