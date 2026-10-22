@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:42:13.323Z",
+  "updatedAt": "2026-10-22T08:42:26.220Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "leetcode/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "4ee62b86a6117083da121d58a73d7e00c9b385e2",
           "lastSyncedAt": "2026-10-22T08:40:19.823Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "leetcode/2778-sum-of-squares-of-special-elements/",
+      "readmePath": "leetcode/2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2778-sum-of-squares-of-special-elements.cpp",
+          "path": "leetcode/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
+          "sha": "e93085d5e776b7a50ec11f1b30a6738c0a23ff79",
+          "lastSyncedAt": "2026-10-22T08:42:26.220Z"
         }
       ]
     },
