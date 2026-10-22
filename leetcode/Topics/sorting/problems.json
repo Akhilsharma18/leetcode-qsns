@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T09:13:34.409Z",
+  "updatedAt": "2026-10-22T09:15:16.260Z",
   "problems": [
     {
       "frontendId": "349",
@@ -364,6 +364,26 @@
           "path": "leetcode/3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
           "sha": "8563f1f1dcf859f7cef523c0f5776b18e90b9e9e",
           "lastSyncedAt": "2026-10-22T09:01:28.712Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "leetcode/3731-find-missing-elements/",
+      "readmePath": "leetcode/3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3731-find-missing-elements.cpp",
+          "path": "leetcode/3731-find-missing-elements/3731-find-missing-elements.cpp",
+          "sha": "9b2c7a75334c195842a6a4e059a742a5dd261efa",
+          "lastSyncedAt": "2026-10-22T09:15:16.260Z"
         }
       ]
     },
