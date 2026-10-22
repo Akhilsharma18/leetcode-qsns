@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:51:45.453Z",
+  "updatedAt": "2026-10-22T08:52:28.068Z",
   "problems": [
     {
       "frontendId": "14",
@@ -364,6 +364,26 @@
           "path": "leetcode/1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.cpp",
           "sha": "3a5cdb210d8fd216eb9f11a71901e3dea2b25c37",
           "lastSyncedAt": "2026-10-22T08:45:17.972Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1927",
+      "title": "Sum Game",
+      "slug": "sum-game",
+      "problemName": "1927-sum-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-game/",
+      "folderPath": "leetcode/1927-sum-game/",
+      "readmePath": "leetcode/1927-sum-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1927-sum-game.cpp",
+          "path": "leetcode/1927-sum-game/1927-sum-game.cpp",
+          "sha": "4505e1fc52ca18bdbae24e4bb8e45f92dc455a3a",
+          "lastSyncedAt": "2026-10-22T08:52:28.068Z"
         }
       ]
     },
