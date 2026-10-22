@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T16:27:58.838Z",
+  "updatedAt": "2026-10-22T16:28:10.155Z",
   "problems": [
     {
       "frontendId": "5",
@@ -263,7 +263,7 @@
           "filename": "0856-score-of-parentheses.cpp",
           "path": "leetcode/0856-score-of-parentheses/0856-score-of-parentheses.cpp",
           "sha": "22d8becba799c49447827adb0f52293dda3f0cbb",
-          "lastSyncedAt": "2026-10-22T16:04:19.643Z"
+          "lastSyncedAt": "2026-10-22T16:28:10.155Z"
         }
       ]
     },
