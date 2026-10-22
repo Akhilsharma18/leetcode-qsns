@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:10:48.685Z",
+  "updatedAt": "2026-10-22T11:11:10.306Z",
   "problems": [
     {
       "frontendId": "1",
@@ -723,7 +723,7 @@
           "filename": "1979-find-greatest-common-divisor-of-array.cpp",
           "path": "leetcode/1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
           "sha": "3565b434a735aa494ced7179aefa2eccbeb333dd",
-          "lastSyncedAt": "2026-10-22T09:20:18.690Z"
+          "lastSyncedAt": "2026-10-22T11:11:10.306Z"
         }
       ]
     },
