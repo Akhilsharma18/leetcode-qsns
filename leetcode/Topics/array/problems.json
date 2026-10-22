@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:17:42.949Z",
+  "updatedAt": "2026-10-22T11:18:07.749Z",
   "problems": [
     {
       "frontendId": "1",
@@ -804,6 +804,26 @@
           "path": "leetcode/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.cpp",
           "sha": "53cd8e47146f38ceaad9b51c720f10268240dc4b",
           "lastSyncedAt": "2026-10-22T10:57:46.116Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2196",
+      "title": "Create Binary Tree From Descriptions",
+      "slug": "create-binary-tree-from-descriptions",
+      "problemName": "2196-create-binary-tree-from-descriptions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+      "folderPath": "leetcode/2196-create-binary-tree-from-descriptions/",
+      "readmePath": "leetcode/2196-create-binary-tree-from-descriptions/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2196-create-binary-tree-from-descriptions.cpp",
+          "path": "leetcode/2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.cpp",
+          "sha": "48d6c0d3804016bf55d08aac2e787edd2a6147d7",
+          "lastSyncedAt": "2026-10-22T11:18:07.749Z"
         }
       ]
     },
