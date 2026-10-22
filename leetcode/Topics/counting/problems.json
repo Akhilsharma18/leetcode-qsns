@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-22T11:02:41.251Z",
+  "updatedAt": "2026-10-22T11:03:00.402Z",
   "problems": [
     {
       "frontendId": "387",
@@ -174,8 +174,8 @@
       "problemName": "3467-transform-array-by-parity",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/transform-array-by-parity/",
-      "folderPath": "leetcode/Easy/3467-transform-array-by-parity/",
-      "readmePath": "leetcode/Easy/3467-transform-array-by-parity/README.md",
+      "folderPath": "leetcode/3467-transform-array-by-parity/",
+      "readmePath": "leetcode/3467-transform-array-by-parity/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -183,7 +183,7 @@
           "filename": "3467-transform-array-by-parity.cpp",
           "path": "leetcode/3467-transform-array-by-parity/3467-transform-array-by-parity.cpp",
           "sha": "a7ff405920fc2a30648d358c1773d0249c672474",
-          "lastSyncedAt": "2026-10-22T09:56:29.859Z"
+          "lastSyncedAt": "2026-10-22T11:03:00.402Z"
         }
       ]
     },
