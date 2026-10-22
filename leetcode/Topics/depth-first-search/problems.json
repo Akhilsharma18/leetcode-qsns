@@ -5,8 +5,28 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-22T09:22:15.516Z",
+  "updatedAt": "2026-10-22T09:25:20.130Z",
   "problems": [
+    {
+      "frontendId": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "problemName": "0111-minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+      "folderPath": "leetcode/0111-minimum-depth-of-binary-tree/",
+      "readmePath": "leetcode/0111-minimum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0111-minimum-depth-of-binary-tree.cpp",
+          "path": "leetcode/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.cpp",
+          "sha": "bb5013c21f4207956ea15e705207fcf038349a45",
+          "lastSyncedAt": "2026-10-22T09:25:20.130Z"
+        }
+      ]
+    },
     {
       "frontendId": "2265",
       "title": "Count Nodes Equal to Average of Subtree",
