@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T09:22:29.619Z",
+  "updatedAt": "2026-10-22T09:23:22.500Z",
   "problems": [
     {
       "frontendId": "349",
@@ -164,6 +164,26 @@
           "path": "leetcode/1096-brace-expansion-ii/1096-brace-expansion-ii.cpp",
           "sha": "76fe89a260b793c8724acc88d72bb77d402d0cef",
           "lastSyncedAt": "2026-10-22T09:04:27.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1288",
+      "title": "Remove Covered Intervals",
+      "slug": "remove-covered-intervals",
+      "problemName": "1288-remove-covered-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-covered-intervals/",
+      "folderPath": "leetcode/1288-remove-covered-intervals/",
+      "readmePath": "leetcode/1288-remove-covered-intervals/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1288-remove-covered-intervals.cpp",
+          "path": "leetcode/1288-remove-covered-intervals/1288-remove-covered-intervals.cpp",
+          "sha": "c1f99c9182def204c4455bcec425fc3597c344e2",
+          "lastSyncedAt": "2026-10-22T09:23:22.500Z"
         }
       ]
     },
