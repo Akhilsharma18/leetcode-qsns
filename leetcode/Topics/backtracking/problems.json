@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking",
+    "tagId": "14"
+  },
+  "updatedAt": "2026-10-22T08:43:16.520Z",
+  "problems": [
+    {
+      "frontendId": "301",
+      "title": "Remove Invalid Parentheses",
+      "slug": "remove-invalid-parentheses",
+      "problemName": "0301-remove-invalid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+      "folderPath": "leetcode/0301-remove-invalid-parentheses/",
+      "readmePath": "leetcode/0301-remove-invalid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0301-remove-invalid-parentheses.cpp",
+          "path": "leetcode/0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp",
+          "sha": "5858e86f3bc28138989fa454471bc5e210e90950",
+          "lastSyncedAt": "2026-10-22T08:43:16.520Z"
+        }
+      ]
+    }
+  ]
+}
