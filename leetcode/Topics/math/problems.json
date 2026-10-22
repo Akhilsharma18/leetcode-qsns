@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:16:10.567Z",
+  "updatedAt": "2026-10-22T09:16:54.870Z",
   "problems": [
     {
       "frontendId": "168",
@@ -104,6 +104,26 @@
           "path": "leetcode/0877-stone-game/0877-stone-game.cpp",
           "sha": "78176b57d82d37a6ae27193bc76b26a2a5c4d01e",
           "lastSyncedAt": "2026-10-22T09:15:55.584Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1025",
+      "title": "Divisor Game",
+      "slug": "divisor-game",
+      "problemName": "1025-divisor-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisor-game/",
+      "folderPath": "leetcode/1025-divisor-game/",
+      "readmePath": "leetcode/1025-divisor-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1025-divisor-game.cpp",
+          "path": "leetcode/1025-divisor-game/1025-divisor-game.cpp",
+          "sha": "abfc90b94e06ed7ff16332d4b3d6a72a13bff043",
+          "lastSyncedAt": "2026-10-22T09:16:54.870Z"
         }
       ]
     },
