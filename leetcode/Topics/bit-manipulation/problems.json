@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T08:42:13.323Z",
+  "updatedAt": "2026-10-22T08:50:33.534Z",
   "problems": [
     {
       "frontendId": "2897",
@@ -24,6 +24,26 @@
           "path": "leetcode/2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "sha": "5458de49112ae0ab719a488843eb048b1e8e5019",
           "lastSyncedAt": "2026-10-22T08:42:13.323Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3568",
+      "title": "Minimum Moves to Clean the Classroom",
+      "slug": "minimum-moves-to-clean-the-classroom",
+      "problemName": "3568-minimum-moves-to-clean-the-classroom",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/",
+      "folderPath": "leetcode/3568-minimum-moves-to-clean-the-classroom/",
+      "readmePath": "leetcode/3568-minimum-moves-to-clean-the-classroom/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3568-minimum-moves-to-clean-the-classroom.cpp",
+          "path": "leetcode/3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.cpp",
+          "sha": "cadd70a23596c4f9499b510e225d4fe1a6126df8",
+          "lastSyncedAt": "2026-10-22T08:50:33.534Z"
         }
       ]
     }
