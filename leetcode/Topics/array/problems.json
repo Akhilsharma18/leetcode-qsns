@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:13:42.194Z",
+  "updatedAt": "2026-10-22T11:13:42.610Z",
   "problems": [
     {
       "frontendId": "1",
@@ -403,7 +403,7 @@
           "filename": "1288-remove-covered-intervals.cpp",
           "path": "leetcode/1288-remove-covered-intervals/1288-remove-covered-intervals.cpp",
           "sha": "c1f99c9182def204c4455bcec425fc3597c344e2",
-          "lastSyncedAt": "2026-10-22T09:23:22.500Z"
+          "lastSyncedAt": "2026-10-22T11:13:42.610Z"
         }
       ]
     },
