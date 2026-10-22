@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T09:52:07.129Z",
+  "updatedAt": "2026-10-22T09:53:42.423Z",
   "problems": [
     {
       "frontendId": "389",
@@ -74,8 +74,8 @@
       "problemName": "3116-kth-smallest-amount-with-single-denomination-combination",
       "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/",
-      "folderPath": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/",
-      "readmePath": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/README.md",
+      "folderPath": "leetcode/Hard/3116-kth-smallest-amount-with-single-denomination-combination/",
+      "readmePath": "leetcode/Hard/3116-kth-smallest-amount-with-single-denomination-combination/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -83,7 +83,7 @@
           "filename": "3116-kth-smallest-amount-with-single-denomination-combination.cpp",
           "path": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.cpp",
           "sha": "f1debdf8747a70ebde5166386f96a75ac2a13187",
-          "lastSyncedAt": "2026-10-22T09:09:39.641Z"
+          "lastSyncedAt": "2026-10-22T09:53:42.423Z"
         }
       ]
     },
