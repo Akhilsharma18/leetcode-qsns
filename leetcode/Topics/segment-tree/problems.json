@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-22T10:53:45.986Z",
+  "updatedAt": "2026-10-22T11:01:39.283Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -14,8 +14,8 @@
       "problemName": "2213-longest-substring-of-one-repeating-character",
       "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
-      "folderPath": "leetcode/Hard/2213-longest-substring-of-one-repeating-character/",
-      "readmePath": "leetcode/Hard/2213-longest-substring-of-one-repeating-character/README.md",
+      "folderPath": "leetcode/2213-longest-substring-of-one-repeating-character/",
+      "readmePath": "leetcode/2213-longest-substring-of-one-repeating-character/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -23,7 +23,7 @@
           "filename": "2213-longest-substring-of-one-repeating-character.cpp",
           "path": "leetcode/2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "3a9a5e761e18b0bc7bf0910847d5001f11c8b779",
-          "lastSyncedAt": "2026-10-22T09:55:15.190Z"
+          "lastSyncedAt": "2026-10-22T11:01:39.283Z"
         }
       ]
     },
