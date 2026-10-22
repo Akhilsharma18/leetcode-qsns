@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-10-22T09:22:29.619Z",
+  "updatedAt": "2026-10-22T09:22:50.115Z",
   "problems": [
     {
       "frontendId": "2685",
@@ -44,6 +44,26 @@
           "path": "leetcode/3310-remove-methods-from-project/3310-remove-methods-from-project.cpp",
           "sha": "17e1cc0e2191f68b72d4988c93fb344b8fdc7d45",
           "lastSyncedAt": "2026-10-22T09:15:04.642Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3532",
+      "title": "Path Existence Queries in a Graph I",
+      "slug": "path-existence-queries-in-a-graph-i",
+      "problemName": "3532-path-existence-queries-in-a-graph-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/",
+      "folderPath": "leetcode/3532-path-existence-queries-in-a-graph-i/",
+      "readmePath": "leetcode/3532-path-existence-queries-in-a-graph-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3532-path-existence-queries-in-a-graph-i.cpp",
+          "path": "leetcode/3532-path-existence-queries-in-a-graph-i/3532-path-existence-queries-in-a-graph-i.cpp",
+          "sha": "20a5d5a48e6cccf50f489a8f773ecc654fc6893d",
+          "lastSyncedAt": "2026-10-22T09:22:50.115Z"
         }
       ]
     },
