@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:58:15.369Z",
+  "updatedAt": "2026-10-22T08:58:47.299Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "leetcode/0835-image-overlap/0835-image-overlap.cpp",
           "sha": "f44d0c27cea82a69bc9514ba7d4b2216c2d66ad1",
           "lastSyncedAt": "2026-10-22T08:48:17.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "leetcode/0912-sort-an-array/",
+      "readmePath": "leetcode/0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0912-sort-an-array.cpp",
+          "path": "leetcode/0912-sort-an-array/0912-sort-an-array.cpp",
+          "sha": "2f168417f3a3e9dc875c0ea7ebfaf43b2235c28d",
+          "lastSyncedAt": "2026-10-22T08:58:47.299Z"
         }
       ]
     },
