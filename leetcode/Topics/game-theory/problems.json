@@ -5,7 +5,7 @@
     "name": "Game Theory",
     "tagId": "61073"
   },
-  "updatedAt": "2026-10-22T09:16:54.870Z",
+  "updatedAt": "2026-10-22T09:18:00.993Z",
   "problems": [
     {
       "frontendId": "486",
@@ -204,6 +204,26 @@
           "path": "leetcode/2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "197a2daf465bc1b46c5136a02b6df1d76e3cf3ae",
           "lastSyncedAt": "2026-10-22T09:10:33.736Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3222",
+      "title": "Find the Winning Player in Coin Game",
+      "slug": "find-the-winning-player-in-coin-game",
+      "problemName": "3222-find-the-winning-player-in-coin-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-winning-player-in-coin-game/",
+      "folderPath": "leetcode/3222-find-the-winning-player-in-coin-game/",
+      "readmePath": "leetcode/3222-find-the-winning-player-in-coin-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3222-find-the-winning-player-in-coin-game.cpp",
+          "path": "leetcode/3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.cpp",
+          "sha": "c137ee2fbfb2f810e7bef09c7aa6526c7d12560d",
+          "lastSyncedAt": "2026-10-22T09:18:00.993Z"
         }
       ]
     }
