@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "trie",
+    "name": "Trie",
+    "tagId": "27"
+  },
+  "updatedAt": "2026-10-22T08:50:13.817Z",
+  "problems": [
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "leetcode/0014-longest-common-prefix/",
+      "readmePath": "leetcode/0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0014-longest-common-prefix.cpp",
+          "path": "leetcode/0014-longest-common-prefix/0014-longest-common-prefix.cpp",
+          "sha": "927f592d8b7dab5b59ac07512cfbcab413c9f7ad",
+          "lastSyncedAt": "2026-10-22T08:50:13.817Z"
+        }
+      ]
+    }
+  ]
+}
