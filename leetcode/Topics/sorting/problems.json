@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T09:06:46.588Z",
+  "updatedAt": "2026-10-22T09:08:33.219Z",
   "problems": [
     {
       "frontendId": "349",
@@ -263,7 +263,7 @@
           "filename": "2948-make-lexicographically-smallest-array-by-swapping-elements.cpp",
           "path": "leetcode/2948-make-lexicographically-smallest-array-by-swapping-elements/2948-make-lexicographically-smallest-array-by-swapping-elements.cpp",
           "sha": "0f2e4ee4fd6dd2125b111168920d559748f0710d",
-          "lastSyncedAt": "2026-10-22T08:51:09.121Z"
+          "lastSyncedAt": "2026-10-22T09:08:33.219Z"
         }
       ]
     },
