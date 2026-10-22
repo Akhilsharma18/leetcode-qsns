@@ -5,7 +5,7 @@
     "name": "Impartial Game",
     "tagId": "122083"
   },
-  "updatedAt": "2026-10-22T09:18:22.441Z",
+  "updatedAt": "2026-10-22T11:08:09.415Z",
   "problems": [
     {
       "frontendId": "292",
@@ -43,7 +43,7 @@
           "filename": "1025-divisor-game.cpp",
           "path": "leetcode/1025-divisor-game/1025-divisor-game.cpp",
           "sha": "abfc90b94e06ed7ff16332d4b3d6a72a13bff043",
-          "lastSyncedAt": "2026-10-22T09:16:54.870Z"
+          "lastSyncedAt": "2026-10-22T11:08:09.415Z"
         }
       ]
     }
