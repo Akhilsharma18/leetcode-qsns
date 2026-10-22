@@ -5,8 +5,28 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-22T09:19:43.186Z",
+  "updatedAt": "2026-10-22T09:21:47.496Z",
   "problems": [
+    {
+      "frontendId": "1291",
+      "title": "Sequential Digits",
+      "slug": "sequential-digits",
+      "problemName": "1291-sequential-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sequential-digits/",
+      "folderPath": "leetcode/1291-sequential-digits/",
+      "readmePath": "leetcode/1291-sequential-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1291-sequential-digits.cpp",
+          "path": "leetcode/1291-sequential-digits/1291-sequential-digits.cpp",
+          "sha": "ad50973f1c2e5ad983b3b4e60272d51940aafdbf",
+          "lastSyncedAt": "2026-10-22T09:21:47.496Z"
+        }
+      ]
+    },
     {
       "frontendId": "1534",
       "title": "Count Good Triplets",
