@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T09:44:57.435Z",
+  "updatedAt": "2026-10-22T09:45:33.802Z",
   "problems": [
     {
       "frontendId": "15",
@@ -574,8 +574,8 @@
       "problemName": "3727-maximum-alternating-sum-of-squares",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
-      "folderPath": "leetcode/3727-maximum-alternating-sum-of-squares/",
-      "readmePath": "leetcode/3727-maximum-alternating-sum-of-squares/README.md",
+      "folderPath": "leetcode/Medium/3727-maximum-alternating-sum-of-squares/",
+      "readmePath": "leetcode/Medium/3727-maximum-alternating-sum-of-squares/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -583,7 +583,7 @@
           "filename": "3727-maximum-alternating-sum-of-squares.cpp",
           "path": "leetcode/3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
           "sha": "8563f1f1dcf859f7cef523c0f5776b18e90b9e9e",
-          "lastSyncedAt": "2026-10-22T09:01:28.712Z"
+          "lastSyncedAt": "2026-10-22T09:45:33.802Z"
         }
       ]
     },
