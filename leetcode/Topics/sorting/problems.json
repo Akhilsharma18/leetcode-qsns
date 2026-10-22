@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T09:15:16.260Z",
+  "updatedAt": "2026-10-22T09:16:27.645Z",
   "problems": [
     {
       "frontendId": "349",
@@ -284,6 +284,26 @@
           "path": "leetcode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "sha": "565b074d0c0adb9d420407413e75dfc9017f25f5",
           "lastSyncedAt": "2026-10-22T09:11:17.010Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3016",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problemName": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+      "folderPath": "leetcode/3016-minimum-number-of-pushes-to-type-word-ii/",
+      "readmePath": "leetcode/3016-minimum-number-of-pushes-to-type-word-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3016-minimum-number-of-pushes-to-type-word-ii.cpp",
+          "path": "leetcode/3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.cpp",
+          "sha": "06e0a06a3f0d69b5766856357eda8f6180296474",
+          "lastSyncedAt": "2026-10-22T09:16:27.645Z"
         }
       ]
     },
