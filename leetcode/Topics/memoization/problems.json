@@ -5,7 +5,7 @@
     "name": "Memoization",
     "tagId": "33"
   },
-  "updatedAt": "2026-10-22T10:48:41.951Z",
+  "updatedAt": "2026-10-22T11:08:23.277Z",
   "problems": [
     {
       "frontendId": "509",
@@ -23,7 +23,7 @@
           "filename": "0509-fibonacci-number.cpp",
           "path": "leetcode/0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "bb3deb7dc423324682349fbd6ab1baa6ad4b811a",
-          "lastSyncedAt": "2026-10-22T09:17:12.471Z"
+          "lastSyncedAt": "2026-10-22T11:08:23.277Z"
         }
       ]
     },
