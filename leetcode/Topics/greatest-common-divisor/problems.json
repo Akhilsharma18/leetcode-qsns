@@ -5,7 +5,7 @@
     "name": "Greatest Common Divisor",
     "tagId": "98781"
   },
-  "updatedAt": "2026-10-22T11:11:10.306Z",
+  "updatedAt": "2026-10-22T11:11:26.276Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -43,7 +43,7 @@
           "filename": "3312-sorted-gcd-pair-queries.cpp",
           "path": "leetcode/3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
           "sha": "c913706845764c248152f5e7f991efaf4974ef97",
-          "lastSyncedAt": "2026-10-22T09:20:38.800Z"
+          "lastSyncedAt": "2026-10-22T11:11:26.276Z"
         }
       ]
     },
