@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T11:18:26.966Z",
+  "updatedAt": "2026-10-22T11:18:36.462Z",
   "problems": [
     {
       "frontendId": "15",
@@ -564,6 +564,26 @@
           "path": "leetcode/3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.cpp",
           "sha": "75060ca273e7782e1ea7bd85524e24f77dd21e97",
           "lastSyncedAt": "2026-10-22T11:14:50.407Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3633",
+      "title": "Earliest Finish Time for Land and Water Rides I",
+      "slug": "earliest-finish-time-for-land-and-water-rides-i",
+      "problemName": "3633-earliest-finish-time-for-land-and-water-rides-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/",
+      "folderPath": "leetcode/3633-earliest-finish-time-for-land-and-water-rides-i/",
+      "readmePath": "leetcode/3633-earliest-finish-time-for-land-and-water-rides-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3633-earliest-finish-time-for-land-and-water-rides-i.cpp",
+          "path": "leetcode/3633-earliest-finish-time-for-land-and-water-rides-i/3633-earliest-finish-time-for-land-and-water-rides-i.cpp",
+          "sha": "a579722581b12509aa1b599d7b48c56e31447037",
+          "lastSyncedAt": "2026-10-22T11:18:36.462Z"
         }
       ]
     },
