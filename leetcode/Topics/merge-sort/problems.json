@@ -5,7 +5,7 @@
     "name": "Merge Sort",
     "tagId": "61051"
   },
-  "updatedAt": "2026-10-22T09:13:34.409Z",
+  "updatedAt": "2026-10-22T09:24:14.900Z",
   "problems": [
     {
       "frontendId": "912",
@@ -24,6 +24,26 @@
           "path": "leetcode/0912-sort-an-array/0912-sort-an-array.cpp",
           "sha": "2f168417f3a3e9dc875c0ea7ebfaf43b2235c28d",
           "lastSyncedAt": "2026-10-22T09:13:34.409Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "leetcode/3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "leetcode/3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3737-count-subarrays-with-majority-element-i.cpp",
+          "path": "leetcode/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.cpp",
+          "sha": "ed95717fcc2d658fa2ed20a3ff340347dd663d98",
+          "lastSyncedAt": "2026-10-22T09:24:14.900Z"
         }
       ]
     }
