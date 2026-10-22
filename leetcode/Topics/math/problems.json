@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T11:09:09.407Z",
+  "updatedAt": "2026-10-22T11:09:27.887Z",
   "problems": [
     {
       "frontendId": "168",
@@ -43,7 +43,7 @@
           "filename": "0292-nim-game.cpp",
           "path": "leetcode/0292-nim-game/0292-nim-game.cpp",
           "sha": "502a093448d93d4d47d5d356ba3804fc6ccc05a2",
-          "lastSyncedAt": "2026-10-22T09:18:22.441Z"
+          "lastSyncedAt": "2026-10-22T11:09:27.887Z"
         }
       ]
     },
