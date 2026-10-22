@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-tree",
+    "name": "Binary Tree",
+    "tagId": "61057"
+  },
+  "updatedAt": "2026-10-22T08:40:32.551Z",
+  "problems": [
+    {
+      "frontendId": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problemName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "folderPath": "leetcode/1569-number-of-ways-to-reorder-array-to-get-same-bst/",
+      "readmePath": "leetcode/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
+          "path": "leetcode/1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
+          "sha": "4ca1273430e2228c70eefe013d5683e38ac84f3b",
+          "lastSyncedAt": "2026-10-22T08:40:32.551Z"
+        }
+      ]
+    }
+  ]
+}
