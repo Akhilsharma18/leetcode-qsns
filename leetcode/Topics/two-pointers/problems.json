@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T09:25:45.403Z",
+  "updatedAt": "2026-10-22T09:26:15.630Z",
   "problems": [
     {
       "frontendId": "5",
@@ -64,6 +64,26 @@
           "path": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/1237-find-positive-integer-solution-for-a-given-equation.cpp",
           "sha": "3fac227c62956e577395bd470258125a8344dbab",
           "lastSyncedAt": "2026-10-22T09:14:14.881Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "problemName": "2095-delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+      "folderPath": "leetcode/2095-delete-the-middle-node-of-a-linked-list/",
+      "readmePath": "leetcode/2095-delete-the-middle-node-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2095-delete-the-middle-node-of-a-linked-list.cpp",
+          "path": "leetcode/2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp",
+          "sha": "7e5c0542fbc069a9ed2c405cab8ba899311f789d",
+          "lastSyncedAt": "2026-10-22T09:26:15.630Z"
         }
       ]
     },
