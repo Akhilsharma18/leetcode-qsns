@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T16:33:08.136Z",
+  "updatedAt": "2026-10-22T16:33:27.285Z",
   "problems": [
     {
       "frontendId": "5",
@@ -103,7 +103,7 @@
           "filename": "0115-distinct-subsequences.cpp",
           "path": "leetcode/0115-distinct-subsequences/0115-distinct-subsequences.cpp",
           "sha": "1b2e532618d14799caa621df13221042f653d9a6",
-          "lastSyncedAt": "2026-10-22T16:08:50.437Z"
+          "lastSyncedAt": "2026-10-22T16:33:27.285Z"
         }
       ]
     },
