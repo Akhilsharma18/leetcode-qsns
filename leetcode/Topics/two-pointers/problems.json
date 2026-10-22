@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T08:47:54.304Z",
+  "updatedAt": "2026-10-22T08:51:20.704Z",
   "problems": [
     {
       "frontendId": "2472",
@@ -24,6 +24,26 @@
           "path": "leetcode/2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
           "sha": "ca2612b8110856b45409c6c1a9d0c1bc3c858209",
           "lastSyncedAt": "2026-10-22T08:47:54.304Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3734",
+      "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "problemName": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/",
+      "folderPath": "leetcode/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/",
+      "readmePath": "leetcode/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target.cpp",
+          "path": "leetcode/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/3734-lexicographically-smallest-palindromic-permutation-greater-than-target.cpp",
+          "sha": "a1829d34dc3be93d5ac0de27821386e311be44e6",
+          "lastSyncedAt": "2026-10-22T08:51:20.704Z"
         }
       ]
     }
