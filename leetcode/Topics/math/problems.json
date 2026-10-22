@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:18:49.487Z",
+  "updatedAt": "2026-10-22T09:19:06.488Z",
   "problems": [
     {
       "frontendId": "168",
@@ -564,6 +564,26 @@
           "path": "leetcode/3360-stone-removal-game/3360-stone-removal-game.cpp",
           "sha": "33b9095477c556d90695d95f8c3733c2e24c45d1",
           "lastSyncedAt": "2026-10-22T09:12:56.972Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3514",
+      "title": "Number of Unique XOR Triplets II",
+      "slug": "number-of-unique-xor-triplets-ii",
+      "problemName": "3514-number-of-unique-xor-triplets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/",
+      "folderPath": "leetcode/3514-number-of-unique-xor-triplets-ii/",
+      "readmePath": "leetcode/3514-number-of-unique-xor-triplets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3514-number-of-unique-xor-triplets-ii.cpp",
+          "path": "leetcode/3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.cpp",
+          "sha": "7f25971a26ad5176b39626b2262a24171f21bb36",
+          "lastSyncedAt": "2026-10-22T09:19:06.488Z"
         }
       ]
     },
