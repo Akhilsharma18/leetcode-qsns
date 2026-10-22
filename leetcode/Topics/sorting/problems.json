@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T10:41:22.845Z",
+  "updatedAt": "2026-10-22T10:41:48.959Z",
   "problems": [
     {
       "frontendId": "15",
@@ -374,8 +374,8 @@
       "problemName": "2333-minimum-sum-of-squared-difference",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
-      "folderPath": "leetcode/Medium/2333-minimum-sum-of-squared-difference/",
-      "readmePath": "leetcode/Medium/2333-minimum-sum-of-squared-difference/README.md",
+      "folderPath": "leetcode/2333-minimum-sum-of-squared-difference/",
+      "readmePath": "leetcode/2333-minimum-sum-of-squared-difference/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -383,7 +383,7 @@
           "filename": "2333-minimum-sum-of-squared-difference.cpp",
           "path": "leetcode/2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
           "sha": "49c8ba64f353161beb872d5929a9423e349c2718",
-          "lastSyncedAt": "2026-10-22T09:45:58.648Z"
+          "lastSyncedAt": "2026-10-22T10:41:48.959Z"
         }
       ]
     },
