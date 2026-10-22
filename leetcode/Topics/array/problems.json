@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:09:52.633Z",
+  "updatedAt": "2026-10-22T09:09:59.824Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,7 +243,7 @@
           "filename": "1386-cinema-seat-allocation.cpp",
           "path": "leetcode/1386-cinema-seat-allocation/1386-cinema-seat-allocation.cpp",
           "sha": "00110c9dca4570cf4096745dd4af9d6dd2893085",
-          "lastSyncedAt": "2026-10-22T08:53:18.891Z"
+          "lastSyncedAt": "2026-10-22T09:09:59.824Z"
         }
       ]
     },
