@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-22T09:58:00.503Z",
+  "updatedAt": "2026-10-22T10:08:17.514Z",
   "problems": [
     {
       "frontendId": "45",
@@ -374,8 +374,8 @@
       "problemName": "3348-smallest-divisible-digit-product-ii",
       "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
-      "folderPath": "leetcode/3348-smallest-divisible-digit-product-ii/",
-      "readmePath": "leetcode/3348-smallest-divisible-digit-product-ii/README.md",
+      "folderPath": "leetcode/Hard/3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "leetcode/Hard/3348-smallest-divisible-digit-product-ii/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -383,7 +383,7 @@
           "filename": "3348-smallest-divisible-digit-product-ii.cpp",
           "path": "leetcode/3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.cpp",
           "sha": "7143daceedda63b8ef22451c424d54caa03c68ac",
-          "lastSyncedAt": "2026-10-22T09:14:03.943Z"
+          "lastSyncedAt": "2026-10-22T10:08:17.514Z"
         }
       ]
     },
