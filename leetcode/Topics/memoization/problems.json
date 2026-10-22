@@ -5,8 +5,28 @@
     "name": "Memoization",
     "tagId": "33"
   },
-  "updatedAt": "2026-10-22T09:00:30.028Z",
+  "updatedAt": "2026-10-22T09:17:12.471Z",
   "problems": [
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "leetcode/0509-fibonacci-number/",
+      "readmePath": "leetcode/0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0509-fibonacci-number.cpp",
+          "path": "leetcode/0509-fibonacci-number/0509-fibonacci-number.cpp",
+          "sha": "bb3deb7dc423324682349fbd6ab1baa6ad4b811a",
+          "lastSyncedAt": "2026-10-22T09:17:12.471Z"
+        }
+      ]
+    },
     {
       "frontendId": "1569",
       "title": "Number of Ways to Reorder Array to Get Same BST",
