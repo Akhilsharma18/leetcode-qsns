@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:11:10.381Z",
+  "updatedAt": "2026-10-22T09:11:17.010Z",
   "problems": [
     {
       "frontendId": "1",
@@ -663,7 +663,7 @@
           "filename": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "path": "leetcode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "sha": "565b074d0c0adb9d420407413e75dfc9017f25f5",
-          "lastSyncedAt": "2026-10-22T08:55:21.291Z"
+          "lastSyncedAt": "2026-10-22T09:11:17.010Z"
         }
       ]
     },
