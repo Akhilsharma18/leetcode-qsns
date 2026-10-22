@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T09:12:45.459Z",
+  "updatedAt": "2026-10-22T09:15:16.260Z",
   "problems": [
     {
       "frontendId": "1",
@@ -464,6 +464,26 @@
           "path": "leetcode/3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.cpp",
           "sha": "8c3cdc41b03c9c1eacb182b4f9b5792e1fe4d4f9",
           "lastSyncedAt": "2026-10-22T09:08:47.632Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "leetcode/3731-find-missing-elements/",
+      "readmePath": "leetcode/3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3731-find-missing-elements.cpp",
+          "path": "leetcode/3731-find-missing-elements/3731-find-missing-elements.cpp",
+          "sha": "9b2c7a75334c195842a6a4e059a742a5dd261efa",
+          "lastSyncedAt": "2026-10-22T09:15:16.260Z"
         }
       ]
     }
