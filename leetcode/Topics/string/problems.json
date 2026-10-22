@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T11:17:51.024Z",
+  "updatedAt": "2026-10-22T11:17:59.511Z",
   "problems": [
     {
       "frontendId": "5",
@@ -423,7 +423,7 @@
           "filename": "1190-reverse-substrings-between-each-pair-of-parentheses.cpp",
           "path": "leetcode/1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.cpp",
           "sha": "84476a5573876a63a85fc52f4254145e4432d410",
-          "lastSyncedAt": "2026-10-22T10:52:24.050Z"
+          "lastSyncedAt": "2026-10-22T11:17:59.511Z"
         }
       ]
     },
