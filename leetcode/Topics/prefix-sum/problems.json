@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-22T16:33:40.089Z",
+  "updatedAt": "2026-10-22T16:35:46.186Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -103,7 +103,7 @@
           "filename": "1872-stone-game-viii.cpp",
           "path": "leetcode/1872-stone-game-viii/1872-stone-game-viii.cpp",
           "sha": "b0eafdda0fd90c31dfaaf03708991e6a8745951a",
-          "lastSyncedAt": "2026-10-22T16:10:33.689Z"
+          "lastSyncedAt": "2026-10-22T16:35:46.186Z"
         }
       ]
     },
