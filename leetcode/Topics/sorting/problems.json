@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T09:18:38.411Z",
+  "updatedAt": "2026-10-22T09:18:49.487Z",
   "problems": [
     {
       "frontendId": "349",
@@ -404,6 +404,26 @@
           "path": "leetcode/3517-smallest-palindromic-rearrangement-i/3517-smallest-palindromic-rearrangement-i.cpp",
           "sha": "ab2901407647e65f859ec800b4ffd0a6a6f186e0",
           "lastSyncedAt": "2026-10-22T09:17:50.391Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "problemName": "3536-maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "folderPath": "leetcode/3536-maximum-product-of-two-digits/",
+      "readmePath": "leetcode/3536-maximum-product-of-two-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3536-maximum-product-of-two-digits.cpp",
+          "path": "leetcode/3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.cpp",
+          "sha": "64d59af7ab019e357cc252c4facca9b4fc2d8830",
+          "lastSyncedAt": "2026-10-22T09:18:49.487Z"
         }
       ]
     },
