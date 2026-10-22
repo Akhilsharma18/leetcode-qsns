@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T09:46:54.532Z",
+  "updatedAt": "2026-10-22T09:47:06.017Z",
   "problems": [
     {
       "frontendId": "5",
@@ -54,8 +54,8 @@
       "problemName": "0032-longest-valid-parentheses",
       "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
-      "folderPath": "leetcode/0032-longest-valid-parentheses/",
-      "readmePath": "leetcode/0032-longest-valid-parentheses/README.md",
+      "folderPath": "leetcode/Hard/0032-longest-valid-parentheses/",
+      "readmePath": "leetcode/Hard/0032-longest-valid-parentheses/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -63,7 +63,7 @@
           "filename": "0032-longest-valid-parentheses.cpp",
           "path": "leetcode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp",
           "sha": "e030018a0b2800479cdb7eed866f0a9d6bae4753",
-          "lastSyncedAt": "2026-10-22T09:02:54.391Z"
+          "lastSyncedAt": "2026-10-22T09:47:06.017Z"
         }
       ]
     },
