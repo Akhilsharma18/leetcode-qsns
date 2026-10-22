@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:06:15.784Z",
+  "updatedAt": "2026-10-22T09:06:34.753Z",
   "problems": [
     {
       "frontendId": "168",
@@ -43,7 +43,7 @@
           "filename": "0836-rectangle-overlap.cpp",
           "path": "leetcode/0836-rectangle-overlap/0836-rectangle-overlap.cpp",
           "sha": "204913dd62668d49f40772a8d670a230a3690567",
-          "lastSyncedAt": "2026-10-22T08:48:09.366Z"
+          "lastSyncedAt": "2026-10-22T09:06:34.753Z"
         }
       ]
     },
