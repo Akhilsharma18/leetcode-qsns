@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:45:58.648Z",
+  "updatedAt": "2026-10-22T09:47:44.106Z",
   "problems": [
     {
       "frontendId": "1",
@@ -854,8 +854,8 @@
       "problemName": "2267-check-if-there-is-a-valid-parentheses-string-path",
       "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/",
-      "folderPath": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/",
-      "readmePath": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/README.md",
+      "folderPath": "leetcode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/",
+      "readmePath": "leetcode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -863,7 +863,7 @@
           "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
           "path": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
           "sha": "20236ba50f2f1a7fbc3c162f551eecf495a13989",
-          "lastSyncedAt": "2026-10-22T09:03:27.614Z"
+          "lastSyncedAt": "2026-10-22T09:47:44.106Z"
         }
       ]
     },
