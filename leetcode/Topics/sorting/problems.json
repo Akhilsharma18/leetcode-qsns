@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T11:12:33.980Z",
+  "updatedAt": "2026-10-22T11:12:55.081Z",
   "problems": [
     {
       "frontendId": "15",
@@ -523,7 +523,7 @@
           "filename": "3534-path-existence-queries-in-a-graph-ii.cpp",
           "path": "leetcode/3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
           "sha": "484f92564ab8bcdfc7f098d7bb2a34d2c3e82d96",
-          "lastSyncedAt": "2026-10-22T09:22:29.619Z"
+          "lastSyncedAt": "2026-10-22T11:12:55.081Z"
         }
       ]
     },
