@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:23:22.500Z",
+  "updatedAt": "2026-10-22T09:23:47.013Z",
   "problems": [
     {
       "frontendId": "1",
@@ -904,6 +904,26 @@
           "path": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.cpp",
           "sha": "f1debdf8747a70ebde5166386f96a75ac2a13187",
           "lastSyncedAt": "2026-10-22T09:09:39.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3286",
+      "title": "Find a Safe Walk Through a Grid",
+      "slug": "find-a-safe-walk-through-a-grid",
+      "problemName": "3286-find-a-safe-walk-through-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+      "folderPath": "leetcode/3286-find-a-safe-walk-through-a-grid/",
+      "readmePath": "leetcode/3286-find-a-safe-walk-through-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3286-find-a-safe-walk-through-a-grid.cpp",
+          "path": "leetcode/3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.cpp",
+          "sha": "34b632c86cfdfdeb3935601759ea0cbb53de3195",
+          "lastSyncedAt": "2026-10-22T09:23:47.013Z"
         }
       ]
     },
