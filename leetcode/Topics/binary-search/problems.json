@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-22T09:20:38.800Z",
+  "updatedAt": "2026-10-22T09:22:29.619Z",
   "problems": [
     {
       "frontendId": "349",
@@ -204,6 +204,26 @@
           "path": "leetcode/3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.cpp",
           "sha": "faf762512b02c40db9c89101b3c55c7f14be282e",
           "lastSyncedAt": "2026-10-22T09:19:29.967Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3534",
+      "title": "Path Existence Queries in a Graph II",
+      "slug": "path-existence-queries-in-a-graph-ii",
+      "problemName": "3534-path-existence-queries-in-a-graph-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/",
+      "folderPath": "leetcode/3534-path-existence-queries-in-a-graph-ii/",
+      "readmePath": "leetcode/3534-path-existence-queries-in-a-graph-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3534-path-existence-queries-in-a-graph-ii.cpp",
+          "path": "leetcode/3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
+          "sha": "484f92564ab8bcdfc7f098d7bb2a34d2c3e82d96",
+          "lastSyncedAt": "2026-10-22T09:22:29.619Z"
         }
       ]
     }
