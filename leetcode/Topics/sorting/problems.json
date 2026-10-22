@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T09:12:18.160Z",
+  "updatedAt": "2026-10-22T09:12:27.974Z",
   "problems": [
     {
       "frontendId": "349",
@@ -63,7 +63,7 @@
           "filename": "0506-relative-ranks.cpp",
           "path": "leetcode/0506-relative-ranks/0506-relative-ranks.cpp",
           "sha": "13d687c1fa8f0f75783ca7718c2b54ec07782e75",
-          "lastSyncedAt": "2026-10-22T08:57:10.728Z"
+          "lastSyncedAt": "2026-10-22T09:12:27.974Z"
         }
       ]
     },
