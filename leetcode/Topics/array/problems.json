@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:19:29.967Z",
+  "updatedAt": "2026-10-22T09:19:51.456Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "leetcode/1140-stone-game-ii/1140-stone-game-ii.cpp",
           "sha": "aa812d5ec19a5f3695202573e29fda14c61ad846",
           "lastSyncedAt": "2026-10-22T09:13:08.989Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1260",
+      "title": "Shift 2D Grid",
+      "slug": "shift-2d-grid",
+      "problemName": "1260-shift-2d-grid",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shift-2d-grid/",
+      "folderPath": "leetcode/1260-shift-2d-grid/",
+      "readmePath": "leetcode/1260-shift-2d-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1260-shift-2d-grid.cpp",
+          "path": "leetcode/1260-shift-2d-grid/1260-shift-2d-grid.cpp",
+          "sha": "2db56e98070d59540769f802c45e6aa5932a125a",
+          "lastSyncedAt": "2026-10-22T09:19:51.456Z"
         }
       ]
     },
