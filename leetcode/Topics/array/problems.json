@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:41:25.641Z",
+  "updatedAt": "2026-10-22T08:41:41.524Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "leetcode/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "4ee62b86a6117083da121d58a73d7e00c9b385e2",
           "lastSyncedAt": "2026-10-22T08:40:19.823Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problemName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+      "folderPath": "leetcode/2913-subarrays-distinct-element-sum-of-squares-i/",
+      "readmePath": "leetcode/2913-subarrays-distinct-element-sum-of-squares-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2913-subarrays-distinct-element-sum-of-squares-i.cpp",
+          "path": "leetcode/2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.cpp",
+          "sha": "1196d571458040742bfa0e2c079b7dc266b4706f",
+          "lastSyncedAt": "2026-10-22T08:41:41.524Z"
         }
       ]
     },
