@@ -5,7 +5,7 @@
     "name": "Brainteaser",
     "tagId": "32"
   },
-  "updatedAt": "2026-10-22T11:09:27.887Z",
+  "updatedAt": "2026-10-22T16:44:02.486Z",
   "problems": [
     {
       "frontendId": "292",
@@ -43,7 +43,7 @@
           "filename": "0319-bulb-switcher.cpp",
           "path": "leetcode/0319-bulb-switcher/0319-bulb-switcher.cpp",
           "sha": "d697d63786dd053e594d23f23089d28915a03f80",
-          "lastSyncedAt": "2026-10-22T11:06:52.223Z"
+          "lastSyncedAt": "2026-10-22T16:44:02.486Z"
         }
       ]
     },
