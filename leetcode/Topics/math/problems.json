@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T11:16:12.607Z",
+  "updatedAt": "2026-10-22T11:18:22.941Z",
   "problems": [
     {
       "frontendId": "168",
@@ -864,6 +864,26 @@
           "path": "leetcode/3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.cpp",
           "sha": "dd4fca78d6ad291a772c26f3c907a678093eb90d",
           "lastSyncedAt": "2026-10-22T11:15:20.999Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3751",
+      "title": "Total Waviness of Numbers in Range I",
+      "slug": "total-waviness-of-numbers-in-range-i",
+      "problemName": "3751-total-waviness-of-numbers-in-range-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/",
+      "folderPath": "leetcode/3751-total-waviness-of-numbers-in-range-i/",
+      "readmePath": "leetcode/3751-total-waviness-of-numbers-in-range-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3751-total-waviness-of-numbers-in-range-i.cpp",
+          "path": "leetcode/3751-total-waviness-of-numbers-in-range-i/3751-total-waviness-of-numbers-in-range-i.cpp",
+          "sha": "70c79b0df719aeeec70ad249072e3499e06e0c17",
+          "lastSyncedAt": "2026-10-22T11:18:22.941Z"
         }
       ]
     },
