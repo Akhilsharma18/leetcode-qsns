@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:14:56.604Z",
+  "updatedAt": "2026-10-22T09:15:28.618Z",
   "problems": [
     {
       "frontendId": "168",
@@ -24,6 +24,26 @@
           "path": "leetcode/0168-excel-sheet-column-title/0168-excel-sheet-column-title.cpp",
           "sha": "13cfdb6c3611e3634edb6d39970e9d0ffe3105a2",
           "lastSyncedAt": "2026-10-22T09:10:28.265Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "319",
+      "title": "Bulb Switcher",
+      "slug": "bulb-switcher",
+      "problemName": "0319-bulb-switcher",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bulb-switcher/",
+      "folderPath": "leetcode/0319-bulb-switcher/",
+      "readmePath": "leetcode/0319-bulb-switcher/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0319-bulb-switcher.cpp",
+          "path": "leetcode/0319-bulb-switcher/0319-bulb-switcher.cpp",
+          "sha": "d697d63786dd053e594d23f23089d28915a03f80",
+          "lastSyncedAt": "2026-10-22T09:15:28.618Z"
         }
       ]
     },
