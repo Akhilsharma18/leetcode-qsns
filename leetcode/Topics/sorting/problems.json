@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T08:48:25.291Z",
+  "updatedAt": "2026-10-22T08:51:09.121Z",
   "problems": [
     {
       "frontendId": "1096",
@@ -84,6 +84,26 @@
           "path": "leetcode/2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
           "sha": "49c8ba64f353161beb872d5929a9423e349c2718",
           "lastSyncedAt": "2026-10-22T08:42:33.964Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2948",
+      "title": "Make Lexicographically Smallest Array by Swapping Elements",
+      "slug": "make-lexicographically-smallest-array-by-swapping-elements",
+      "problemName": "2948-make-lexicographically-smallest-array-by-swapping-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/",
+      "folderPath": "leetcode/2948-make-lexicographically-smallest-array-by-swapping-elements/",
+      "readmePath": "leetcode/2948-make-lexicographically-smallest-array-by-swapping-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2948-make-lexicographically-smallest-array-by-swapping-elements.cpp",
+          "path": "leetcode/2948-make-lexicographically-smallest-array-by-swapping-elements/2948-make-lexicographically-smallest-array-by-swapping-elements.cpp",
+          "sha": "0f2e4ee4fd6dd2125b111168920d559748f0710d",
+          "lastSyncedAt": "2026-10-22T08:51:09.121Z"
         }
       ]
     },
