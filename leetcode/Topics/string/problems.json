@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T09:20:02.677Z",
+  "updatedAt": "2026-10-22T09:23:02.622Z",
   "problems": [
     {
       "frontendId": "14",
@@ -744,6 +744,26 @@
           "path": "leetcode/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/3734-lexicographically-smallest-palindromic-permutation-greater-than-target.cpp",
           "sha": "a1829d34dc3be93d5ac0de27821386e311be44e6",
           "lastSyncedAt": "2026-10-22T09:08:40.773Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3756",
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+      "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+      "problemName": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/",
+      "folderPath": "leetcode/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/",
+      "readmePath": "leetcode/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
+          "path": "leetcode/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
+          "sha": "9e578767a4d667ab25dc2e55092daaa7b61a2836",
+          "lastSyncedAt": "2026-10-22T09:23:02.622Z"
         }
       ]
     },
