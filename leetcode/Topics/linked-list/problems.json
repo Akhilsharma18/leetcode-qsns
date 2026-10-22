@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-22T09:26:23.252Z",
+  "updatedAt": "2026-10-22T09:52:20.497Z",
   "problems": [
     {
       "frontendId": "21",
@@ -74,8 +74,8 @@
       "problemName": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
-      "folderPath": "leetcode/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
-      "readmePath": "leetcode/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/README.md",
+      "folderPath": "leetcode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
+      "readmePath": "leetcode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -83,7 +83,7 @@
           "filename": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.cpp",
           "path": "leetcode/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.cpp",
           "sha": "ccff633ae9eb541a98f7f725da3654725600087f",
-          "lastSyncedAt": "2026-10-22T09:08:25.121Z"
+          "lastSyncedAt": "2026-10-22T09:52:20.497Z"
         }
       ]
     },
