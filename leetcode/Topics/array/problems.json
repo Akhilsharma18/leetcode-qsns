@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:25:00.860Z",
+  "updatedAt": "2026-10-22T09:25:12.374Z",
   "problems": [
     {
       "frontendId": "1",
@@ -484,6 +484,26 @@
           "path": "leetcode/1534-count-good-triplets/1534-count-good-triplets.cpp",
           "sha": "49a9c3ce40f8fe0457152c6752e588e66ca56d3b",
           "lastSyncedAt": "2026-10-22T09:14:48.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "problemName": "1539-kth-missing-positive-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "folderPath": "leetcode/1539-kth-missing-positive-number/",
+      "readmePath": "leetcode/1539-kth-missing-positive-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1539-kth-missing-positive-number.cpp",
+          "path": "leetcode/1539-kth-missing-positive-number/1539-kth-missing-positive-number.cpp",
+          "sha": "51344ccfbb266da6e51f3bb2c4369944b2453d95",
+          "lastSyncedAt": "2026-10-22T09:25:12.374Z"
         }
       ]
     },
