@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T08:47:54.304Z",
+  "updatedAt": "2026-10-22T08:48:25.291Z",
   "problems": [
     {
       "frontendId": "22",
@@ -164,6 +164,26 @@
           "path": "leetcode/2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
           "sha": "ca2612b8110856b45409c6c1a9d0c1bc3c858209",
           "lastSyncedAt": "2026-10-22T08:47:54.304Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3414",
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "slug": "maximum-score-of-non-overlapping-intervals",
+      "problemName": "3414-maximum-score-of-non-overlapping-intervals",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/",
+      "folderPath": "leetcode/3414-maximum-score-of-non-overlapping-intervals/",
+      "readmePath": "leetcode/3414-maximum-score-of-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3414-maximum-score-of-non-overlapping-intervals.cpp",
+          "path": "leetcode/3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.cpp",
+          "sha": "3056c6739b270a6b79113307cb6140d71296d1d3",
+          "lastSyncedAt": "2026-10-22T08:48:25.291Z"
         }
       ]
     },
