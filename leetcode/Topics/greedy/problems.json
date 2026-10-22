@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-22T09:22:29.619Z",
+  "updatedAt": "2026-10-22T09:24:03.741Z",
   "problems": [
     {
       "frontendId": "45",
@@ -164,6 +164,26 @@
           "path": "leetcode/1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.cpp",
           "sha": "5f91c6061e26db55d37639015c98af2d947b6e0b",
           "lastSyncedAt": "2026-10-22T09:02:03.725Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1846",
+      "title": "Maximum Element After Decreasing and Rearranging",
+      "slug": "maximum-element-after-decreasing-and-rearranging",
+      "problemName": "1846-maximum-element-after-decreasing-and-rearranging",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/",
+      "folderPath": "leetcode/1846-maximum-element-after-decreasing-and-rearranging/",
+      "readmePath": "leetcode/1846-maximum-element-after-decreasing-and-rearranging/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1846-maximum-element-after-decreasing-and-rearranging.cpp",
+          "path": "leetcode/1846-maximum-element-after-decreasing-and-rearranging/1846-maximum-element-after-decreasing-and-rearranging.cpp",
+          "sha": "e2dcbc22af23f706df7a1a7ef0fcda1df876f6c0",
+          "lastSyncedAt": "2026-10-22T09:24:03.741Z"
         }
       ]
     },
