@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-22T09:47:27.379Z",
+  "updatedAt": "2026-10-22T09:47:36.117Z",
   "problems": [
     {
       "frontendId": "20",
@@ -154,8 +154,8 @@
       "problemName": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/",
-      "folderPath": "leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/",
-      "readmePath": "leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md",
+      "folderPath": "leetcode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/",
+      "readmePath": "leetcode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -163,7 +163,7 @@
           "filename": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp",
           "path": "leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp",
           "sha": "3e9aa9bcee19c809f21ea129036c4336c2dfcdcd",
-          "lastSyncedAt": "2026-10-22T09:03:20.920Z"
+          "lastSyncedAt": "2026-10-22T09:47:36.117Z"
         }
       ]
     },
