@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:52:28.068Z",
+  "updatedAt": "2026-10-22T08:54:00.326Z",
   "problems": [
     {
       "frontendId": "14",
@@ -104,6 +104,26 @@
           "path": "leetcode/0115-distinct-subsequences/0115-distinct-subsequences.cpp",
           "sha": "1b2e532618d14799caa621df13221042f653d9a6",
           "lastSyncedAt": "2026-10-22T08:49:38.322Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "168",
+      "title": "Excel Sheet Column Title",
+      "slug": "excel-sheet-column-title",
+      "problemName": "0168-excel-sheet-column-title",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
+      "folderPath": "leetcode/0168-excel-sheet-column-title/",
+      "readmePath": "leetcode/0168-excel-sheet-column-title/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0168-excel-sheet-column-title.cpp",
+          "path": "leetcode/0168-excel-sheet-column-title/0168-excel-sheet-column-title.cpp",
+          "sha": "13cfdb6c3611e3634edb6d39970e9d0ffe3105a2",
+          "lastSyncedAt": "2026-10-22T08:54:00.326Z"
         }
       ]
     },
