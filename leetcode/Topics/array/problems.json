@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:55:21.291Z",
+  "updatedAt": "2026-10-22T08:55:32.565Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "leetcode/0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "927f592d8b7dab5b59ac07512cfbcab413c9f7ad",
           "lastSyncedAt": "2026-10-22T08:50:13.817Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "45",
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "problemName": "0045-jump-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+      "folderPath": "leetcode/0045-jump-game-ii/",
+      "readmePath": "leetcode/0045-jump-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0045-jump-game-ii.cpp",
+          "path": "leetcode/0045-jump-game-ii/0045-jump-game-ii.cpp",
+          "sha": "efa41c2428faaec4b4db6fceca2962b9796d37c7",
+          "lastSyncedAt": "2026-10-22T08:55:32.565Z"
         }
       ]
     },
