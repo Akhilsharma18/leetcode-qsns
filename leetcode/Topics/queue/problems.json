@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "queue",
+    "name": "Queue",
+    "tagId": "34"
+  },
+  "updatedAt": "2026-10-22T08:45:28.214Z",
+  "problems": [
+    {
+      "frontendId": "2073",
+      "title": "Time Needed to Buy Tickets",
+      "slug": "time-needed-to-buy-tickets",
+      "problemName": "2073-time-needed-to-buy-tickets",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/time-needed-to-buy-tickets/",
+      "folderPath": "leetcode/2073-time-needed-to-buy-tickets/",
+      "readmePath": "leetcode/2073-time-needed-to-buy-tickets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2073-time-needed-to-buy-tickets.cpp",
+          "path": "leetcode/2073-time-needed-to-buy-tickets/2073-time-needed-to-buy-tickets.cpp",
+          "sha": "46c99bca7d8386f7d7fbcc479676141f6a90ddc8",
+          "lastSyncedAt": "2026-10-22T08:45:28.214Z"
+        }
+      ]
+    }
+  ]
+}
