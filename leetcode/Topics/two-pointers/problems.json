@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T08:51:20.704Z",
+  "updatedAt": "2026-10-22T08:53:07.769Z",
   "problems": [
     {
       "frontendId": "2472",
@@ -24,6 +24,26 @@
           "path": "leetcode/2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
           "sha": "ca2612b8110856b45409c6c1a9d0c1bc3c858209",
           "lastSyncedAt": "2026-10-22T08:47:54.304Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3069",
+      "title": "Distribute Elements Into Two Arrays I",
+      "slug": "distribute-elements-into-two-arrays-i",
+      "problemName": "3069-distribute-elements-into-two-arrays-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+      "folderPath": "leetcode/3069-distribute-elements-into-two-arrays-i/",
+      "readmePath": "leetcode/3069-distribute-elements-into-two-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3069-distribute-elements-into-two-arrays-i.cpp",
+          "path": "leetcode/3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.cpp",
+          "sha": "f74bf96d9aeaf4ba164458c665124aefebaaa0cb",
+          "lastSyncedAt": "2026-10-22T08:53:07.769Z"
         }
       ]
     },
