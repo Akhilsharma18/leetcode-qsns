@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T09:16:27.645Z",
+  "updatedAt": "2026-10-22T09:17:35.888Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "leetcode/3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.cpp",
           "sha": "31c98bdf9b06737ad021b23372081bcc4154fbc5",
           "lastSyncedAt": "2026-10-22T09:06:55.857Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3518",
+      "title": "Smallest Palindromic Rearrangement II",
+      "slug": "smallest-palindromic-rearrangement-ii",
+      "problemName": "3518-smallest-palindromic-rearrangement-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
+      "folderPath": "leetcode/3518-smallest-palindromic-rearrangement-ii/",
+      "readmePath": "leetcode/3518-smallest-palindromic-rearrangement-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3518-smallest-palindromic-rearrangement-ii.cpp",
+          "path": "leetcode/3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.cpp",
+          "sha": "5fb07944e67bd40ceafe7db9c9bd2a16c7cdaac0",
+          "lastSyncedAt": "2026-10-22T09:17:35.888Z"
         }
       ]
     },
