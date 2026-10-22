@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:44:26.148Z",
+  "updatedAt": "2026-10-22T08:44:35.355Z",
   "problems": [
     {
       "frontendId": "20",
@@ -164,6 +164,26 @@
           "path": "leetcode/1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "652d9053bb3d8a1b5da26d244a61cfa541a03252",
           "lastSyncedAt": "2026-10-22T08:43:06.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1111",
+      "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+      "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "problemName": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/",
+      "folderPath": "leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/",
+      "readmePath": "leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp",
+          "path": "leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp",
+          "sha": "3e9aa9bcee19c809f21ea129036c4336c2dfcdcd",
+          "lastSyncedAt": "2026-10-22T08:44:35.355Z"
         }
       ]
     },
