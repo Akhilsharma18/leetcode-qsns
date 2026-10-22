@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T08:46:32.421Z",
+  "updatedAt": "2026-10-22T08:46:41.932Z",
   "problems": [
     {
       "frontendId": "1569",
@@ -24,6 +24,26 @@
           "path": "leetcode/1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
           "sha": "4ca1273430e2228c70eefe013d5683e38ac84f3b",
           "lastSyncedAt": "2026-10-22T08:40:32.551Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "leetcode/3524-find-x-value-of-array-i/",
+      "readmePath": "leetcode/3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3524-find-x-value-of-array-i.cpp",
+          "path": "leetcode/3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.cpp",
+          "sha": "a14169e2e4c81445019456eea1cd2616b8ff9202",
+          "lastSyncedAt": "2026-10-22T08:46:41.932Z"
         }
       ]
     },
