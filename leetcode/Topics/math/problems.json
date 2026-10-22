@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T08:49:05.696Z",
+  "updatedAt": "2026-10-22T08:49:20.253Z",
   "problems": [
     {
       "frontendId": "836",
@@ -84,6 +84,26 @@
           "path": "leetcode/1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
           "sha": "16427f352cc894f3e2b4d11f68462488cb3022d8",
           "lastSyncedAt": "2026-10-22T08:47:41.934Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1837",
+      "title": "Sum of Digits in Base K",
+      "slug": "sum-of-digits-in-base-k",
+      "problemName": "1837-sum-of-digits-in-base-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-digits-in-base-k/",
+      "folderPath": "leetcode/1837-sum-of-digits-in-base-k/",
+      "readmePath": "leetcode/1837-sum-of-digits-in-base-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1837-sum-of-digits-in-base-k.cpp",
+          "path": "leetcode/1837-sum-of-digits-in-base-k/1837-sum-of-digits-in-base-k.cpp",
+          "sha": "757dc3d16bfb545dfd5a59d5b9c61124958bbf62",
+          "lastSyncedAt": "2026-10-22T08:49:20.253Z"
         }
       ]
     },
