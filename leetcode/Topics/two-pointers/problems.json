@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T09:26:23.252Z",
+  "updatedAt": "2026-10-22T09:35:54.238Z",
   "problems": [
     {
       "frontendId": "5",
@@ -24,6 +24,26 @@
           "path": "leetcode/0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
           "sha": "beb7443854b3422ada16e3b0e4aa13cb4f340122",
           "lastSyncedAt": "2026-10-22T09:25:45.403Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "leetcode/0015-3sum/",
+      "readmePath": "leetcode/0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0015-3sum.cpp",
+          "path": "leetcode/0015-3sum/0015-3sum.cpp",
+          "sha": "c8ab270af6ac147ee834d7beb8b441db506e791d",
+          "lastSyncedAt": "2026-10-22T09:35:54.238Z"
         }
       ]
     },
