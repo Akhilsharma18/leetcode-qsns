@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:53:59.470Z",
+  "updatedAt": "2026-10-22T09:54:08.060Z",
   "problems": [
     {
       "frontendId": "1",
@@ -434,8 +434,8 @@
       "problemName": "1386-cinema-seat-allocation",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation/",
-      "folderPath": "leetcode/1386-cinema-seat-allocation/",
-      "readmePath": "leetcode/1386-cinema-seat-allocation/README.md",
+      "folderPath": "leetcode/Medium/1386-cinema-seat-allocation/",
+      "readmePath": "leetcode/Medium/1386-cinema-seat-allocation/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -443,7 +443,7 @@
           "filename": "1386-cinema-seat-allocation.cpp",
           "path": "leetcode/1386-cinema-seat-allocation/1386-cinema-seat-allocation.cpp",
           "sha": "00110c9dca4570cf4096745dd4af9d6dd2893085",
-          "lastSyncedAt": "2026-10-22T09:09:59.824Z"
+          "lastSyncedAt": "2026-10-22T09:54:08.060Z"
         }
       ]
     },
