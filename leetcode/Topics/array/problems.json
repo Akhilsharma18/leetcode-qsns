@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T09:00:05.186Z",
+  "updatedAt": "2026-10-22T09:00:11.752Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1023,7 +1023,7 @@
           "filename": "3886-sum-of-sortable-integers.cpp",
           "path": "leetcode/3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.cpp",
           "sha": "8c180881343427ec786c4df319691d48e1b2748a",
-          "lastSyncedAt": "2026-10-22T08:39:58.188Z"
+          "lastSyncedAt": "2026-10-22T09:00:11.752Z"
         }
       ]
     },
