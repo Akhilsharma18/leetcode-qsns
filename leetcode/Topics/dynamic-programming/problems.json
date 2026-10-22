@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T08:52:01.222Z",
+  "updatedAt": "2026-10-22T08:53:46.799Z",
   "problems": [
     {
       "frontendId": "22",
@@ -124,6 +124,26 @@
           "path": "leetcode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
           "sha": "2e7e1daea0442a69b29fbc2c18ddeed73eab1adb",
           "lastSyncedAt": "2026-10-22T08:47:28.208Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1563",
+      "title": "Stone Game V",
+      "slug": "stone-game-v",
+      "problemName": "1563-stone-game-v",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
+      "folderPath": "leetcode/1563-stone-game-v/",
+      "readmePath": "leetcode/1563-stone-game-v/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1563-stone-game-v.cpp",
+          "path": "leetcode/1563-stone-game-v/1563-stone-game-v.cpp",
+          "sha": "4abe1ee2022a17a79dc26e581a014653a95e7236",
+          "lastSyncedAt": "2026-10-22T08:53:46.799Z"
         }
       ]
     },
