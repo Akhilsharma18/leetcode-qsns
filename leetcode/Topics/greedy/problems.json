@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-22T11:24:24.432Z",
+  "updatedAt": "2026-10-22T11:25:21.268Z",
   "problems": [
     {
       "frontendId": "45",
@@ -23,7 +23,7 @@
           "filename": "0045-jump-game-ii.cpp",
           "path": "leetcode/0045-jump-game-ii/0045-jump-game-ii.cpp",
           "sha": "efa41c2428faaec4b4db6fceca2962b9796d37c7",
-          "lastSyncedAt": "2026-10-22T11:02:11.336Z"
+          "lastSyncedAt": "2026-10-22T11:25:21.268Z"
         }
       ]
     },
