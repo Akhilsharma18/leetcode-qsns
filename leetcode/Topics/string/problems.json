@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T11:16:17.710Z",
+  "updatedAt": "2026-10-22T11:16:29.841Z",
   "problems": [
     {
       "frontendId": "5",
@@ -283,7 +283,7 @@
           "filename": "0921-minimum-add-to-make-parentheses-valid.cpp",
           "path": "leetcode/0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp",
           "sha": "00417ac02a813bea8f2b3d1e6b0367f6660926ac",
-          "lastSyncedAt": "2026-10-22T10:50:49.076Z"
+          "lastSyncedAt": "2026-10-22T11:16:29.841Z"
         }
       ]
     },
