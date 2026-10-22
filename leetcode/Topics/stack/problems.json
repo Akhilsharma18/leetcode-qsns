@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-22T09:20:02.677Z",
+  "updatedAt": "2026-10-22T09:26:23.252Z",
   "problems": [
     {
       "frontendId": "20",
@@ -264,6 +264,26 @@
           "path": "leetcode/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "20be2bc46490ab02f702b98a8d009889131cae9b",
           "lastSyncedAt": "2026-10-22T09:03:37.933Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2130",
+      "title": "Maximum Twin Sum of a Linked List",
+      "slug": "maximum-twin-sum-of-a-linked-list",
+      "problemName": "2130-maximum-twin-sum-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+      "folderPath": "leetcode/2130-maximum-twin-sum-of-a-linked-list/",
+      "readmePath": "leetcode/2130-maximum-twin-sum-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2130-maximum-twin-sum-of-a-linked-list.cpp",
+          "path": "leetcode/2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.cpp",
+          "sha": "a1e38e073f1084529fedd5e24a80a39a9c1261d3",
+          "lastSyncedAt": "2026-10-22T09:26:23.252Z"
         }
       ]
     }
