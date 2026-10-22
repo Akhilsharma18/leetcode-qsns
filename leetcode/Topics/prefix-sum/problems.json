@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-22T09:13:08.989Z",
+  "updatedAt": "2026-10-22T09:20:38.800Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -84,6 +84,26 @@
           "path": "leetcode/1872-stone-game-viii/1872-stone-game-viii.cpp",
           "sha": "b0eafdda0fd90c31dfaaf03708991e6a8745951a",
           "lastSyncedAt": "2026-10-22T09:09:11.158Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "leetcode/3312-sorted-gcd-pair-queries/",
+      "readmePath": "leetcode/3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3312-sorted-gcd-pair-queries.cpp",
+          "path": "leetcode/3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
+          "sha": "c913706845764c248152f5e7f991efaf4974ef97",
+          "lastSyncedAt": "2026-10-22T09:20:38.800Z"
         }
       ]
     },
