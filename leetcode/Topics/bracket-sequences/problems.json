@@ -5,8 +5,28 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-22T08:43:49.195Z",
+  "updatedAt": "2026-10-22T08:44:02.296Z",
   "problems": [
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "leetcode/0032-longest-valid-parentheses/",
+      "readmePath": "leetcode/0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0032-longest-valid-parentheses.cpp",
+          "path": "leetcode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp",
+          "sha": "e030018a0b2800479cdb7eed866f0a9d6bae4753",
+          "lastSyncedAt": "2026-10-22T08:44:02.296Z"
+        }
+      ]
+    },
     {
       "frontendId": "678",
       "title": "Valid Parenthesis String",
