@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-22T10:51:19.341Z",
+  "updatedAt": "2026-10-22T10:51:30.506Z",
   "problems": [
     {
       "frontendId": "20",
@@ -34,8 +34,8 @@
       "problemName": "0022-generate-parentheses",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
-      "folderPath": "leetcode/Medium/0022-generate-parentheses/",
-      "readmePath": "leetcode/Medium/0022-generate-parentheses/README.md",
+      "folderPath": "leetcode/0022-generate-parentheses/",
+      "readmePath": "leetcode/0022-generate-parentheses/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -43,7 +43,7 @@
           "filename": "0022-generate-parentheses.cpp",
           "path": "leetcode/0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "41bc03132f3aad5cd3c592d5e49cd3c916a3a02a",
-          "lastSyncedAt": "2026-10-22T09:47:17.658Z"
+          "lastSyncedAt": "2026-10-22T10:51:30.506Z"
         }
       ]
     },
