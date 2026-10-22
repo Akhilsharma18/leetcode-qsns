@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T09:19:06.488Z",
+  "updatedAt": "2026-10-22T09:19:20.297Z",
   "problems": [
     {
       "frontendId": "389",
@@ -84,6 +84,26 @@
           "path": "leetcode/3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.cpp",
           "sha": "f1debdf8747a70ebde5166386f96a75ac2a13187",
           "lastSyncedAt": "2026-10-22T09:09:39.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3513",
+      "title": "Number of Unique XOR Triplets I",
+      "slug": "number-of-unique-xor-triplets-i",
+      "problemName": "3513-number-of-unique-xor-triplets-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/",
+      "folderPath": "leetcode/3513-number-of-unique-xor-triplets-i/",
+      "readmePath": "leetcode/3513-number-of-unique-xor-triplets-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3513-number-of-unique-xor-triplets-i.cpp",
+          "path": "leetcode/3513-number-of-unique-xor-triplets-i/3513-number-of-unique-xor-triplets-i.cpp",
+          "sha": "d10408f91d1133b86bcce85a7dc0cdaa9886c8f0",
+          "lastSyncedAt": "2026-10-22T09:19:20.297Z"
         }
       ]
     },
