@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T09:23:32.142Z",
+  "updatedAt": "2026-10-22T09:24:03.741Z",
   "problems": [
     {
       "frontendId": "349",
@@ -264,6 +264,26 @@
           "path": "leetcode/1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.cpp",
           "sha": "3325ac9f8e46ea0187790d13a140aac65393e90d",
           "lastSyncedAt": "2026-10-22T09:05:38.501Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1846",
+      "title": "Maximum Element After Decreasing and Rearranging",
+      "slug": "maximum-element-after-decreasing-and-rearranging",
+      "problemName": "1846-maximum-element-after-decreasing-and-rearranging",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/",
+      "folderPath": "leetcode/1846-maximum-element-after-decreasing-and-rearranging/",
+      "readmePath": "leetcode/1846-maximum-element-after-decreasing-and-rearranging/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1846-maximum-element-after-decreasing-and-rearranging.cpp",
+          "path": "leetcode/1846-maximum-element-after-decreasing-and-rearranging/1846-maximum-element-after-decreasing-and-rearranging.cpp",
+          "sha": "e2dcbc22af23f706df7a1a7ef0fcda1df876f6c0",
+          "lastSyncedAt": "2026-10-22T09:24:03.741Z"
         }
       ]
     },
