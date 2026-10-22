@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:14:58.801Z",
+  "updatedAt": "2026-10-22T11:15:05.621Z",
   "problems": [
     {
       "frontendId": "1",
@@ -323,7 +323,7 @@
           "filename": "0989-add-to-array-form-of-integer.cpp",
           "path": "leetcode/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.cpp",
           "sha": "70c08d751ea779b876b896d755c8fe45e7f3dbfe",
-          "lastSyncedAt": "2026-10-22T09:24:32.280Z"
+          "lastSyncedAt": "2026-10-22T11:15:05.621Z"
         }
       ]
     },
