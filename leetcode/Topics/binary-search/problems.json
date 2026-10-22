@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-22T09:25:00.860Z",
+  "updatedAt": "2026-10-22T09:25:12.374Z",
   "problems": [
     {
       "frontendId": "349",
@@ -84,6 +84,26 @@
           "path": "leetcode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
           "sha": "2e7e1daea0442a69b29fbc2c18ddeed73eab1adb",
           "lastSyncedAt": "2026-10-22T09:05:51.285Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "problemName": "1539-kth-missing-positive-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "folderPath": "leetcode/1539-kth-missing-positive-number/",
+      "readmePath": "leetcode/1539-kth-missing-positive-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1539-kth-missing-positive-number.cpp",
+          "path": "leetcode/1539-kth-missing-positive-number/1539-kth-missing-positive-number.cpp",
+          "sha": "51344ccfbb266da6e51f3bb2c4369944b2453d95",
+          "lastSyncedAt": "2026-10-22T09:25:12.374Z"
         }
       ]
     },
