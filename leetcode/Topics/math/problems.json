@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T09:09:26.744Z",
+  "updatedAt": "2026-10-22T09:09:36.450Z",
   "problems": [
     {
       "frontendId": "168",
@@ -423,7 +423,7 @@
           "filename": "3622-check-divisibility-by-digit-sum-and-product.cpp",
           "path": "leetcode/3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.cpp",
           "sha": "aa440341ba3409b5ed16e13dfe9789108c4197ad",
-          "lastSyncedAt": "2026-10-22T08:52:41.363Z"
+          "lastSyncedAt": "2026-10-22T09:09:36.450Z"
         }
       ]
     },
