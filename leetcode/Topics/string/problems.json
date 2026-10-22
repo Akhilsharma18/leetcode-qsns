@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T09:44:09.883Z",
+  "updatedAt": "2026-10-22T09:46:11.487Z",
   "problems": [
     {
       "frontendId": "5",
@@ -454,8 +454,8 @@
       "problemName": "1541-minimum-insertions-to-balance-a-parentheses-string",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
-      "folderPath": "leetcode/1541-minimum-insertions-to-balance-a-parentheses-string/",
-      "readmePath": "leetcode/1541-minimum-insertions-to-balance-a-parentheses-string/README.md",
+      "folderPath": "leetcode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/",
+      "readmePath": "leetcode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -463,7 +463,7 @@
           "filename": "1541-minimum-insertions-to-balance-a-parentheses-string.cpp",
           "path": "leetcode/1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.cpp",
           "sha": "5f91c6061e26db55d37639015c98af2d947b6e0b",
-          "lastSyncedAt": "2026-10-22T09:02:03.725Z"
+          "lastSyncedAt": "2026-10-22T09:46:11.487Z"
         }
       ]
     },
