@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T08:47:41.934Z",
+  "updatedAt": "2026-10-22T08:47:54.304Z",
   "problems": [
     {
       "frontendId": "22",
@@ -144,6 +144,26 @@
           "path": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
           "sha": "20236ba50f2f1a7fbc3c162f551eecf495a13989",
           "lastSyncedAt": "2026-10-22T08:44:44.210Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2472",
+      "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+      "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+      "problemName": "2472-maximum-number-of-non-overlapping-palindrome-substrings",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/",
+      "folderPath": "leetcode/2472-maximum-number-of-non-overlapping-palindrome-substrings/",
+      "readmePath": "leetcode/2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
+          "path": "leetcode/2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
+          "sha": "ca2612b8110856b45409c6c1a9d0c1bc3c858209",
+          "lastSyncedAt": "2026-10-22T08:47:54.304Z"
         }
       ]
     },
