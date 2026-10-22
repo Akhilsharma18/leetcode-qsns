@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-22T09:07:07.821Z",
+  "updatedAt": "2026-10-22T09:15:04.642Z",
   "problems": [
     {
       "frontendId": "2265",
@@ -24,6 +24,26 @@
           "path": "leetcode/2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.cpp",
           "sha": "3544b6f262fe73e7f628a9b3d2cf329a9a38d9e2",
           "lastSyncedAt": "2026-10-22T09:07:07.821Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3310",
+      "title": "Remove Methods From Project",
+      "slug": "remove-methods-from-project",
+      "problemName": "3310-remove-methods-from-project",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-methods-from-project/",
+      "folderPath": "leetcode/3310-remove-methods-from-project/",
+      "readmePath": "leetcode/3310-remove-methods-from-project/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3310-remove-methods-from-project.cpp",
+          "path": "leetcode/3310-remove-methods-from-project/3310-remove-methods-from-project.cpp",
+          "sha": "17e1cc0e2191f68b72d4988c93fb344b8fdc7d45",
+          "lastSyncedAt": "2026-10-22T09:15:04.642Z"
         }
       ]
     }
