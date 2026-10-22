@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T17:37:12.905Z",
+  "updatedAt": "2026-10-22T17:48:36.195Z",
   "problems": [
     {
       "frontendId": "5",
@@ -163,7 +163,7 @@
           "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
           "path": "leetcode/2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
           "sha": "ca2612b8110856b45409c6c1a9d0c1bc3c858209",
-          "lastSyncedAt": "2026-10-22T16:31:58.813Z"
+          "lastSyncedAt": "2026-10-22T17:48:36.195Z"
         }
       ]
     },
