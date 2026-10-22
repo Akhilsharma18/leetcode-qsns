@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:06:24.552Z",
+  "updatedAt": "2026-10-22T11:06:43.732Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1514,8 +1514,8 @@
       "problemName": "3731-find-missing-elements",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
-      "folderPath": "leetcode/Easy/3731-find-missing-elements/",
-      "readmePath": "leetcode/Easy/3731-find-missing-elements/README.md",
+      "folderPath": "leetcode/3731-find-missing-elements/",
+      "readmePath": "leetcode/3731-find-missing-elements/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -1523,7 +1523,7 @@
           "filename": "3731-find-missing-elements.cpp",
           "path": "leetcode/3731-find-missing-elements/3731-find-missing-elements.cpp",
           "sha": "9b2c7a75334c195842a6a4e059a742a5dd261efa",
-          "lastSyncedAt": "2026-10-22T10:09:21.790Z"
+          "lastSyncedAt": "2026-10-22T11:06:43.732Z"
         }
       ]
     },
