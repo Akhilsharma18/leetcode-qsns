@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T09:45:42.674Z",
+  "updatedAt": "2026-10-22T09:52:07.129Z",
   "problems": [
     {
       "frontendId": "389",
@@ -154,8 +154,8 @@
       "problemName": "3568-minimum-moves-to-clean-the-classroom",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/",
-      "folderPath": "leetcode/3568-minimum-moves-to-clean-the-classroom/",
-      "readmePath": "leetcode/3568-minimum-moves-to-clean-the-classroom/README.md",
+      "folderPath": "leetcode/Medium/3568-minimum-moves-to-clean-the-classroom/",
+      "readmePath": "leetcode/Medium/3568-minimum-moves-to-clean-the-classroom/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -163,7 +163,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.cpp",
           "path": "leetcode/3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.cpp",
           "sha": "cadd70a23596c4f9499b510e225d4fe1a6126df8",
-          "lastSyncedAt": "2026-10-22T09:08:08.021Z"
+          "lastSyncedAt": "2026-10-22T09:52:07.129Z"
         }
       ]
     },
