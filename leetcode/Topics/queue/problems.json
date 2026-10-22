@@ -5,7 +5,7 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-10-22T11:15:14.526Z",
+  "updatedAt": "2026-10-22T11:17:17.309Z",
   "problems": [
     {
       "frontendId": "387",
@@ -43,7 +43,7 @@
           "filename": "1700-number-of-students-unable-to-eat-lunch.cpp",
           "path": "leetcode/1700-number-of-students-unable-to-eat-lunch/1700-number-of-students-unable-to-eat-lunch.cpp",
           "sha": "5bd673739d735909f1dd4c5b52d30eece1bfb64f",
-          "lastSyncedAt": "2026-10-22T09:26:41.839Z"
+          "lastSyncedAt": "2026-10-22T11:17:17.309Z"
         }
       ]
     },
