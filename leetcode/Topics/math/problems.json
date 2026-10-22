@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T08:40:32.551Z",
+  "updatedAt": "2026-10-22T08:41:53.699Z",
   "problems": [
     {
       "frontendId": "1569",
@@ -24,6 +24,26 @@
           "path": "leetcode/1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
           "sha": "4ca1273430e2228c70eefe013d5683e38ac84f3b",
           "lastSyncedAt": "2026-10-22T08:40:32.551Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3723",
+      "title": "Maximize Sum of Squares of Digits",
+      "slug": "maximize-sum-of-squares-of-digits",
+      "problemName": "3723-maximize-sum-of-squares-of-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/",
+      "folderPath": "leetcode/3723-maximize-sum-of-squares-of-digits/",
+      "readmePath": "leetcode/3723-maximize-sum-of-squares-of-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3723-maximize-sum-of-squares-of-digits.cpp",
+          "path": "leetcode/3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.cpp",
+          "sha": "dd4fca78d6ad291a772c26f3c907a678093eb90d",
+          "lastSyncedAt": "2026-10-22T08:41:53.699Z"
         }
       ]
     },
