@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-22T16:13:41.298Z",
+  "updatedAt": "2026-10-22T16:15:55.196Z",
   "problems": [
     {
       "frontendId": "5",
@@ -243,7 +243,7 @@
           "filename": "1140-stone-game-ii.cpp",
           "path": "leetcode/1140-stone-game-ii/1140-stone-game-ii.cpp",
           "sha": "aa812d5ec19a5f3695202573e29fda14c61ad846",
-          "lastSyncedAt": "2026-10-22T11:04:32.852Z"
+          "lastSyncedAt": "2026-10-22T16:15:55.196Z"
         }
       ]
     },
