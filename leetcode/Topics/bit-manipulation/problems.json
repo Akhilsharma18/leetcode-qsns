@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T11:06:20.442Z",
+  "updatedAt": "2026-10-22T11:08:01.174Z",
   "problems": [
     {
       "frontendId": "389",
@@ -183,7 +183,7 @@
           "filename": "3674-minimum-operations-to-equalize-array.cpp",
           "path": "leetcode/3674-minimum-operations-to-equalize-array/3674-minimum-operations-to-equalize-array.cpp",
           "sha": "cbda2fc9817627e1e05f50131fcc0ffa05c5b23a",
-          "lastSyncedAt": "2026-10-22T09:16:43.514Z"
+          "lastSyncedAt": "2026-10-22T11:08:01.174Z"
         }
       ]
     },
