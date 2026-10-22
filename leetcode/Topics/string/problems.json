@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T09:17:50.391Z",
+  "updatedAt": "2026-10-22T09:19:29.967Z",
   "problems": [
     {
       "frontendId": "14",
@@ -604,6 +604,26 @@
           "path": "leetcode/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp",
           "sha": "a7ebe8db9ea97c25abe39275fa15f7341dc5da71",
           "lastSyncedAt": "2026-10-22T09:05:27.232Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3501",
+      "title": "Maximize Active Section with Trade II",
+      "slug": "maximize-active-section-with-trade-ii",
+      "problemName": "3501-maximize-active-section-with-trade-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/",
+      "folderPath": "leetcode/3501-maximize-active-section-with-trade-ii/",
+      "readmePath": "leetcode/3501-maximize-active-section-with-trade-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3501-maximize-active-section-with-trade-ii.cpp",
+          "path": "leetcode/3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.cpp",
+          "sha": "faf762512b02c40db9c89101b3c55c7f14be282e",
+          "lastSyncedAt": "2026-10-22T09:19:29.967Z"
         }
       ]
     },
