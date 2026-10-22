@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-22T09:19:20.297Z",
+  "updatedAt": "2026-10-22T09:22:29.619Z",
   "problems": [
     {
       "frontendId": "389",
@@ -124,6 +124,26 @@
           "path": "leetcode/3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.cpp",
           "sha": "7f25971a26ad5176b39626b2262a24171f21bb36",
           "lastSyncedAt": "2026-10-22T09:19:06.488Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3534",
+      "title": "Path Existence Queries in a Graph II",
+      "slug": "path-existence-queries-in-a-graph-ii",
+      "problemName": "3534-path-existence-queries-in-a-graph-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/",
+      "folderPath": "leetcode/3534-path-existence-queries-in-a-graph-ii/",
+      "readmePath": "leetcode/3534-path-existence-queries-in-a-graph-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3534-path-existence-queries-in-a-graph-ii.cpp",
+          "path": "leetcode/3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
+          "sha": "484f92564ab8bcdfc7f098d7bb2a34d2c3e82d96",
+          "lastSyncedAt": "2026-10-22T09:22:29.619Z"
         }
       ]
     },
