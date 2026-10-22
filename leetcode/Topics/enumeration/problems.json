@@ -5,8 +5,28 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-22T08:39:58.188Z",
+  "updatedAt": "2026-10-22T08:42:26.220Z",
   "problems": [
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "leetcode/2778-sum-of-squares-of-special-elements/",
+      "readmePath": "leetcode/2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2778-sum-of-squares-of-special-elements.cpp",
+          "path": "leetcode/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
+          "sha": "e93085d5e776b7a50ec11f1b30a6738c0a23ff79",
+          "lastSyncedAt": "2026-10-22T08:42:26.220Z"
+        }
+      ]
+    },
     {
       "frontendId": "3886",
       "title": "Sum of Sortable Integers",
