@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T09:26:00.493Z",
+  "updatedAt": "2026-10-22T09:26:31.984Z",
   "problems": [
     {
       "frontendId": "5",
@@ -864,6 +864,26 @@
           "path": "leetcode/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
           "sha": "9e578767a4d667ab25dc2e55092daaa7b61a2836",
           "lastSyncedAt": "2026-10-22T09:23:02.622Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "problemName": "3838-weighted-word-mapping",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "folderPath": "leetcode/3838-weighted-word-mapping/",
+      "readmePath": "leetcode/3838-weighted-word-mapping/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3838-weighted-word-mapping.cpp",
+          "path": "leetcode/3838-weighted-word-mapping/3838-weighted-word-mapping.cpp",
+          "sha": "de33887b824d2e041136fdbe711d640815510018",
+          "lastSyncedAt": "2026-10-22T09:26:31.984Z"
         }
       ]
     },
