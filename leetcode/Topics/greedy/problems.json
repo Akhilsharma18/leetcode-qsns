@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-22T08:41:53.699Z",
+  "updatedAt": "2026-10-22T08:42:03.634Z",
   "problems": [
     {
       "frontendId": "3723",
@@ -24,6 +24,26 @@
           "path": "leetcode/3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.cpp",
           "sha": "dd4fca78d6ad291a772c26f3c907a678093eb90d",
           "lastSyncedAt": "2026-10-22T08:41:53.699Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "slug": "maximum-alternating-sum-of-squares",
+      "problemName": "3727-maximum-alternating-sum-of-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+      "folderPath": "leetcode/3727-maximum-alternating-sum-of-squares/",
+      "readmePath": "leetcode/3727-maximum-alternating-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3727-maximum-alternating-sum-of-squares.cpp",
+          "path": "leetcode/3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
+          "sha": "8563f1f1dcf859f7cef523c0f5776b18e90b9e9e",
+          "lastSyncedAt": "2026-10-22T08:42:03.634Z"
         }
       ]
     }
