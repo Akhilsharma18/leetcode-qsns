@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:49:46.458Z",
+  "updatedAt": "2026-10-22T08:49:56.489Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "leetcode/3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.cpp",
           "sha": "8c180881343427ec786c4df319691d48e1b2748a",
           "lastSyncedAt": "2026-10-22T08:39:58.188Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "leetcode/3903-smallest-stable-index-i/",
+      "readmePath": "leetcode/3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3903-smallest-stable-index-i.cpp",
+          "path": "leetcode/3903-smallest-stable-index-i/3903-smallest-stable-index-i.cpp",
+          "sha": "c28c4e811ea1f26b870613baad16aea4ca650944",
+          "lastSyncedAt": "2026-10-22T08:49:56.489Z"
         }
       ]
     },
