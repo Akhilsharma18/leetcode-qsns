@@ -5,8 +5,28 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-22T09:14:40.166Z",
+  "updatedAt": "2026-10-22T09:14:48.261Z",
   "problems": [
+    {
+      "frontendId": "1534",
+      "title": "Count Good Triplets",
+      "slug": "count-good-triplets",
+      "problemName": "1534-count-good-triplets",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-triplets/",
+      "folderPath": "leetcode/1534-count-good-triplets/",
+      "readmePath": "leetcode/1534-count-good-triplets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1534-count-good-triplets.cpp",
+          "path": "leetcode/1534-count-good-triplets/1534-count-good-triplets.cpp",
+          "sha": "49a9c3ce40f8fe0457152c6752e588e66ca56d3b",
+          "lastSyncedAt": "2026-10-22T09:14:48.261Z"
+        }
+      ]
+    },
     {
       "frontendId": "2778",
       "title": "Sum of Squares of Special Elements ",
