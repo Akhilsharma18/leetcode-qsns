@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T08:50:25.979Z",
+  "updatedAt": "2026-10-22T08:52:01.222Z",
   "problems": [
     {
       "frontendId": "836",
@@ -104,6 +104,26 @@
           "path": "leetcode/1837-sum-of-digits-in-base-k/1837-sum-of-digits-in-base-k.cpp",
           "sha": "757dc3d16bfb545dfd5a59d5b9c61124958bbf62",
           "lastSyncedAt": "2026-10-22T08:49:20.253Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1872",
+      "title": "Stone Game VIII",
+      "slug": "stone-game-viii",
+      "problemName": "1872-stone-game-viii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-viii/",
+      "folderPath": "leetcode/1872-stone-game-viii/",
+      "readmePath": "leetcode/1872-stone-game-viii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1872-stone-game-viii.cpp",
+          "path": "leetcode/1872-stone-game-viii/1872-stone-game-viii.cpp",
+          "sha": "b0eafdda0fd90c31dfaaf03708991e6a8745951a",
+          "lastSyncedAt": "2026-10-22T08:52:01.222Z"
         }
       ]
     },
