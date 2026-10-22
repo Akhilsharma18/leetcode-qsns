@@ -5,7 +5,7 @@
     "name": "Greatest Common Divisor",
     "tagId": "98781"
   },
-  "updatedAt": "2026-10-22T09:20:18.690Z",
+  "updatedAt": "2026-10-22T09:20:38.800Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -24,6 +24,26 @@
           "path": "leetcode/1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
           "sha": "3565b434a735aa494ced7179aefa2eccbeb333dd",
           "lastSyncedAt": "2026-10-22T09:20:18.690Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "leetcode/3312-sorted-gcd-pair-queries/",
+      "readmePath": "leetcode/3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3312-sorted-gcd-pair-queries.cpp",
+          "path": "leetcode/3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
+          "sha": "c913706845764c248152f5e7f991efaf4974ef97",
+          "lastSyncedAt": "2026-10-22T09:20:38.800Z"
         }
       ]
     }
