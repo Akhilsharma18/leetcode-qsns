@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T11:00:38.164Z",
+  "updatedAt": "2026-10-22T11:00:52.322Z",
   "problems": [
     {
       "frontendId": "168",
@@ -14,8 +14,8 @@
       "problemName": "0168-excel-sheet-column-title",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
-      "folderPath": "leetcode/Easy/0168-excel-sheet-column-title/",
-      "readmePath": "leetcode/Easy/0168-excel-sheet-column-title/README.md",
+      "folderPath": "leetcode/0168-excel-sheet-column-title/",
+      "readmePath": "leetcode/0168-excel-sheet-column-title/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -23,7 +23,7 @@
           "filename": "0168-excel-sheet-column-title.cpp",
           "path": "leetcode/0168-excel-sheet-column-title/0168-excel-sheet-column-title.cpp",
           "sha": "13cfdb6c3611e3634edb6d39970e9d0ffe3105a2",
-          "lastSyncedAt": "2026-10-22T09:54:37.974Z"
+          "lastSyncedAt": "2026-10-22T11:00:52.322Z"
         }
       ]
     },
