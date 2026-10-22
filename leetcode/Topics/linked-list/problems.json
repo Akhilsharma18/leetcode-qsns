@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-22T09:26:08.021Z",
+  "updatedAt": "2026-10-22T09:26:15.630Z",
   "problems": [
     {
       "frontendId": "21",
@@ -84,6 +84,26 @@
           "path": "leetcode/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.cpp",
           "sha": "ccff633ae9eb541a98f7f725da3654725600087f",
           "lastSyncedAt": "2026-10-22T09:08:25.121Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "problemName": "2095-delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+      "folderPath": "leetcode/2095-delete-the-middle-node-of-a-linked-list/",
+      "readmePath": "leetcode/2095-delete-the-middle-node-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2095-delete-the-middle-node-of-a-linked-list.cpp",
+          "path": "leetcode/2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp",
+          "sha": "7e5c0542fbc069a9ed2c405cab8ba899311f789d",
+          "lastSyncedAt": "2026-10-22T09:26:15.630Z"
         }
       ]
     }
