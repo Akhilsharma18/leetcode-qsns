@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T16:14:26.522Z",
+  "updatedAt": "2026-10-22T16:14:39.636Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,7 +203,7 @@
           "filename": "0561-array-partition.cpp",
           "path": "leetcode/0561-array-partition/0561-array-partition.cpp",
           "sha": "340b1d5df7fed2f2610d75f7a0a4b58dec9d0f17",
-          "lastSyncedAt": "2026-10-22T11:26:20.845Z"
+          "lastSyncedAt": "2026-10-22T16:14:39.636Z"
         }
       ]
     },
