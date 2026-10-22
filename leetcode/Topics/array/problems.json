@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T08:56:07.687Z",
+  "updatedAt": "2026-10-22T08:56:30.168Z",
   "problems": [
     {
       "frontendId": "1",
@@ -584,6 +584,26 @@
           "path": "leetcode/3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.cpp",
           "sha": "3056c6739b270a6b79113307cb6140d71296d1d3",
           "lastSyncedAt": "2026-10-22T08:48:25.291Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3467",
+      "title": "Transform Array by Parity",
+      "slug": "transform-array-by-parity",
+      "problemName": "3467-transform-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transform-array-by-parity/",
+      "folderPath": "leetcode/3467-transform-array-by-parity/",
+      "readmePath": "leetcode/3467-transform-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3467-transform-array-by-parity.cpp",
+          "path": "leetcode/3467-transform-array-by-parity/3467-transform-array-by-parity.cpp",
+          "sha": "a7ff405920fc2a30648d358c1773d0249c672474",
+          "lastSyncedAt": "2026-10-22T08:56:30.168Z"
         }
       ]
     },
