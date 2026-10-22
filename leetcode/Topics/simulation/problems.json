@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T08:57:55.082Z",
+  "updatedAt": "2026-10-22T08:58:04.495Z",
   "problems": [
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "leetcode/0682-baseball-game/",
+      "readmePath": "leetcode/0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0682-baseball-game.cpp",
+          "path": "leetcode/0682-baseball-game/0682-baseball-game.cpp",
+          "sha": "7eb391d0401585cb57bfb95cc9af189d9f06f3d2",
+          "lastSyncedAt": "2026-10-22T08:58:04.495Z"
+        }
+      ]
+    },
     {
       "frontendId": "2073",
       "title": "Time Needed to Buy Tickets",
