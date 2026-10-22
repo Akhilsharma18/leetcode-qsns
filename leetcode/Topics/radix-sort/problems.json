@@ -5,7 +5,7 @@
     "name": "Radix Sort",
     "tagId": "61061"
   },
-  "updatedAt": "2026-10-22T09:13:34.409Z",
+  "updatedAt": "2026-10-22T10:07:46.412Z",
   "problems": [
     {
       "frontendId": "912",
@@ -14,8 +14,8 @@
       "problemName": "0912-sort-an-array",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
-      "folderPath": "leetcode/0912-sort-an-array/",
-      "readmePath": "leetcode/0912-sort-an-array/README.md",
+      "folderPath": "leetcode/Medium/0912-sort-an-array/",
+      "readmePath": "leetcode/Medium/0912-sort-an-array/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -23,7 +23,7 @@
           "filename": "0912-sort-an-array.cpp",
           "path": "leetcode/0912-sort-an-array/0912-sort-an-array.cpp",
           "sha": "2f168417f3a3e9dc875c0ea7ebfaf43b2235c28d",
-          "lastSyncedAt": "2026-10-22T09:13:34.409Z"
+          "lastSyncedAt": "2026-10-22T10:07:46.412Z"
         }
       ]
     }
