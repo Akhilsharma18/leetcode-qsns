@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-22T11:17:17.309Z",
+  "updatedAt": "2026-10-22T11:17:54.686Z",
   "problems": [
     {
       "frontendId": "682",
@@ -84,6 +84,26 @@
           "path": "leetcode/2073-time-needed-to-buy-tickets/2073-time-needed-to-buy-tickets.cpp",
           "sha": "46c99bca7d8386f7d7fbcc479676141f6a90ddc8",
           "lastSyncedAt": "2026-10-22T10:52:44.754Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "leetcode/2161-partition-array-according-to-given-pivot/",
+      "readmePath": "leetcode/2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2161-partition-array-according-to-given-pivot.cpp",
+          "path": "leetcode/2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.cpp",
+          "sha": "e7453ea793676557f0551cb7ef735587ab8de29e",
+          "lastSyncedAt": "2026-10-22T11:17:54.686Z"
         }
       ]
     },
