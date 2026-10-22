@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:01:00.693Z",
+  "updatedAt": "2026-10-22T11:01:22.392Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1454,8 +1454,8 @@
       "problemName": "3702-longest-subsequence-with-non-zero-bitwise-xor",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/",
-      "folderPath": "leetcode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/",
-      "readmePath": "leetcode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/README.md",
+      "folderPath": "leetcode/3702-longest-subsequence-with-non-zero-bitwise-xor/",
+      "readmePath": "leetcode/3702-longest-subsequence-with-non-zero-bitwise-xor/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -1463,7 +1463,7 @@
           "filename": "3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
           "path": "leetcode/3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
           "sha": "d6f91082c7e4a9d07337f6e3bce15a7388c3ca73",
-          "lastSyncedAt": "2026-10-22T09:55:01.433Z"
+          "lastSyncedAt": "2026-10-22T11:01:22.392Z"
         }
       ]
     },
