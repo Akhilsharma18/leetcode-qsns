@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T09:55:34.532Z",
+  "updatedAt": "2026-10-22T09:56:14.472Z",
   "problems": [
     {
       "frontendId": "1",
@@ -294,8 +294,8 @@
       "problemName": "2248-intersection-of-multiple-arrays",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/intersection-of-multiple-arrays/",
-      "folderPath": "leetcode/2248-intersection-of-multiple-arrays/",
-      "readmePath": "leetcode/2248-intersection-of-multiple-arrays/README.md",
+      "folderPath": "leetcode/Easy/2248-intersection-of-multiple-arrays/",
+      "readmePath": "leetcode/Easy/2248-intersection-of-multiple-arrays/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -303,7 +303,7 @@
           "filename": "2248-intersection-of-multiple-arrays.cpp",
           "path": "leetcode/2248-intersection-of-multiple-arrays/2248-intersection-of-multiple-arrays.cpp",
           "sha": "ac16c29668b830162a3c79f45c066ff9a70d341d",
-          "lastSyncedAt": "2026-10-22T09:11:46.692Z"
+          "lastSyncedAt": "2026-10-22T09:56:14.472Z"
         }
       ]
     },
