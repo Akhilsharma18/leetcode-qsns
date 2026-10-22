@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-22T08:45:43.734Z",
+  "updatedAt": "2026-10-22T08:59:33.684Z",
   "problems": [
     {
       "frontendId": "22",
@@ -64,6 +64,26 @@
           "path": "leetcode/1096-brace-expansion-ii/1096-brace-expansion-ii.cpp",
           "sha": "76fe89a260b793c8724acc88d72bb77d402d0cef",
           "lastSyncedAt": "2026-10-22T08:45:43.734Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "slug": "smallest-divisible-digit-product-ii",
+      "problemName": "3348-smallest-divisible-digit-product-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+      "folderPath": "leetcode/3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "leetcode/3348-smallest-divisible-digit-product-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3348-smallest-divisible-digit-product-ii.cpp",
+          "path": "leetcode/3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.cpp",
+          "sha": "7143daceedda63b8ef22451c424d54caa03c68ac",
+          "lastSyncedAt": "2026-10-22T08:59:33.684Z"
         }
       ]
     }
