@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T08:54:45.387Z",
+  "updatedAt": "2026-10-22T08:54:55.260Z",
   "problems": [
     {
       "frontendId": "14",
@@ -404,6 +404,26 @@
           "path": "leetcode/1927-sum-game/1927-sum-game.cpp",
           "sha": "4505e1fc52ca18bdbae24e4bb8e45f92dc455a3a",
           "lastSyncedAt": "2026-10-22T08:52:28.068Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2213",
+      "title": "Longest Substring of One Repeating Character",
+      "slug": "longest-substring-of-one-repeating-character",
+      "problemName": "2213-longest-substring-of-one-repeating-character",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
+      "folderPath": "leetcode/2213-longest-substring-of-one-repeating-character/",
+      "readmePath": "leetcode/2213-longest-substring-of-one-repeating-character/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2213-longest-substring-of-one-repeating-character.cpp",
+          "path": "leetcode/2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
+          "sha": "3a9a5e761e18b0bc7bf0910847d5001f11c8b779",
+          "lastSyncedAt": "2026-10-22T08:54:55.260Z"
         }
       ]
     },
