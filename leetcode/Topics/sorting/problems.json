@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T09:11:17.010Z",
+  "updatedAt": "2026-10-22T09:11:46.692Z",
   "problems": [
     {
       "frontendId": "349",
@@ -223,7 +223,7 @@
           "filename": "2248-intersection-of-multiple-arrays.cpp",
           "path": "leetcode/2248-intersection-of-multiple-arrays/2248-intersection-of-multiple-arrays.cpp",
           "sha": "ac16c29668b830162a3c79f45c066ff9a70d341d",
-          "lastSyncedAt": "2026-10-22T08:56:07.687Z"
+          "lastSyncedAt": "2026-10-22T09:11:46.692Z"
         }
       ]
     },
