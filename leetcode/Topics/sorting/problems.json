@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T09:56:24.473Z",
+  "updatedAt": "2026-10-22T09:56:29.859Z",
   "problems": [
     {
       "frontendId": "15",
@@ -474,8 +474,8 @@
       "problemName": "3467-transform-array-by-parity",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/transform-array-by-parity/",
-      "folderPath": "leetcode/3467-transform-array-by-parity/",
-      "readmePath": "leetcode/3467-transform-array-by-parity/README.md",
+      "folderPath": "leetcode/Easy/3467-transform-array-by-parity/",
+      "readmePath": "leetcode/Easy/3467-transform-array-by-parity/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -483,7 +483,7 @@
           "filename": "3467-transform-array-by-parity.cpp",
           "path": "leetcode/3467-transform-array-by-parity/3467-transform-array-by-parity.cpp",
           "sha": "a7ff405920fc2a30648d358c1773d0249c672474",
-          "lastSyncedAt": "2026-10-22T09:12:00.913Z"
+          "lastSyncedAt": "2026-10-22T09:56:29.859Z"
         }
       ]
     },
