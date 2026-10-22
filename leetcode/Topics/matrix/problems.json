@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "matrix",
+    "name": "Matrix",
+    "tagId": "61053"
+  },
+  "updatedAt": "2026-10-22T08:44:44.210Z",
+  "problems": [
+    {
+      "frontendId": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "problemName": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/",
+      "folderPath": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/",
+      "readmePath": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
+          "path": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
+          "sha": "20236ba50f2f1a7fbc3c162f551eecf495a13989",
+          "lastSyncedAt": "2026-10-22T08:44:44.210Z"
+        }
+      ]
+    }
+  ]
+}
