@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T11:20:36.402Z",
+  "updatedAt": "2026-10-22T11:21:18.945Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1763,7 +1763,7 @@
           "filename": "3904-smallest-stable-index-ii.cpp",
           "path": "leetcode/3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.cpp",
           "sha": "f553d983e9ebec3f08d34794e43ddb58c4fe1224",
-          "lastSyncedAt": "2026-10-22T10:56:46.628Z"
+          "lastSyncedAt": "2026-10-22T11:21:18.945Z"
         }
       ]
     }
