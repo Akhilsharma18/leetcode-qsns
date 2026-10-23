@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T15:36:13.418Z",
+  "updatedAt": "2026-10-23T15:37:24.642Z",
   "problems": [
     {
       "frontendId": "1",
@@ -763,7 +763,7 @@
           "filename": "3551-minimum-swaps-to-sort-by-digit-sum.cpp",
           "path": "leetcode/3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.cpp",
           "sha": "75060ca273e7782e1ea7bd85524e24f77dd21e97",
-          "lastSyncedAt": "2026-10-23T12:07:18.169Z"
+          "lastSyncedAt": "2026-10-23T15:37:24.642Z"
         }
       ]
     },
