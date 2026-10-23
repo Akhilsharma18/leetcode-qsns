@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T18:07:01.365Z",
+  "updatedAt": "2026-10-23T18:07:25.004Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "leetcode/0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
           "sha": "beb7443854b3422ada16e3b0e4aa13cb4f340122",
           "lastSyncedAt": "2026-10-23T17:57:00.734Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "leetcode/0006-zigzag-conversion/",
+      "readmePath": "leetcode/0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0006-zigzag-conversion.cpp",
+          "path": "leetcode/0006-zigzag-conversion/0006-zigzag-conversion.cpp",
+          "sha": "8e30516e5dc8cf89476b2795aeb1ed284f4ba27f",
+          "lastSyncedAt": "2026-10-23T18:07:25.004Z"
         }
       ]
     },
