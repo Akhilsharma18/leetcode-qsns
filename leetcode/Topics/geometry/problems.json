@@ -5,7 +5,7 @@
     "name": "Geometry",
     "tagId": "38"
   },
-  "updatedAt": "2026-10-23T17:37:33.766Z",
+  "updatedAt": "2026-10-23T17:38:24.846Z",
   "problems": [
     {
       "frontendId": "836",
@@ -23,7 +23,7 @@
           "filename": "0836-rectangle-overlap.cpp",
           "path": "leetcode/0836-rectangle-overlap/0836-rectangle-overlap.cpp",
           "sha": "204913dd62668d49f40772a8d670a230a3690567",
-          "lastSyncedAt": "2026-10-23T16:07:08.891Z"
+          "lastSyncedAt": "2026-10-23T17:38:24.846Z"
         }
       ]
     },
