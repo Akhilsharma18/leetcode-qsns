@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-23T18:03:30.488Z",
+  "updatedAt": "2026-10-23T18:03:48.141Z",
   "problems": [
     {
       "frontendId": "111",
@@ -24,6 +24,26 @@
           "path": "leetcode/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.cpp",
           "sha": "bb5013c21f4207956ea15e705207fcf038349a45",
           "lastSyncedAt": "2026-10-23T17:56:43.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "leetcode/0200-number-of-islands/",
+      "readmePath": "leetcode/0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0200-number-of-islands.cpp",
+          "path": "leetcode/0200-number-of-islands/0200-number-of-islands.cpp",
+          "sha": "fc3f37c5784132e23633f8f3b77c1b0225f53489",
+          "lastSyncedAt": "2026-10-23T18:03:48.141Z"
         }
       ]
     },
