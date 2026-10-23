@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T17:59:20.143Z",
+  "updatedAt": "2026-10-23T18:00:14.223Z",
   "problems": [
     {
       "frontendId": "3",
@@ -383,7 +383,7 @@
           "filename": "0763-partition-labels.cpp",
           "path": "leetcode/0763-partition-labels/0763-partition-labels.cpp",
           "sha": "be62b55ff44fe9e962e4014e4a4c4bc47f30a01c",
-          "lastSyncedAt": "2026-10-23T12:33:47.127Z"
+          "lastSyncedAt": "2026-10-23T18:00:14.223Z"
         }
       ]
     },
