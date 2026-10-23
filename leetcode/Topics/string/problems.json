@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T18:00:23.777Z",
+  "updatedAt": "2026-10-23T18:01:12.172Z",
   "problems": [
     {
       "frontendId": "3",
@@ -403,7 +403,7 @@
           "filename": "0796-rotate-string.cpp",
           "path": "leetcode/0796-rotate-string/0796-rotate-string.cpp",
           "sha": "b77e659262fc4c124b164e042576f3d76fdec015",
-          "lastSyncedAt": "2026-10-23T12:35:06.705Z"
+          "lastSyncedAt": "2026-10-23T18:01:12.172Z"
         }
       ]
     },
