@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-23T17:47:26.635Z",
+  "updatedAt": "2026-10-23T18:07:01.365Z",
   "problems": [
     {
       "frontendId": "22",
@@ -24,6 +24,26 @@
           "path": "leetcode/0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "41bc03132f3aad5cd3c592d5e49cd3c916a3a02a",
           "lastSyncedAt": "2026-10-23T17:35:25.384Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "93",
+      "title": "Restore IP Addresses",
+      "slug": "restore-ip-addresses",
+      "problemName": "0093-restore-ip-addresses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/restore-ip-addresses/",
+      "folderPath": "leetcode/0093-restore-ip-addresses/",
+      "readmePath": "leetcode/0093-restore-ip-addresses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0093-restore-ip-addresses.cpp",
+          "path": "leetcode/0093-restore-ip-addresses/0093-restore-ip-addresses.cpp",
+          "sha": "7eec3cab84192196fd33347657941a7433694bd2",
+          "lastSyncedAt": "2026-10-23T18:07:01.365Z"
         }
       ]
     },
