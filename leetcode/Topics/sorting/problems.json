@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T16:13:09.643Z",
+  "updatedAt": "2026-10-23T17:31:54.125Z",
   "problems": [
     {
       "frontendId": "15",
@@ -23,7 +23,7 @@
           "filename": "0015-3sum.cpp",
           "path": "leetcode/0015-3sum/0015-3sum.cpp",
           "sha": "c8ab270af6ac147ee834d7beb8b441db506e791d",
-          "lastSyncedAt": "2026-10-23T16:01:00.350Z"
+          "lastSyncedAt": "2026-10-23T17:31:54.125Z"
         }
       ]
     },
