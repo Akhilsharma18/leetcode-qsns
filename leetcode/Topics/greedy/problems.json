@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-23T12:21:06.394Z",
+  "updatedAt": "2026-10-23T12:23:15.107Z",
   "problems": [
     {
       "frontendId": "45",
@@ -363,7 +363,7 @@
           "filename": "3016-minimum-number-of-pushes-to-type-word-ii.cpp",
           "path": "leetcode/3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.cpp",
           "sha": "06e0a06a3f0d69b5766856357eda8f6180296474",
-          "lastSyncedAt": "2026-10-23T05:22:19.303Z"
+          "lastSyncedAt": "2026-10-23T12:23:15.107Z"
         }
       ]
     },
