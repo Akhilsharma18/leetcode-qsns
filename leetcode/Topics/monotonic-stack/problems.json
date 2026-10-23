@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-10-23T12:30:51.626Z",
+  "updatedAt": "2026-10-23T17:52:30.792Z",
   "problems": [
     {
       "frontendId": "84",
@@ -43,7 +43,7 @@
           "filename": "1081-smallest-subsequence-of-distinct-characters.cpp",
           "path": "leetcode/1081-smallest-subsequence-of-distinct-characters/1081-smallest-subsequence-of-distinct-characters.cpp",
           "sha": "d1ac5264c73f5c72a4f4cf8c90684a5d9d9b76de",
-          "lastSyncedAt": "2026-10-23T12:25:47.569Z"
+          "lastSyncedAt": "2026-10-23T17:52:30.792Z"
         }
       ]
     }
