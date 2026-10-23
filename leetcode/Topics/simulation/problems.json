@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-23T12:34:10.135Z",
+  "updatedAt": "2026-10-23T12:35:35.945Z",
   "problems": [
     {
       "frontendId": "682",
@@ -64,6 +64,26 @@
           "path": "leetcode/1700-number-of-students-unable-to-eat-lunch/1700-number-of-students-unable-to-eat-lunch.cpp",
           "sha": "5bd673739d735909f1dd4c5b52d30eece1bfb64f",
           "lastSyncedAt": "2026-10-23T12:30:42.211Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "problemName": "2011-final-value-of-variable-after-performing-operations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "folderPath": "leetcode/2011-final-value-of-variable-after-performing-operations/",
+      "readmePath": "leetcode/2011-final-value-of-variable-after-performing-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2011-final-value-of-variable-after-performing-operations.cpp",
+          "path": "leetcode/2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.cpp",
+          "sha": "f8283c15744a43d56b7e4b9864f689a5ff6911be",
+          "lastSyncedAt": "2026-10-23T12:35:35.945Z"
         }
       ]
     },
