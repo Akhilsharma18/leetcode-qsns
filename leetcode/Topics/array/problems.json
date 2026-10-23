@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T12:29:23.174Z",
+  "updatedAt": "2026-10-23T12:29:31.439Z",
   "problems": [
     {
       "frontendId": "1",
@@ -563,7 +563,7 @@
           "filename": "1539-kth-missing-positive-number.cpp",
           "path": "leetcode/1539-kth-missing-positive-number/1539-kth-missing-positive-number.cpp",
           "sha": "51344ccfbb266da6e51f3bb2c4369944b2453d95",
-          "lastSyncedAt": "2026-10-22T16:54:12.967Z"
+          "lastSyncedAt": "2026-10-23T12:29:31.439Z"
         }
       ]
     },
