@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-23T12:32:36.709Z",
+  "updatedAt": "2026-10-23T12:32:50.328Z",
   "problems": [
+    {
+      "frontendId": "73",
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "problemName": "0073-set-matrix-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "folderPath": "leetcode/0073-set-matrix-zeroes/",
+      "readmePath": "leetcode/0073-set-matrix-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0073-set-matrix-zeroes.cpp",
+          "path": "leetcode/0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp",
+          "sha": "df4e3ea39b63941e7920fab3312ee69d70399ef1",
+          "lastSyncedAt": "2026-10-23T12:32:50.328Z"
+        }
+      ]
+    },
     {
       "frontendId": "417",
       "title": "Pacific Atlantic Water Flow",
