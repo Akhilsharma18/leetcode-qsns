@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T18:04:53.534Z",
+  "updatedAt": "2026-10-23T18:05:32.299Z",
   "problems": [
     {
       "frontendId": "3",
@@ -124,6 +124,26 @@
           "path": "leetcode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp",
           "sha": "e030018a0b2800479cdb7eed866f0a9d6bae4753",
           "lastSyncedAt": "2026-10-23T17:35:16.527Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "problemName": "0043-multiply-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+      "folderPath": "leetcode/0043-multiply-strings/",
+      "readmePath": "leetcode/0043-multiply-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0043-multiply-strings.cpp",
+          "path": "leetcode/0043-multiply-strings/0043-multiply-strings.cpp",
+          "sha": "5dadeeedf4e9e5ef04e29b9142a9570a6aa83620",
+          "lastSyncedAt": "2026-10-23T18:05:32.299Z"
         }
       ]
     },
