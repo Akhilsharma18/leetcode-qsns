@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T18:00:35.607Z",
+  "updatedAt": "2026-10-23T18:00:40.735Z",
   "problems": [
     {
       "frontendId": "5",
@@ -643,7 +643,7 @@
           "filename": "3660-jump-game-ix.cpp",
           "path": "leetcode/3660-jump-game-ix/3660-jump-game-ix.cpp",
           "sha": "e7e16ff6765809b2c34bd4a80bcb6d94d618ecde",
-          "lastSyncedAt": "2026-10-23T12:34:29.424Z"
+          "lastSyncedAt": "2026-10-23T18:00:40.735Z"
         }
       ]
     },
