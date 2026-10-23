@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-23T18:02:50.547Z",
+  "updatedAt": "2026-10-23T18:04:28.931Z",
   "problems": [
     {
       "frontendId": "11",
@@ -44,6 +44,26 @@
           "path": "leetcode/0045-jump-game-ii/0045-jump-game-ii.cpp",
           "sha": "efa41c2428faaec4b4db6fceca2962b9796d37c7",
           "lastSyncedAt": "2026-10-23T17:44:00.585Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "334",
+      "title": "Increasing Triplet Subsequence",
+      "slug": "increasing-triplet-subsequence",
+      "problemName": "0334-increasing-triplet-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+      "folderPath": "leetcode/0334-increasing-triplet-subsequence/",
+      "readmePath": "leetcode/0334-increasing-triplet-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0334-increasing-triplet-subsequence.cpp",
+          "path": "leetcode/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.cpp",
+          "sha": "fba0bea0942f58c152b2b6085bc98ff3dbce029d",
+          "lastSyncedAt": "2026-10-23T18:04:28.931Z"
         }
       ]
     },
