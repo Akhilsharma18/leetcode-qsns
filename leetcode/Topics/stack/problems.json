@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-23T18:00:23.777Z",
+  "updatedAt": "2026-10-23T18:04:15.440Z",
   "problems": [
     {
       "frontendId": "20",
@@ -84,6 +84,26 @@
           "path": "leetcode/0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
           "sha": "7cc68220d60a5767cd8117a7ce66b71ce609bca9",
           "lastSyncedAt": "2026-10-23T17:57:56.781Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "leetcode/0143-reorder-list/",
+      "readmePath": "leetcode/0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0143-reorder-list.cpp",
+          "path": "leetcode/0143-reorder-list/0143-reorder-list.cpp",
+          "sha": "3d76da2ddaa08825a4e6b657b999601d8dec9052",
+          "lastSyncedAt": "2026-10-23T18:04:15.440Z"
         }
       ]
     },
