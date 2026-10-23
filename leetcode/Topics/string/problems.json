@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T17:56:23.057Z",
+  "updatedAt": "2026-10-23T17:57:00.734Z",
   "problems": [
     {
       "frontendId": "3",
@@ -43,7 +43,7 @@
           "filename": "0005-longest-palindromic-substring.cpp",
           "path": "leetcode/0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
           "sha": "beb7443854b3422ada16e3b0e4aa13cb4f340122",
-          "lastSyncedAt": "2026-10-23T12:29:55.943Z"
+          "lastSyncedAt": "2026-10-23T17:57:00.734Z"
         }
       ]
     },
