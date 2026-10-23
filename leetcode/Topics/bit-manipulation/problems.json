@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-23T12:21:37.830Z",
+  "updatedAt": "2026-10-23T12:21:45.764Z",
   "problems": [
     {
       "frontendId": "389",
@@ -243,7 +243,7 @@
           "filename": "3827-count-monobit-integers.cpp",
           "path": "leetcode/3827-count-monobit-integers/3827-count-monobit-integers.cpp",
           "sha": "86ae5dfab2b2bf050b416b669536e8681e5a0ad4",
-          "lastSyncedAt": "2026-10-23T05:20:51.983Z"
+          "lastSyncedAt": "2026-10-23T12:21:45.764Z"
         }
       ]
     },
