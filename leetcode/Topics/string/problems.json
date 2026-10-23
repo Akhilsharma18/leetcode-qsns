@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T12:32:25.519Z",
+  "updatedAt": "2026-10-23T12:33:47.127Z",
   "problems": [
     {
       "frontendId": "3",
@@ -264,6 +264,26 @@
           "path": "leetcode/0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
           "sha": "26903116d8da4d323d8a7009371cc0f3a6e48a59",
           "lastSyncedAt": "2026-10-23T12:09:12.950Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "763",
+      "title": "Partition Labels",
+      "slug": "partition-labels",
+      "problemName": "0763-partition-labels",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-labels/",
+      "folderPath": "leetcode/0763-partition-labels/",
+      "readmePath": "leetcode/0763-partition-labels/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0763-partition-labels.cpp",
+          "path": "leetcode/0763-partition-labels/0763-partition-labels.cpp",
+          "sha": "be62b55ff44fe9e962e4014e4a4c4bc47f30a01c",
+          "lastSyncedAt": "2026-10-23T12:33:47.127Z"
         }
       ]
     },
