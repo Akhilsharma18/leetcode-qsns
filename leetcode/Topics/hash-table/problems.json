@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T18:08:09.539Z",
+  "updatedAt": "2026-10-23T18:08:53.697Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "leetcode/0139-word-break/0139-word-break.cpp",
           "sha": "ab66d88d1b710c35f24f59aad602e2e4bc09c17f",
           "lastSyncedAt": "2026-10-23T18:02:28.906Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "leetcode/0169-majority-element/",
+      "readmePath": "leetcode/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "leetcode/0169-majority-element/0169-majority-element.cpp",
+          "sha": "73f6f446724ef007391ffdd6cf2988fdda7a59a0",
+          "lastSyncedAt": "2026-10-23T18:08:53.697Z"
         }
       ]
     },
