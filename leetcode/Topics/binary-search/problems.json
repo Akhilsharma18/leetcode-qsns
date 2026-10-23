@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-23T16:05:53.473Z",
+  "updatedAt": "2026-10-23T16:06:41.191Z",
   "problems": [
     {
       "frontendId": "33",
@@ -123,7 +123,7 @@
           "filename": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
           "path": "leetcode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
           "sha": "2e7e1daea0442a69b29fbc2c18ddeed73eab1adb",
-          "lastSyncedAt": "2026-10-23T15:43:03.816Z"
+          "lastSyncedAt": "2026-10-23T16:06:41.191Z"
         }
       ]
     },
