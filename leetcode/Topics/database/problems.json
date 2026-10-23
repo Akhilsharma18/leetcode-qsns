@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-23T18:05:25.051Z",
+  "updatedAt": "2026-10-23T18:06:53.715Z",
   "problems": [
+    {
+      "frontendId": "176",
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "problemName": "0176-second-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/second-highest-salary/",
+      "folderPath": "leetcode/0176-second-highest-salary/",
+      "readmePath": "leetcode/0176-second-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0176-second-highest-salary.sql",
+          "path": "leetcode/0176-second-highest-salary/0176-second-highest-salary.sql",
+          "sha": "2fe0cfeb4e86157bdadc68529716d31785c55572",
+          "lastSyncedAt": "2026-10-23T18:06:53.715Z"
+        }
+      ]
+    },
     {
       "frontendId": "196",
       "title": "Delete Duplicate Emails",
