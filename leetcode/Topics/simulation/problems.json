@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-23T17:58:12.973Z",
+  "updatedAt": "2026-10-23T18:00:29.202Z",
   "problems": [
     {
       "frontendId": "682",
@@ -143,7 +143,7 @@
           "filename": "2553-separate-the-digits-in-an-array.cpp",
           "path": "leetcode/2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.cpp",
           "sha": "709f59fbb839b15d7240666a895d7bbeaeb876d5",
-          "lastSyncedAt": "2026-10-23T12:34:10.135Z"
+          "lastSyncedAt": "2026-10-23T18:00:29.202Z"
         }
       ]
     },
