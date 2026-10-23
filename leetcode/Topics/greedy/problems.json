@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-23T05:07:30.166Z",
+  "updatedAt": "2026-10-23T05:07:45.128Z",
   "problems": [
     {
       "frontendId": "45",
@@ -283,7 +283,7 @@
           "filename": "2333-minimum-sum-of-squared-difference.cpp",
           "path": "leetcode/2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
           "sha": "49c8ba64f353161beb872d5929a9423e349c2718",
-          "lastSyncedAt": "2026-10-22T17:52:26.190Z"
+          "lastSyncedAt": "2026-10-23T05:07:45.128Z"
         }
       ]
     },
