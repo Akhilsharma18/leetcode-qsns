@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T12:34:56.583Z",
+  "updatedAt": "2026-10-23T12:35:24.980Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "66a7e9aa73830f6fe3ad2b3f392a660e26c71f59",
           "lastSyncedAt": "2026-10-23T12:19:31.678Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "396",
+      "title": "Rotate Function",
+      "slug": "rotate-function",
+      "problemName": "0396-rotate-function",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-function/",
+      "folderPath": "leetcode/0396-rotate-function/",
+      "readmePath": "leetcode/0396-rotate-function/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0396-rotate-function.cpp",
+          "path": "leetcode/0396-rotate-function/0396-rotate-function.cpp",
+          "sha": "396ef71be152d0d2c6f93bad63301a11f7428eda",
+          "lastSyncedAt": "2026-10-23T12:35:24.980Z"
         }
       ]
     },
