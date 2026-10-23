@@ -5,7 +5,7 @@
     "name": "Combinatorics",
     "tagId": "61056"
   },
-  "updatedAt": "2026-10-23T15:36:47.197Z",
+  "updatedAt": "2026-10-23T15:43:18.086Z",
   "problems": [
     {
       "frontendId": "1569",
@@ -43,7 +43,7 @@
           "filename": "1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
           "path": "leetcode/1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
           "sha": "16427f352cc894f3e2b4d11f68462488cb3022d8",
-          "lastSyncedAt": "2026-10-23T12:12:09.716Z"
+          "lastSyncedAt": "2026-10-23T15:43:18.086Z"
         }
       ]
     },
