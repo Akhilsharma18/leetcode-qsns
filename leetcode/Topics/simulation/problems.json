@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-23T12:19:52.942Z",
+  "updatedAt": "2026-10-23T12:24:25.063Z",
   "problems": [
     {
       "frontendId": "682",
@@ -143,7 +143,7 @@
           "filename": "3222-find-the-winning-player-in-coin-game.cpp",
           "path": "leetcode/3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.cpp",
           "sha": "c137ee2fbfb2f810e7bef09c7aa6526c7d12560d",
-          "lastSyncedAt": "2026-10-22T16:46:50.254Z"
+          "lastSyncedAt": "2026-10-23T12:24:25.063Z"
         }
       ]
     },
