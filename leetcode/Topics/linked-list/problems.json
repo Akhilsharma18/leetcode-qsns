@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-23T18:00:55.128Z",
+  "updatedAt": "2026-10-23T18:04:15.440Z",
   "problems": [
     {
       "frontendId": "21",
@@ -84,6 +84,26 @@
           "path": "leetcode/0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.cpp",
           "sha": "2f269e3564305b67a7aad79f363a6a7a11e1829d",
           "lastSyncedAt": "2026-10-23T17:47:12.442Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "leetcode/0143-reorder-list/",
+      "readmePath": "leetcode/0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0143-reorder-list.cpp",
+          "path": "leetcode/0143-reorder-list/0143-reorder-list.cpp",
+          "sha": "3d76da2ddaa08825a4e6b657b999601d8dec9052",
+          "lastSyncedAt": "2026-10-23T18:04:15.440Z"
         }
       ]
     },
