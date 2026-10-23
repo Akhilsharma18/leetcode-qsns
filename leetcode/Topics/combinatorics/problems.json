@@ -5,7 +5,7 @@
     "name": "Combinatorics",
     "tagId": "61056"
   },
-  "updatedAt": "2026-10-23T17:50:36.708Z",
+  "updatedAt": "2026-10-23T17:52:57.545Z",
   "problems": [
     {
       "frontendId": "1569",
@@ -83,7 +83,7 @@
           "filename": "3312-sorted-gcd-pair-queries.cpp",
           "path": "leetcode/3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
           "sha": "c913706845764c248152f5e7f991efaf4974ef97",
-          "lastSyncedAt": "2026-10-23T12:26:08.678Z"
+          "lastSyncedAt": "2026-10-23T17:52:57.545Z"
         }
       ]
     },
