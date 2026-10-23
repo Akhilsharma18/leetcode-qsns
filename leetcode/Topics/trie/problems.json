@@ -5,7 +5,7 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-10-23T12:36:35.157Z",
+  "updatedAt": "2026-10-23T16:08:27.496Z",
   "problems": [
     {
       "frontendId": "14",
@@ -23,7 +23,7 @@
           "filename": "0014-longest-common-prefix.cpp",
           "path": "leetcode/0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "927f592d8b7dab5b59ac07512cfbcab413c9f7ad",
-          "lastSyncedAt": "2026-10-23T12:13:53.106Z"
+          "lastSyncedAt": "2026-10-23T16:08:27.496Z"
         }
       ]
     },
