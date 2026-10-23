@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T18:00:29.202Z",
+  "updatedAt": "2026-10-23T18:00:35.607Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1203,7 +1203,7 @@
           "filename": "2770-maximum-number-of-jumps-to-reach-the-last-index.cpp",
           "path": "leetcode/2770-maximum-number-of-jumps-to-reach-the-last-index/2770-maximum-number-of-jumps-to-reach-the-last-index.cpp",
           "sha": "b494dd7f4c5a3ce078ac309aa8be0ddbdfe068b3",
-          "lastSyncedAt": "2026-10-23T12:34:19.815Z"
+          "lastSyncedAt": "2026-10-23T18:00:35.607Z"
         }
       ]
     },
