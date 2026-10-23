@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-23T12:30:27.273Z",
+  "updatedAt": "2026-10-23T12:34:48.000Z",
   "problems": [
     {
       "frontendId": "21",
@@ -44,6 +44,26 @@
           "path": "leetcode/0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
           "sha": "7b1c9c5289a799e3e4928c3ed7e4a4fac60c2504",
           "lastSyncedAt": "2026-10-23T12:16:28.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "leetcode/0061-rotate-list/",
+      "readmePath": "leetcode/0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0061-rotate-list.cpp",
+          "path": "leetcode/0061-rotate-list/0061-rotate-list.cpp",
+          "sha": "e1543a49e5f7679db7e0f0c84857bfb18167d5a4",
+          "lastSyncedAt": "2026-10-23T12:34:48.000Z"
         }
       ]
     },
