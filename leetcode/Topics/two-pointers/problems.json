@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T12:33:47.127Z",
+  "updatedAt": "2026-10-23T12:34:37.852Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/1237-find-positive-integer-solution-for-a-given-equation.cpp",
           "sha": "3fac227c62956e577395bd470258125a8344dbab",
           "lastSyncedAt": "2026-10-23T12:21:19.711Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1861",
+      "title": "Rotating the Box",
+      "slug": "rotating-the-box",
+      "problemName": "1861-rotating-the-box",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotating-the-box/",
+      "folderPath": "leetcode/1861-rotating-the-box/",
+      "readmePath": "leetcode/1861-rotating-the-box/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1861-rotating-the-box.cpp",
+          "path": "leetcode/1861-rotating-the-box/1861-rotating-the-box.cpp",
+          "sha": "8c9be4fcc4f5f4810e40c09095c83b587ff284bd",
+          "lastSyncedAt": "2026-10-23T12:34:37.852Z"
         }
       ]
     },
