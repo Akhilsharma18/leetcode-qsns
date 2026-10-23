@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T12:20:01.673Z",
+  "updatedAt": "2026-10-23T12:20:19.678Z",
   "problems": [
     {
       "frontendId": "5",
@@ -443,7 +443,7 @@
           "filename": "3302-find-the-lexicographically-smallest-valid-sequence.cpp",
           "path": "leetcode/3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.cpp",
           "sha": "d7903d4594d83603790bafc71fd7a4a4a1f86f68",
-          "lastSyncedAt": "2026-10-23T05:19:30.130Z"
+          "lastSyncedAt": "2026-10-23T12:20:19.678Z"
         }
       ]
     },
