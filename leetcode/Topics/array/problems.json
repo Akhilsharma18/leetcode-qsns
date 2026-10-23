@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T05:05:39.888Z",
+  "updatedAt": "2026-10-23T05:05:48.031Z",
   "problems": [
     {
       "frontendId": "1",
@@ -23,7 +23,7 @@
           "filename": "0001-two-sum.cpp",
           "path": "leetcode/0001-two-sum/0001-two-sum.cpp",
           "sha": "935fbdc4d2724e06077e7b0546c326a24fcf7b3f",
-          "lastSyncedAt": "2026-10-22T17:49:34.921Z"
+          "lastSyncedAt": "2026-10-23T05:05:48.031Z"
         }
       ]
     },
