@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T12:35:16.962Z",
+  "updatedAt": "2026-10-23T12:35:24.980Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "leetcode/0115-distinct-subsequences/0115-distinct-subsequences.cpp",
           "sha": "1b2e532618d14799caa621df13221042f653d9a6",
           "lastSyncedAt": "2026-10-23T12:13:29.794Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "396",
+      "title": "Rotate Function",
+      "slug": "rotate-function",
+      "problemName": "0396-rotate-function",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-function/",
+      "folderPath": "leetcode/0396-rotate-function/",
+      "readmePath": "leetcode/0396-rotate-function/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0396-rotate-function.cpp",
+          "path": "leetcode/0396-rotate-function/0396-rotate-function.cpp",
+          "sha": "396ef71be152d0d2c6f93bad63301a11f7428eda",
+          "lastSyncedAt": "2026-10-23T12:35:24.980Z"
         }
       ]
     },
