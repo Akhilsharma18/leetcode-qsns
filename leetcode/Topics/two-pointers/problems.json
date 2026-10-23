@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T18:03:18.529Z",
+  "updatedAt": "2026-10-23T18:04:04.965Z",
   "problems": [
     {
       "frontendId": "5",
@@ -64,6 +64,26 @@
           "path": "leetcode/0015-3sum/0015-3sum.cpp",
           "sha": "c8ab270af6ac147ee834d7beb8b441db506e791d",
           "lastSyncedAt": "2026-10-23T17:31:54.125Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "leetcode/0027-remove-element/",
+      "readmePath": "leetcode/0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0027-remove-element.cpp",
+          "path": "leetcode/0027-remove-element/0027-remove-element.cpp",
+          "sha": "7c6b992f28d753855609e60e729c018b20dbe7eb",
+          "lastSyncedAt": "2026-10-23T18:04:04.965Z"
         }
       ]
     },
