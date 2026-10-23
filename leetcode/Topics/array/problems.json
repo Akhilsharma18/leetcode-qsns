@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T17:40:06.894Z",
+  "updatedAt": "2026-10-23T17:40:25.778Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1003,7 +1003,7 @@
           "filename": "2091-removing-minimum-and-maximum-from-array.cpp",
           "path": "leetcode/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.cpp",
           "sha": "53cd8e47146f38ceaad9b51c720f10268240dc4b",
-          "lastSyncedAt": "2026-10-23T16:09:00.993Z"
+          "lastSyncedAt": "2026-10-23T17:40:25.778Z"
         }
       ]
     },
