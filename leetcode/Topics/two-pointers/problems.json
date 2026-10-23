@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T17:58:42.018Z",
+  "updatedAt": "2026-10-23T17:59:51.318Z",
   "problems": [
     {
       "frontendId": "5",
@@ -243,7 +243,7 @@
           "filename": "2540-minimum-common-value.cpp",
           "path": "leetcode/2540-minimum-common-value/2540-minimum-common-value.cpp",
           "sha": "b6c1a4b9bc2c53e7a0e7961b99ba9502afe340ba",
-          "lastSyncedAt": "2026-10-23T12:33:12.906Z"
+          "lastSyncedAt": "2026-10-23T17:59:51.318Z"
         }
       ]
     },
