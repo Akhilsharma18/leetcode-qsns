@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-23T15:35:50.519Z",
+  "updatedAt": "2026-10-23T15:38:13.477Z",
   "problems": [
     {
       "frontendId": "389",
@@ -63,7 +63,7 @@
           "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "path": "leetcode/2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "sha": "5458de49112ae0ab719a488843eb048b1e8e5019",
-          "lastSyncedAt": "2026-10-23T12:07:59.674Z"
+          "lastSyncedAt": "2026-10-23T15:38:13.477Z"
         }
       ]
     },
