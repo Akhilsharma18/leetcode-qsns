@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-23T17:42:29.709Z",
+  "updatedAt": "2026-10-23T17:47:12.442Z",
   "problems": [
     {
       "frontendId": "21",
@@ -83,7 +83,7 @@
           "filename": "0109-convert-sorted-list-to-binary-search-tree.cpp",
           "path": "leetcode/0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.cpp",
           "sha": "2f269e3564305b67a7aad79f363a6a7a11e1829d",
-          "lastSyncedAt": "2026-10-23T12:20:53.499Z"
+          "lastSyncedAt": "2026-10-23T17:47:12.442Z"
         }
       ]
     },
