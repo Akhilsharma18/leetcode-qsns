@@ -5,7 +5,7 @@
     "name": "Zero-Sum Game",
     "tagId": "122082"
   },
-  "updatedAt": "2026-10-23T16:09:46.548Z",
+  "updatedAt": "2026-10-23T16:11:27.462Z",
   "problems": [
     {
       "frontendId": "486",
@@ -143,7 +143,7 @@
           "filename": "2029-stone-game-ix.cpp",
           "path": "leetcode/2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "197a2daf465bc1b46c5136a02b6df1d76e3cf3ae",
-          "lastSyncedAt": "2026-10-23T12:16:52.889Z"
+          "lastSyncedAt": "2026-10-23T16:11:27.462Z"
         }
       ]
     }
