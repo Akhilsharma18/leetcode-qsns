@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-23T17:56:30.313Z",
+  "updatedAt": "2026-10-23T17:56:37.209Z",
   "problems": [
     {
       "frontendId": "33",
@@ -143,7 +143,7 @@
           "filename": "1539-kth-missing-positive-number.cpp",
           "path": "leetcode/1539-kth-missing-positive-number/1539-kth-missing-positive-number.cpp",
           "sha": "51344ccfbb266da6e51f3bb2c4369944b2453d95",
-          "lastSyncedAt": "2026-10-23T12:29:31.439Z"
+          "lastSyncedAt": "2026-10-23T17:56:37.209Z"
         }
       ]
     },
