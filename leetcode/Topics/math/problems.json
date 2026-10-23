@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T17:37:13.970Z",
+  "updatedAt": "2026-10-23T17:37:33.766Z",
   "problems": [
     {
       "frontendId": "48",
@@ -363,7 +363,7 @@
           "filename": "1401-circle-and-rectangle-overlapping.cpp",
           "path": "leetcode/1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.cpp",
           "sha": "e9bb9b238bac57329660421ddc027a31dcdf264a",
-          "lastSyncedAt": "2026-10-23T16:06:25.420Z"
+          "lastSyncedAt": "2026-10-23T17:37:33.766Z"
         }
       ]
     },
