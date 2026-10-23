@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-23T12:30:42.211Z",
+  "updatedAt": "2026-10-23T12:31:06.538Z",
   "problems": [
     {
       "frontendId": "682",
@@ -103,7 +103,7 @@
           "filename": "2161-partition-array-according-to-given-pivot.cpp",
           "path": "leetcode/2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.cpp",
           "sha": "e7453ea793676557f0551cb7ef735587ab8de29e",
-          "lastSyncedAt": "2026-10-22T11:17:54.686Z"
+          "lastSyncedAt": "2026-10-23T12:31:06.538Z"
         }
       ]
     },
