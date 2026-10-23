@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T05:07:57.865Z",
+  "updatedAt": "2026-10-23T05:08:08.753Z",
   "problems": [
     {
       "frontendId": "5",
@@ -323,7 +323,7 @@
           "filename": "1021-remove-outermost-parentheses.cpp",
           "path": "leetcode/1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "652d9053bb3d8a1b5da26d244a61cfa541a03252",
-          "lastSyncedAt": "2026-10-22T17:52:53.562Z"
+          "lastSyncedAt": "2026-10-23T05:08:08.753Z"
         }
       ]
     },
