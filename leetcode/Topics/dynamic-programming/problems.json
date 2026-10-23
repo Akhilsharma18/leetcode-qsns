@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T12:34:19.815Z",
+  "updatedAt": "2026-10-23T12:34:29.424Z",
   "problems": [
     {
       "frontendId": "5",
@@ -544,6 +544,26 @@
           "path": "leetcode/3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
           "sha": "484f92564ab8bcdfc7f098d7bb2a34d2c3e82d96",
           "lastSyncedAt": "2026-10-23T12:27:17.538Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3660",
+      "title": "Jump Game IX",
+      "slug": "jump-game-ix",
+      "problemName": "3660-jump-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ix/",
+      "folderPath": "leetcode/3660-jump-game-ix/",
+      "readmePath": "leetcode/3660-jump-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3660-jump-game-ix.cpp",
+          "path": "leetcode/3660-jump-game-ix/3660-jump-game-ix.cpp",
+          "sha": "e7e16ff6765809b2c34bd4a80bcb6d94d618ecde",
+          "lastSyncedAt": "2026-10-23T12:34:29.424Z"
         }
       ]
     },
