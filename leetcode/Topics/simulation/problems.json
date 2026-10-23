@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-23T12:16:04.822Z",
+  "updatedAt": "2026-10-23T12:19:47.155Z",
   "problems": [
     {
       "frontendId": "682",
@@ -163,7 +163,7 @@
           "filename": "3360-stone-removal-game.cpp",
           "path": "leetcode/3360-stone-removal-game/3360-stone-removal-game.cpp",
           "sha": "33b9095477c556d90695d95f8c3733c2e24c45d1",
-          "lastSyncedAt": "2026-10-23T05:18:57.041Z"
+          "lastSyncedAt": "2026-10-23T12:19:47.155Z"
         }
       ]
     },
