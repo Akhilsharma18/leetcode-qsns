@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T17:39:27.718Z",
+  "updatedAt": "2026-10-23T17:39:52.811Z",
   "problems": [
     {
       "frontendId": "3",
@@ -63,7 +63,7 @@
           "filename": "0014-longest-common-prefix.cpp",
           "path": "leetcode/0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "927f592d8b7dab5b59ac07512cfbcab413c9f7ad",
-          "lastSyncedAt": "2026-10-23T16:08:27.496Z"
+          "lastSyncedAt": "2026-10-23T17:39:52.811Z"
         }
       ]
     },
