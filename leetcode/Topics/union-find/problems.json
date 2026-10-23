@@ -5,8 +5,28 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-23T17:54:36.284Z",
+  "updatedAt": "2026-10-23T18:03:30.488Z",
   "problems": [
+    {
+      "frontendId": "1559",
+      "title": "Detect Cycles in 2D Grid",
+      "slug": "detect-cycles-in-2d-grid",
+      "problemName": "1559-detect-cycles-in-2d-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/detect-cycles-in-2d-grid/",
+      "folderPath": "leetcode/1559-detect-cycles-in-2d-grid/",
+      "readmePath": "leetcode/1559-detect-cycles-in-2d-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1559-detect-cycles-in-2d-grid.cpp",
+          "path": "leetcode/1559-detect-cycles-in-2d-grid/1559-detect-cycles-in-2d-grid.cpp",
+          "sha": "45a491948623abb4eb5eac57f6e1c0eb729e94f4",
+          "lastSyncedAt": "2026-10-23T18:03:30.488Z"
+        }
+      ]
+    },
     {
       "frontendId": "1569",
       "title": "Number of Ways to Reorder Array to Get Same BST",
