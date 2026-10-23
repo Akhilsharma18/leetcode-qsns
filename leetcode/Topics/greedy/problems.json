@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-23T17:58:07.519Z",
+  "updatedAt": "2026-10-23T17:58:42.018Z",
   "problems": [
     {
       "frontendId": "45",
@@ -463,7 +463,7 @@
           "filename": "3633-earliest-finish-time-for-land-and-water-rides-i.cpp",
           "path": "leetcode/3633-earliest-finish-time-for-land-and-water-rides-i/3633-earliest-finish-time-for-land-and-water-rides-i.cpp",
           "sha": "a579722581b12509aa1b599d7b48c56e31447037",
-          "lastSyncedAt": "2026-10-23T12:31:32.490Z"
+          "lastSyncedAt": "2026-10-23T17:58:42.018Z"
         }
       ]
     },
