@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T18:04:28.931Z",
+  "updatedAt": "2026-10-23T18:04:43.115Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "leetcode/0594-longest-harmonious-subsequence/0594-longest-harmonious-subsequence.cpp",
           "sha": "a5d285eaffd7dd6d5cdb360bb452cda661c6fb71",
           "lastSyncedAt": "2026-10-23T17:44:55.407Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "problemName": "0605-can-place-flowers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers/",
+      "folderPath": "leetcode/0605-can-place-flowers/",
+      "readmePath": "leetcode/0605-can-place-flowers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0605-can-place-flowers.cpp",
+          "path": "leetcode/0605-can-place-flowers/0605-can-place-flowers.cpp",
+          "sha": "76e67c0540a302c3d30ce15ec3df6348a8ae6b29",
+          "lastSyncedAt": "2026-10-23T18:04:43.115Z"
         }
       ]
     },
