@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-23T12:21:19.711Z",
+  "updatedAt": "2026-10-23T12:25:25.915Z",
   "problems": [
     {
       "frontendId": "349",
@@ -243,7 +243,7 @@
           "filename": "3501-maximize-active-section-with-trade-ii.cpp",
           "path": "leetcode/3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.cpp",
           "sha": "faf762512b02c40db9c89101b3c55c7f14be282e",
-          "lastSyncedAt": "2026-10-22T16:48:16.642Z"
+          "lastSyncedAt": "2026-10-23T12:25:25.915Z"
         }
       ]
     },
