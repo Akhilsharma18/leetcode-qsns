@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T15:38:13.477Z",
+  "updatedAt": "2026-10-23T15:38:24.437Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1223,7 +1223,7 @@
           "filename": "2778-sum-of-squares-of-special-elements.cpp",
           "path": "leetcode/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
           "sha": "e93085d5e776b7a50ec11f1b30a6738c0a23ff79",
-          "lastSyncedAt": "2026-10-23T12:08:09.423Z"
+          "lastSyncedAt": "2026-10-23T15:38:24.437Z"
         }
       ]
     },
