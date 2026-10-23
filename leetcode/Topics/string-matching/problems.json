@@ -5,8 +5,28 @@
     "name": "String Matching",
     "tagId": "61052"
   },
-  "updatedAt": "2026-10-23T12:35:06.705Z",
+  "updatedAt": "2026-10-23T12:36:14.169Z",
   "problems": [
+    {
+      "frontendId": "572",
+      "title": "Subtree of Another Tree",
+      "slug": "subtree-of-another-tree",
+      "problemName": "0572-subtree-of-another-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+      "folderPath": "leetcode/0572-subtree-of-another-tree/",
+      "readmePath": "leetcode/0572-subtree-of-another-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0572-subtree-of-another-tree.cpp",
+          "path": "leetcode/0572-subtree-of-another-tree/0572-subtree-of-another-tree.cpp",
+          "sha": "ba50f4e2b6b88a638dacbe477e052e617fb0dbf5",
+          "lastSyncedAt": "2026-10-23T12:36:14.169Z"
+        }
+      ]
+    },
     {
       "frontendId": "796",
       "title": "Rotate String",
