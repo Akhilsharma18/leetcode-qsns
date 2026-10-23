@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T12:32:50.328Z",
+  "updatedAt": "2026-10-23T12:33:12.906Z",
   "problems": [
     {
       "frontendId": "1",
@@ -364,6 +364,26 @@
           "path": "leetcode/2248-intersection-of-multiple-arrays/2248-intersection-of-multiple-arrays.cpp",
           "sha": "ac16c29668b830162a3c79f45c066ff9a70d341d",
           "lastSyncedAt": "2026-10-23T12:18:23.485Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "leetcode/2540-minimum-common-value/",
+      "readmePath": "leetcode/2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2540-minimum-common-value.cpp",
+          "path": "leetcode/2540-minimum-common-value/2540-minimum-common-value.cpp",
+          "sha": "b6c1a4b9bc2c53e7a0e7961b99ba9502afe340ba",
+          "lastSyncedAt": "2026-10-23T12:33:12.906Z"
         }
       ]
     },
