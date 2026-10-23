@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T15:42:29.457Z",
+  "updatedAt": "2026-10-23T15:43:03.816Z",
   "problems": [
     {
       "frontendId": "5",
@@ -363,7 +363,7 @@
           "filename": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
           "path": "leetcode/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
           "sha": "2e7e1daea0442a69b29fbc2c18ddeed73eab1adb",
-          "lastSyncedAt": "2026-10-23T12:11:57.215Z"
+          "lastSyncedAt": "2026-10-23T15:43:03.816Z"
         }
       ]
     },
