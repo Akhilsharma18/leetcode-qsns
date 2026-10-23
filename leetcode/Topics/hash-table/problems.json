@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T12:36:03.143Z",
+  "updatedAt": "2026-10-23T12:36:35.157Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "leetcode/0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp",
           "sha": "df4e3ea39b63941e7920fab3312ee69d70399ef1",
           "lastSyncedAt": "2026-10-23T12:32:50.328Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "leetcode/0139-word-break/",
+      "readmePath": "leetcode/0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0139-word-break.cpp",
+          "path": "leetcode/0139-word-break/0139-word-break.cpp",
+          "sha": "ab66d88d1b710c35f24f59aad602e2e4bc09c17f",
+          "lastSyncedAt": "2026-10-23T12:36:35.157Z"
         }
       ]
     },
