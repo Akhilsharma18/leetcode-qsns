@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T18:05:32.299Z",
+  "updatedAt": "2026-10-23T18:05:45.246Z",
   "problems": [
     {
       "frontendId": "3",
@@ -544,6 +544,26 @@
           "path": "leetcode/1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "652d9053bb3d8a1b5da26d244a61cfa541a03252",
           "lastSyncedAt": "2026-10-23T17:34:30.391Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1071",
+      "title": "Greatest Common Divisor of Strings",
+      "slug": "greatest-common-divisor-of-strings",
+      "problemName": "1071-greatest-common-divisor-of-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+      "folderPath": "leetcode/1071-greatest-common-divisor-of-strings/",
+      "readmePath": "leetcode/1071-greatest-common-divisor-of-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1071-greatest-common-divisor-of-strings.cpp",
+          "path": "leetcode/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp",
+          "sha": "1e75d0f2fb2aadbdf6f9dda59bc68549a481caa8",
+          "lastSyncedAt": "2026-10-23T18:05:45.246Z"
         }
       ]
     },
