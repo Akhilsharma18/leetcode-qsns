@@ -5,7 +5,7 @@
     "name": "Shortest Path",
     "tagId": "61076"
   },
-  "updatedAt": "2026-10-23T12:28:20.684Z",
+  "updatedAt": "2026-10-23T17:55:21.191Z",
   "problems": [
     {
       "frontendId": "3286",
@@ -23,7 +23,7 @@
           "filename": "3286-find-a-safe-walk-through-a-grid.cpp",
           "path": "leetcode/3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.cpp",
           "sha": "34b632c86cfdfdeb3935601759ea0cbb53de3195",
-          "lastSyncedAt": "2026-10-23T12:28:20.684Z"
+          "lastSyncedAt": "2026-10-23T17:55:21.191Z"
         }
       ]
     }
