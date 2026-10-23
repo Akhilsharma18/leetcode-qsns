@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T12:31:32.490Z",
+  "updatedAt": "2026-10-23T12:33:12.906Z",
   "problems": [
     {
       "frontendId": "5",
@@ -164,6 +164,26 @@
           "path": "leetcode/2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
           "sha": "ca2612b8110856b45409c6c1a9d0c1bc3c858209",
           "lastSyncedAt": "2026-10-23T12:12:20.565Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "leetcode/2540-minimum-common-value/",
+      "readmePath": "leetcode/2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2540-minimum-common-value.cpp",
+          "path": "leetcode/2540-minimum-common-value/2540-minimum-common-value.cpp",
+          "sha": "b6c1a4b9bc2c53e7a0e7961b99ba9502afe340ba",
+          "lastSyncedAt": "2026-10-23T12:33:12.906Z"
         }
       ]
     },
