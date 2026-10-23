@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T12:31:23.809Z",
+  "updatedAt": "2026-10-23T12:31:58.346Z",
   "problems": [
     {
       "frontendId": "168",
@@ -564,6 +564,26 @@
           "path": "leetcode/3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.cpp",
           "sha": "c137ee2fbfb2f810e7bef09c7aa6526c7d12560d",
           "lastSyncedAt": "2026-10-23T12:24:25.063Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3300",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "problemName": "3300-minimum-element-after-replacement-with-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+      "folderPath": "leetcode/3300-minimum-element-after-replacement-with-digit-sum/",
+      "readmePath": "leetcode/3300-minimum-element-after-replacement-with-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3300-minimum-element-after-replacement-with-digit-sum.cpp",
+          "path": "leetcode/3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.cpp",
+          "sha": "d2494063aef16ec40181b582a06d7cf3f05fe729",
+          "lastSyncedAt": "2026-10-23T12:31:58.346Z"
         }
       ]
     },
