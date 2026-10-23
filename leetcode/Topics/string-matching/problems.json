@@ -5,7 +5,7 @@
     "name": "String Matching",
     "tagId": "61052"
   },
-  "updatedAt": "2026-10-23T18:01:12.172Z",
+  "updatedAt": "2026-10-23T18:02:13.407Z",
   "problems": [
     {
       "frontendId": "572",
@@ -23,7 +23,7 @@
           "filename": "0572-subtree-of-another-tree.cpp",
           "path": "leetcode/0572-subtree-of-another-tree/0572-subtree-of-another-tree.cpp",
           "sha": "ba50f4e2b6b88a638dacbe477e052e617fb0dbf5",
-          "lastSyncedAt": "2026-10-23T12:36:14.169Z"
+          "lastSyncedAt": "2026-10-23T18:02:13.407Z"
         }
       ]
     },
