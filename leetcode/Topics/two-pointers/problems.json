@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T17:47:40.660Z",
+  "updatedAt": "2026-10-23T17:53:18.644Z",
   "problems": [
     {
       "frontendId": "5",
@@ -363,7 +363,7 @@
           "filename": "3867-sum-of-gcd-of-formed-pairs.cpp",
           "path": "leetcode/3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.cpp",
           "sha": "975843e60d460553386593cca4ac04195b6ce903",
-          "lastSyncedAt": "2026-10-23T12:26:28.526Z"
+          "lastSyncedAt": "2026-10-23T17:53:18.644Z"
         }
       ]
     }
