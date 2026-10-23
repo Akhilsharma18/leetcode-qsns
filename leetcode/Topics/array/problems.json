@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T12:22:44.910Z",
+  "updatedAt": "2026-10-23T12:22:59.758Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,7 +163,7 @@
           "filename": "0486-predict-the-winner.cpp",
           "path": "leetcode/0486-predict-the-winner/0486-predict-the-winner.cpp",
           "sha": "48396c8199aa91bca1a4572a53a636ac46da5900",
-          "lastSyncedAt": "2026-10-23T05:22:04.245Z"
+          "lastSyncedAt": "2026-10-23T12:22:59.758Z"
         }
       ]
     },
