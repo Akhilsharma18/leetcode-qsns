@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T12:34:37.852Z",
+  "updatedAt": "2026-10-23T12:34:56.583Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "leetcode/0045-jump-game-ii/0045-jump-game-ii.cpp",
           "sha": "efa41c2428faaec4b4db6fceca2962b9796d37c7",
           "lastSyncedAt": "2026-10-23T12:17:56.853Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "leetcode/0048-rotate-image/",
+      "readmePath": "leetcode/0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0048-rotate-image.cpp",
+          "path": "leetcode/0048-rotate-image/0048-rotate-image.cpp",
+          "sha": "dec1f4ace937ed45d892d9c7a465dc3709c45015",
+          "lastSyncedAt": "2026-10-23T12:34:56.583Z"
         }
       ]
     },
