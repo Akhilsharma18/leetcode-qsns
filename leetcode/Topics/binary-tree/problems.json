@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-23T12:13:02.339Z",
+  "updatedAt": "2026-10-23T12:20:53.499Z",
   "problems": [
     {
       "frontendId": "109",
@@ -23,7 +23,7 @@
           "filename": "0109-convert-sorted-list-to-binary-search-tree.cpp",
           "path": "leetcode/0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.cpp",
           "sha": "2f269e3564305b67a7aad79f363a6a7a11e1829d",
-          "lastSyncedAt": "2026-10-23T05:20:00.933Z"
+          "lastSyncedAt": "2026-10-23T12:20:53.499Z"
         }
       ]
     },
