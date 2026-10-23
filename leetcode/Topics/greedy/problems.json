@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-23T15:42:52.394Z",
+  "updatedAt": "2026-10-23T15:43:30.018Z",
   "problems": [
     {
       "frontendId": "45",
@@ -323,7 +323,7 @@
           "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
           "path": "leetcode/2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
           "sha": "ca2612b8110856b45409c6c1a9d0c1bc3c858209",
-          "lastSyncedAt": "2026-10-23T12:12:20.565Z"
+          "lastSyncedAt": "2026-10-23T15:43:30.018Z"
         }
       ]
     },
