@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-23T18:01:39.293Z",
+  "updatedAt": "2026-10-23T18:05:32.299Z",
   "problems": [
+    {
+      "frontendId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "problemName": "0043-multiply-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+      "folderPath": "leetcode/0043-multiply-strings/",
+      "readmePath": "leetcode/0043-multiply-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0043-multiply-strings.cpp",
+          "path": "leetcode/0043-multiply-strings/0043-multiply-strings.cpp",
+          "sha": "5dadeeedf4e9e5ef04e29b9142a9570a6aa83620",
+          "lastSyncedAt": "2026-10-23T18:05:32.299Z"
+        }
+      ]
+    },
     {
       "frontendId": "682",
       "title": "Baseball Game",
