@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T18:04:43.115Z",
+  "updatedAt": "2026-10-23T18:05:02.876Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "leetcode/0048-rotate-image/0048-rotate-image.cpp",
           "sha": "dec1f4ace937ed45d892d9c7a465dc3709c45015",
           "lastSyncedAt": "2026-10-23T18:01:00.788Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "57",
+      "title": "Insert Interval",
+      "slug": "insert-interval",
+      "problemName": "0057-insert-interval",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-interval/",
+      "folderPath": "leetcode/0057-insert-interval/",
+      "readmePath": "leetcode/0057-insert-interval/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0057-insert-interval.cpp",
+          "path": "leetcode/0057-insert-interval/0057-insert-interval.cpp",
+          "sha": "db6aca6d84da15adb2b2b7a6d95fd079d3122187",
+          "lastSyncedAt": "2026-10-23T18:05:02.876Z"
         }
       ]
     },
