@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-23T17:57:56.781Z",
+  "updatedAt": "2026-10-23T18:00:23.777Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,7 +63,7 @@
           "filename": "0071-simplify-path.cpp",
           "path": "leetcode/0071-simplify-path/0071-simplify-path.cpp",
           "sha": "2c6ec99402bc99767e7853e9f6f3fb9b8365cd3a",
-          "lastSyncedAt": "2026-10-23T12:34:00.750Z"
+          "lastSyncedAt": "2026-10-23T18:00:23.777Z"
         }
       ]
     },
