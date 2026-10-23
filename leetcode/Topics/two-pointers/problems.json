@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T12:33:12.906Z",
+  "updatedAt": "2026-10-23T12:33:47.127Z",
   "problems": [
     {
       "frontendId": "5",
@@ -64,6 +64,26 @@
           "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "66a7e9aa73830f6fe3ad2b3f392a660e26c71f59",
           "lastSyncedAt": "2026-10-23T12:19:31.678Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "763",
+      "title": "Partition Labels",
+      "slug": "partition-labels",
+      "problemName": "0763-partition-labels",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-labels/",
+      "folderPath": "leetcode/0763-partition-labels/",
+      "readmePath": "leetcode/0763-partition-labels/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0763-partition-labels.cpp",
+          "path": "leetcode/0763-partition-labels/0763-partition-labels.cpp",
+          "sha": "be62b55ff44fe9e962e4014e4a4c4bc47f30a01c",
+          "lastSyncedAt": "2026-10-23T12:33:47.127Z"
         }
       ]
     },
