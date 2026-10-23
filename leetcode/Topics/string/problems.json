@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T18:02:28.906Z",
+  "updatedAt": "2026-10-23T18:03:18.529Z",
   "problems": [
     {
       "frontendId": "3",
@@ -344,6 +344,26 @@
           "path": "leetcode/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
           "sha": "fa438154db5651e378b7d1282f1a5c53d5bb7151",
           "lastSyncedAt": "2026-10-23T17:55:06.883Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "647",
+      "title": "Palindromic Substrings",
+      "slug": "palindromic-substrings",
+      "problemName": "0647-palindromic-substrings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings/",
+      "folderPath": "leetcode/0647-palindromic-substrings/",
+      "readmePath": "leetcode/0647-palindromic-substrings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0647-palindromic-substrings.cpp",
+          "path": "leetcode/0647-palindromic-substrings/0647-palindromic-substrings.cpp",
+          "sha": "50d0e555e6fbcd10ecf2d3bbd733743b764b7651",
+          "lastSyncedAt": "2026-10-23T18:03:18.529Z"
         }
       ]
     },
