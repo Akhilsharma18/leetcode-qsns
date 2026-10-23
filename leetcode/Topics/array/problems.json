@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T18:03:30.488Z",
+  "updatedAt": "2026-10-23T18:03:48.141Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "leetcode/0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.cpp",
           "sha": "2885c5055a5d66030077c32082a71a46e33c0849",
           "lastSyncedAt": "2026-10-23T18:00:00.785Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "leetcode/0200-number-of-islands/",
+      "readmePath": "leetcode/0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0200-number-of-islands.cpp",
+          "path": "leetcode/0200-number-of-islands/0200-number-of-islands.cpp",
+          "sha": "fc3f37c5784132e23633f8f3b77c1b0225f53489",
+          "lastSyncedAt": "2026-10-23T18:03:48.141Z"
         }
       ]
     },
