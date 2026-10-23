@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-23T17:56:23.057Z",
+  "updatedAt": "2026-10-23T18:08:53.697Z",
   "problems": [
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "leetcode/0169-majority-element/",
+      "readmePath": "leetcode/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "leetcode/0169-majority-element/0169-majority-element.cpp",
+          "sha": "73f6f446724ef007391ffdd6cf2988fdda7a59a0",
+          "lastSyncedAt": "2026-10-23T18:08:53.697Z"
+        }
+      ]
+    },
     {
       "frontendId": "387",
       "title": "First Unique Character in a String",
