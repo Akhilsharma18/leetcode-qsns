@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-23T17:41:46.934Z",
+  "updatedAt": "2026-10-23T17:45:36.415Z",
   "problems": [
     {
       "frontendId": "33",
@@ -63,7 +63,7 @@
           "filename": "0349-intersection-of-two-arrays.cpp",
           "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "66a7e9aa73830f6fe3ad2b3f392a660e26c71f59",
-          "lastSyncedAt": "2026-10-23T12:19:31.678Z"
+          "lastSyncedAt": "2026-10-23T17:45:36.415Z"
         }
       ]
     },
