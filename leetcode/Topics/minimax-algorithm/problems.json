@@ -5,7 +5,7 @@
     "name": "Minimax",
     "tagId": "35"
   },
-  "updatedAt": "2026-10-23T05:14:27.614Z",
+  "updatedAt": "2026-10-23T05:16:10.315Z",
   "problems": [
     {
       "frontendId": "292",
@@ -163,7 +163,7 @@
           "filename": "2029-stone-game-ix.cpp",
           "path": "leetcode/2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "197a2daf465bc1b46c5136a02b6df1d76e3cf3ae",
-          "lastSyncedAt": "2026-10-22T17:54:54.429Z"
+          "lastSyncedAt": "2026-10-23T05:16:10.315Z"
         }
       ]
     }
