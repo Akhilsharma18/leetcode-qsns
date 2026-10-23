@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T15:45:24.882Z",
+  "updatedAt": "2026-10-23T16:01:20.826Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1123,7 +1123,7 @@
           "filename": "3863-minimum-operations-to-sort-a-string.cpp",
           "path": "leetcode/3863-minimum-operations-to-sort-a-string/3863-minimum-operations-to-sort-a-string.cpp",
           "sha": "59fa3f3e80e152ae4146317f33f5bec123dad97a",
-          "lastSyncedAt": "2026-10-23T15:36:21.439Z"
+          "lastSyncedAt": "2026-10-23T16:01:20.826Z"
         }
       ]
     }
