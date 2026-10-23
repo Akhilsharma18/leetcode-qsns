@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-23T17:41:46.934Z",
+  "updatedAt": "2026-10-23T17:47:26.635Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -103,7 +103,7 @@
           "filename": "3348-smallest-divisible-digit-product-ii.cpp",
           "path": "leetcode/3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.cpp",
           "sha": "7143daceedda63b8ef22451c424d54caa03c68ac",
-          "lastSyncedAt": "2026-10-23T12:21:06.394Z"
+          "lastSyncedAt": "2026-10-23T17:47:26.635Z"
         }
       ]
     },
