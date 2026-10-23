@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T18:04:04.965Z",
+  "updatedAt": "2026-10-23T18:04:28.931Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "leetcode/0228-summary-ranges/0228-summary-ranges.cpp",
           "sha": "f4beae820e55cb6c44c6c97202036ed3116d7c16",
           "lastSyncedAt": "2026-10-23T17:59:00.277Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "334",
+      "title": "Increasing Triplet Subsequence",
+      "slug": "increasing-triplet-subsequence",
+      "problemName": "0334-increasing-triplet-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+      "folderPath": "leetcode/0334-increasing-triplet-subsequence/",
+      "readmePath": "leetcode/0334-increasing-triplet-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0334-increasing-triplet-subsequence.cpp",
+          "path": "leetcode/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.cpp",
+          "sha": "fba0bea0942f58c152b2b6085bc98ff3dbce029d",
+          "lastSyncedAt": "2026-10-23T18:04:28.931Z"
         }
       ]
     },
