@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T12:34:29.424Z",
+  "updatedAt": "2026-10-23T12:35:16.962Z",
   "problems": [
     {
       "frontendId": "5",
@@ -164,6 +164,26 @@
           "path": "leetcode/0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
           "sha": "26903116d8da4d323d8a7009371cc0f3a6e48a59",
           "lastSyncedAt": "2026-10-23T12:09:12.950Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "788",
+      "title": "Rotated Digits",
+      "slug": "rotated-digits",
+      "problemName": "0788-rotated-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotated-digits/",
+      "folderPath": "leetcode/0788-rotated-digits/",
+      "readmePath": "leetcode/0788-rotated-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0788-rotated-digits.cpp",
+          "path": "leetcode/0788-rotated-digits/0788-rotated-digits.cpp",
+          "sha": "d15937f3c5b0fb5c3e199a0ea09e35b7d9d97cb3",
+          "lastSyncedAt": "2026-10-23T12:35:16.962Z"
         }
       ]
     },
