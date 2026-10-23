@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T18:07:33.251Z",
+  "updatedAt": "2026-10-23T18:08:09.539Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1964,6 +1964,26 @@
           "path": "leetcode/3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
           "sha": "484f92564ab8bcdfc7f098d7bb2a34d2c3e82d96",
           "lastSyncedAt": "2026-10-23T17:54:17.062Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3548",
+      "title": "Equal Sum Grid Partition II",
+      "slug": "equal-sum-grid-partition-ii",
+      "problemName": "3548-equal-sum-grid-partition-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-ii/",
+      "folderPath": "leetcode/3548-equal-sum-grid-partition-ii/",
+      "readmePath": "leetcode/3548-equal-sum-grid-partition-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3548-equal-sum-grid-partition-ii.cpp",
+          "path": "leetcode/3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.cpp",
+          "sha": "c02abfdc3a62c5d86c3cd6f42305dcd137a0523e",
+          "lastSyncedAt": "2026-10-23T18:08:09.539Z"
         }
       ]
     },
