@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T12:24:05.563Z",
+  "updatedAt": "2026-10-23T12:26:08.678Z",
   "problems": [
     {
       "frontendId": "1",
@@ -483,7 +483,7 @@
           "filename": "3312-sorted-gcd-pair-queries.cpp",
           "path": "leetcode/3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
           "sha": "c913706845764c248152f5e7f991efaf4974ef97",
-          "lastSyncedAt": "2026-10-22T16:49:20.145Z"
+          "lastSyncedAt": "2026-10-23T12:26:08.678Z"
         }
       ]
     },
