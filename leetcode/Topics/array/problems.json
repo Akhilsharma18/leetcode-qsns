@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T17:57:56.781Z",
+  "updatedAt": "2026-10-23T17:58:07.519Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1863,7 +1863,7 @@
           "filename": "3689-maximum-total-subarray-value-i.cpp",
           "path": "leetcode/3689-maximum-total-subarray-value-i/3689-maximum-total-subarray-value-i.cpp",
           "sha": "a4436d01170f29a55478745cd8d353e057e6868b",
-          "lastSyncedAt": "2026-10-23T12:31:00.951Z"
+          "lastSyncedAt": "2026-10-23T17:58:07.519Z"
         }
       ]
     },
