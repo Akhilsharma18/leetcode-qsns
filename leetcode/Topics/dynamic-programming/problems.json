@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T12:31:23.809Z",
+  "updatedAt": "2026-10-23T12:34:19.815Z",
   "problems": [
     {
       "frontendId": "5",
@@ -424,6 +424,26 @@
           "path": "leetcode/2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
           "sha": "ca2612b8110856b45409c6c1a9d0c1bc3c858209",
           "lastSyncedAt": "2026-10-23T12:12:20.565Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2770",
+      "title": "Maximum Number of Jumps to Reach the Last Index",
+      "slug": "maximum-number-of-jumps-to-reach-the-last-index",
+      "problemName": "2770-maximum-number-of-jumps-to-reach-the-last-index",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/",
+      "folderPath": "leetcode/2770-maximum-number-of-jumps-to-reach-the-last-index/",
+      "readmePath": "leetcode/2770-maximum-number-of-jumps-to-reach-the-last-index/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2770-maximum-number-of-jumps-to-reach-the-last-index.cpp",
+          "path": "leetcode/2770-maximum-number-of-jumps-to-reach-the-last-index/2770-maximum-number-of-jumps-to-reach-the-last-index.cpp",
+          "sha": "b494dd7f4c5a3ce078ac309aa8be0ddbdfe068b3",
+          "lastSyncedAt": "2026-10-23T12:34:19.815Z"
         }
       ]
     },
