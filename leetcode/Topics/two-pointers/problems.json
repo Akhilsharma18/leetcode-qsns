@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T18:00:45.885Z",
+  "updatedAt": "2026-10-23T18:00:55.128Z",
   "problems": [
     {
       "frontendId": "5",
@@ -63,7 +63,7 @@
           "filename": "0061-rotate-list.cpp",
           "path": "leetcode/0061-rotate-list/0061-rotate-list.cpp",
           "sha": "e1543a49e5f7679db7e0f0c84857bfb18167d5a4",
-          "lastSyncedAt": "2026-10-23T12:34:48.000Z"
+          "lastSyncedAt": "2026-10-23T18:00:55.128Z"
         }
       ]
     },
