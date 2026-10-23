@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T16:07:48.997Z",
+  "updatedAt": "2026-10-23T16:07:57.195Z",
   "problems": [
     {
       "frontendId": "48",
@@ -483,7 +483,7 @@
           "filename": "1837-sum-of-digits-in-base-k.cpp",
           "path": "leetcode/1837-sum-of-digits-in-base-k/1837-sum-of-digits-in-base-k.cpp",
           "sha": "757dc3d16bfb545dfd5a59d5b9c61124958bbf62",
-          "lastSyncedAt": "2026-10-23T12:13:20.148Z"
+          "lastSyncedAt": "2026-10-23T16:07:57.195Z"
         }
       ]
     },
