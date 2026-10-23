@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-23T17:52:02.679Z",
+  "updatedAt": "2026-10-23T17:55:43.658Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -123,7 +123,7 @@
           "filename": "3737-count-subarrays-with-majority-element-i.cpp",
           "path": "leetcode/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.cpp",
           "sha": "ed95717fcc2d658fa2ed20a3ff340347dd663d98",
-          "lastSyncedAt": "2026-10-23T12:28:42.500Z"
+          "lastSyncedAt": "2026-10-23T17:55:43.658Z"
         }
       ]
     }
