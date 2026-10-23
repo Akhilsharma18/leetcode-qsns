@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T05:14:03.293Z",
+  "updatedAt": "2026-10-23T05:14:20.304Z",
   "problems": [
     {
       "frontendId": "1",
@@ -623,7 +623,7 @@
           "filename": "3718-smallest-missing-multiple-of-k.cpp",
           "path": "leetcode/3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.cpp",
           "sha": "91219e4253c684e9e4ef25ce80ba006ef2ff8d79",
-          "lastSyncedAt": "2026-10-22T16:35:40.510Z"
+          "lastSyncedAt": "2026-10-23T05:14:20.304Z"
         }
       ]
     },
