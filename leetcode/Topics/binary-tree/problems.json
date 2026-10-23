@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-23T18:07:46.166Z",
+  "updatedAt": "2026-10-23T18:09:16.970Z",
   "problems": [
     {
       "frontendId": "109",
@@ -44,6 +44,26 @@
           "path": "leetcode/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.cpp",
           "sha": "bb5013c21f4207956ea15e705207fcf038349a45",
           "lastSyncedAt": "2026-10-23T17:56:43.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "530",
+      "title": "Minimum Absolute Difference in BST",
+      "slug": "minimum-absolute-difference-in-bst",
+      "problemName": "0530-minimum-absolute-difference-in-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+      "folderPath": "leetcode/0530-minimum-absolute-difference-in-bst/",
+      "readmePath": "leetcode/0530-minimum-absolute-difference-in-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0530-minimum-absolute-difference-in-bst.cpp",
+          "path": "leetcode/0530-minimum-absolute-difference-in-bst/0530-minimum-absolute-difference-in-bst.cpp",
+          "sha": "cc1420d091f6153c5acd265f28561c663c0ad672",
+          "lastSyncedAt": "2026-10-23T18:09:16.970Z"
         }
       ]
     },
