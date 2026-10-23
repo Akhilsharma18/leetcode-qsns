@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T12:19:21.034Z",
+  "updatedAt": "2026-10-23T12:19:31.678Z",
   "problems": [
     {
       "frontendId": "15",
@@ -43,7 +43,7 @@
           "filename": "0349-intersection-of-two-arrays.cpp",
           "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "66a7e9aa73830f6fe3ad2b3f392a660e26c71f59",
-          "lastSyncedAt": "2026-10-23T05:18:43.601Z"
+          "lastSyncedAt": "2026-10-23T12:19:31.678Z"
         }
       ]
     },
