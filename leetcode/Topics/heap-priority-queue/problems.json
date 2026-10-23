@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-23T17:46:48.841Z",
+  "updatedAt": "2026-10-23T17:51:04.019Z",
   "problems": [
     {
       "frontendId": "451",
@@ -83,7 +83,7 @@
           "filename": "1464-maximum-product-of-two-elements-in-an-array.java",
           "path": "leetcode/1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.java",
           "sha": "fc69dac2ce21a5526ea1cc07ec1d9216463d6f33",
-          "lastSyncedAt": "2026-10-23T12:24:32.113Z"
+          "lastSyncedAt": "2026-10-23T17:51:04.019Z"
         }
       ]
     },
