@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-23T16:08:56.944Z",
+  "updatedAt": "2026-10-23T16:11:03.911Z",
   "problems": [
     {
       "frontendId": "21",
@@ -43,7 +43,7 @@
           "filename": "0024-swap-nodes-in-pairs.cpp",
           "path": "leetcode/0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
           "sha": "7b1c9c5289a799e3e4928c3ed7e4a4fac60c2504",
-          "lastSyncedAt": "2026-10-23T12:16:28.992Z"
+          "lastSyncedAt": "2026-10-23T16:11:03.911Z"
         }
       ]
     },
