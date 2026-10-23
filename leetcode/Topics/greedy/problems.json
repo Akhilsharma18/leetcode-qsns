@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-23T12:28:34.925Z",
+  "updatedAt": "2026-10-23T12:31:00.951Z",
   "problems": [
     {
       "frontendId": "45",
@@ -463,7 +463,7 @@
           "filename": "3689-maximum-total-subarray-value-i.cpp",
           "path": "leetcode/3689-maximum-total-subarray-value-i/3689-maximum-total-subarray-value-i.cpp",
           "sha": "a4436d01170f29a55478745cd8d353e057e6868b",
-          "lastSyncedAt": "2026-10-22T09:27:08.304Z"
+          "lastSyncedAt": "2026-10-23T12:31:00.951Z"
         }
       ]
     },
