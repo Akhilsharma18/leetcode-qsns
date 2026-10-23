@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T15:41:42.186Z",
+  "updatedAt": "2026-10-23T15:42:38.611Z",
   "problems": [
     {
       "frontendId": "3",
@@ -923,7 +923,7 @@
           "filename": "3498-reverse-degree-of-a-string.cpp",
           "path": "leetcode/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.cpp",
           "sha": "a7ebe8db9ea97c25abe39275fa15f7341dc5da71",
-          "lastSyncedAt": "2026-10-23T12:11:34.620Z"
+          "lastSyncedAt": "2026-10-23T15:42:38.611Z"
         }
       ]
     },
