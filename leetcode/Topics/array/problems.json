@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T17:59:27.448Z",
+  "updatedAt": "2026-10-23T17:59:37.289Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,7 +143,7 @@
           "filename": "0073-set-matrix-zeroes.cpp",
           "path": "leetcode/0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp",
           "sha": "df4e3ea39b63941e7920fab3312ee69d70399ef1",
-          "lastSyncedAt": "2026-10-23T12:32:50.328Z"
+          "lastSyncedAt": "2026-10-23T17:59:37.289Z"
         }
       ]
     },
