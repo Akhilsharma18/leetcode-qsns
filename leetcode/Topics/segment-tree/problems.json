@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-23T12:07:36.962Z",
+  "updatedAt": "2026-10-23T12:11:17.978Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -103,7 +103,7 @@
           "filename": "3525-find-x-value-of-array-ii.cpp",
           "path": "leetcode/3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.cpp",
           "sha": "3a2b9d7f807a3ea5d2cc40e2645b3f01b1a08f4f",
-          "lastSyncedAt": "2026-10-23T05:10:38.115Z"
+          "lastSyncedAt": "2026-10-23T12:11:17.978Z"
         }
       ]
     },
