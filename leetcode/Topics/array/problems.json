@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T17:45:07.547Z",
+  "updatedAt": "2026-10-23T17:45:19.001Z",
   "problems": [
     {
       "frontendId": "1",
@@ -323,7 +323,7 @@
           "filename": "0506-relative-ranks.cpp",
           "path": "leetcode/0506-relative-ranks/0506-relative-ranks.cpp",
           "sha": "13d687c1fa8f0f75783ca7718c2b54ec07782e75",
-          "lastSyncedAt": "2026-10-23T12:19:13.504Z"
+          "lastSyncedAt": "2026-10-23T17:45:19.001Z"
         }
       ]
     },
