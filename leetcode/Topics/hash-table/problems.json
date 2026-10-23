@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T17:44:55.407Z",
+  "updatedAt": "2026-10-23T17:45:26.629Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,7 +143,7 @@
           "filename": "0389-find-the-difference.cpp",
           "path": "leetcode/0389-find-the-difference/0389-find-the-difference.cpp",
           "sha": "2af820e7e528039d650b6a38f933768e56d7b95b",
-          "lastSyncedAt": "2026-10-23T12:19:21.034Z"
+          "lastSyncedAt": "2026-10-23T17:45:26.629Z"
         }
       ]
     },
