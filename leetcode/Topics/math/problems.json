@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T12:34:56.583Z",
+  "updatedAt": "2026-10-23T12:35:16.962Z",
   "problems": [
     {
       "frontendId": "48",
@@ -144,6 +144,26 @@
           "path": "leetcode/0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.cpp",
           "sha": "7353ec081efa8d2a7b554f0e6a7dee6269d31dc4",
           "lastSyncedAt": "2026-10-23T12:24:52.922Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "788",
+      "title": "Rotated Digits",
+      "slug": "rotated-digits",
+      "problemName": "0788-rotated-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotated-digits/",
+      "folderPath": "leetcode/0788-rotated-digits/",
+      "readmePath": "leetcode/0788-rotated-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0788-rotated-digits.cpp",
+          "path": "leetcode/0788-rotated-digits/0788-rotated-digits.cpp",
+          "sha": "d15937f3c5b0fb5c3e199a0ea09e35b7d9d97cb3",
+          "lastSyncedAt": "2026-10-23T12:35:16.962Z"
         }
       ]
     },
