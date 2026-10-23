@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-23T18:00:14.223Z",
+  "updatedAt": "2026-10-23T18:02:50.547Z",
   "problems": [
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "leetcode/0011-container-with-most-water/",
+      "readmePath": "leetcode/0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0011-container-with-most-water.cpp",
+          "path": "leetcode/0011-container-with-most-water/0011-container-with-most-water.cpp",
+          "sha": "31b88c85390f3f3dcc4859ee27f00cfdca8bb0a7",
+          "lastSyncedAt": "2026-10-23T18:02:50.547Z"
+        }
+      ]
+    },
     {
       "frontendId": "45",
       "title": "Jump Game II",
