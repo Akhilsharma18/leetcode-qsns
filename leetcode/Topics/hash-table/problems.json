@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T12:29:15.574Z",
+  "updatedAt": "2026-10-23T12:31:13.564Z",
   "problems": [
     {
       "frontendId": "1",
@@ -303,7 +303,7 @@
           "filename": "2196-create-binary-tree-from-descriptions.cpp",
           "path": "leetcode/2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.cpp",
           "sha": "48d6c0d3804016bf55d08aac2e787edd2a6147d7",
-          "lastSyncedAt": "2026-10-22T11:18:07.749Z"
+          "lastSyncedAt": "2026-10-23T12:31:13.564Z"
         }
       ]
     },
