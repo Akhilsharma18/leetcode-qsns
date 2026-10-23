@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-23T17:54:06.782Z",
+  "updatedAt": "2026-10-23T17:56:43.246Z",
   "problems": [
     {
       "frontendId": "111",
@@ -23,7 +23,7 @@
           "filename": "0111-minimum-depth-of-binary-tree.cpp",
           "path": "leetcode/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.cpp",
           "sha": "bb5013c21f4207956ea15e705207fcf038349a45",
-          "lastSyncedAt": "2026-10-23T12:29:36.323Z"
+          "lastSyncedAt": "2026-10-23T17:56:43.246Z"
         }
       ]
     },
