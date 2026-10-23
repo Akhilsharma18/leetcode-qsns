@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T12:31:50.949Z",
+  "updatedAt": "2026-10-23T12:31:58.346Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1164,6 +1164,26 @@
           "path": "leetcode/3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.cpp",
           "sha": "34b632c86cfdfdeb3935601759ea0cbb53de3195",
           "lastSyncedAt": "2026-10-23T12:28:20.684Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3300",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "problemName": "3300-minimum-element-after-replacement-with-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+      "folderPath": "leetcode/3300-minimum-element-after-replacement-with-digit-sum/",
+      "readmePath": "leetcode/3300-minimum-element-after-replacement-with-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3300-minimum-element-after-replacement-with-digit-sum.cpp",
+          "path": "leetcode/3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.cpp",
+          "sha": "d2494063aef16ec40181b582a06d7cf3f05fe729",
+          "lastSyncedAt": "2026-10-23T12:31:58.346Z"
         }
       ]
     },
