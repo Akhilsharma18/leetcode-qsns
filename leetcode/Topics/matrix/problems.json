@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-23T12:32:50.328Z",
+  "updatedAt": "2026-10-23T12:34:37.852Z",
   "problems": [
     {
       "frontendId": "73",
@@ -84,6 +84,26 @@
           "path": "leetcode/1260-shift-2d-grid/1260-shift-2d-grid.cpp",
           "sha": "2db56e98070d59540769f802c45e6aa5932a125a",
           "lastSyncedAt": "2026-10-23T12:25:39.860Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1861",
+      "title": "Rotating the Box",
+      "slug": "rotating-the-box",
+      "problemName": "1861-rotating-the-box",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotating-the-box/",
+      "folderPath": "leetcode/1861-rotating-the-box/",
+      "readmePath": "leetcode/1861-rotating-the-box/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1861-rotating-the-box.cpp",
+          "path": "leetcode/1861-rotating-the-box/1861-rotating-the-box.cpp",
+          "sha": "8c9be4fcc4f5f4810e40c09095c83b587ff284bd",
+          "lastSyncedAt": "2026-10-23T12:34:37.852Z"
         }
       ]
     },
