@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T17:56:57.609Z",
+  "updatedAt": "2026-10-23T17:58:31.759Z",
   "problems": [
     {
       "frontendId": "48",
@@ -983,7 +983,7 @@
           "filename": "3751-total-waviness-of-numbers-in-range-i.cpp",
           "path": "leetcode/3751-total-waviness-of-numbers-in-range-i/3751-total-waviness-of-numbers-in-range-i.cpp",
           "sha": "70c79b0df719aeeec70ad249072e3499e06e0c17",
-          "lastSyncedAt": "2026-10-23T12:31:23.809Z"
+          "lastSyncedAt": "2026-10-23T17:58:31.759Z"
         }
       ]
     },
