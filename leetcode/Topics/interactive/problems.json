@@ -5,7 +5,7 @@
     "name": "Interactive",
     "tagId": "61059"
   },
-  "updatedAt": "2026-10-23T12:21:19.711Z",
+  "updatedAt": "2026-10-23T17:47:40.660Z",
   "problems": [
     {
       "frontendId": "1237",
@@ -23,7 +23,7 @@
           "filename": "1237-find-positive-integer-solution-for-a-given-equation.cpp",
           "path": "leetcode/1237-find-positive-integer-solution-for-a-given-equation/1237-find-positive-integer-solution-for-a-given-equation.cpp",
           "sha": "3fac227c62956e577395bd470258125a8344dbab",
-          "lastSyncedAt": "2026-10-23T12:21:19.711Z"
+          "lastSyncedAt": "2026-10-23T17:47:40.660Z"
         }
       ]
     }
