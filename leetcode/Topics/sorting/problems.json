@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T12:26:28.526Z",
+  "updatedAt": "2026-10-23T12:27:00.801Z",
   "problems": [
     {
       "frontendId": "15",
@@ -243,7 +243,7 @@
           "filename": "1331-rank-transform-of-an-array.cpp",
           "path": "leetcode/1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.cpp",
           "sha": "3666f64c26172026b3e058c71314e396fe107c0a",
-          "lastSyncedAt": "2026-10-22T16:50:44.733Z"
+          "lastSyncedAt": "2026-10-23T12:27:00.801Z"
         }
       ]
     },
