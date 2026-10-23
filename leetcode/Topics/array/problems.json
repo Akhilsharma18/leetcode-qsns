@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T17:53:18.644Z",
+  "updatedAt": "2026-10-23T17:53:38.017Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1483,7 +1483,7 @@
           "filename": "3336-find-the-number-of-subsequences-with-equal-gcd.cpp",
           "path": "leetcode/3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.cpp",
           "sha": "17e5f31c7518620effa34b610a9052f8349a0d6d",
-          "lastSyncedAt": "2026-10-23T12:26:44.957Z"
+          "lastSyncedAt": "2026-10-23T17:53:38.017Z"
         }
       ]
     },
