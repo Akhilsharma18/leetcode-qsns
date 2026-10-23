@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T17:38:46.341Z",
+  "updatedAt": "2026-10-23T17:40:06.894Z",
   "problems": [
     {
       "frontendId": "1",
@@ -783,7 +783,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.cpp",
           "path": "leetcode/3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.cpp",
           "sha": "cadd70a23596c4f9499b510e225d4fe1a6126df8",
-          "lastSyncedAt": "2026-10-23T16:08:43.904Z"
+          "lastSyncedAt": "2026-10-23T17:40:06.894Z"
         }
       ]
     },
