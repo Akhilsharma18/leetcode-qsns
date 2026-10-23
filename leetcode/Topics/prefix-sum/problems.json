@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-23T17:55:43.658Z",
+  "updatedAt": "2026-10-23T17:56:52.876Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -83,7 +83,7 @@
           "filename": "1732-find-the-highest-altitude.cpp",
           "path": "leetcode/1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp",
           "sha": "0a1bdaaa46d4cd437f5e2d4e3b9c313abb9d1ee8",
-          "lastSyncedAt": "2026-10-23T12:29:47.006Z"
+          "lastSyncedAt": "2026-10-23T17:56:52.876Z"
         }
       ]
     },
