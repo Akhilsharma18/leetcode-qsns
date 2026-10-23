@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T12:35:35.945Z",
+  "updatedAt": "2026-10-23T12:36:35.157Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "leetcode/0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
           "sha": "7cc68220d60a5767cd8117a7ce66b71ce609bca9",
           "lastSyncedAt": "2026-10-23T12:30:51.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "leetcode/0139-word-break/",
+      "readmePath": "leetcode/0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0139-word-break.cpp",
+          "path": "leetcode/0139-word-break/0139-word-break.cpp",
+          "sha": "ab66d88d1b710c35f24f59aad602e2e4bc09c17f",
+          "lastSyncedAt": "2026-10-23T12:36:35.157Z"
         }
       ]
     },
