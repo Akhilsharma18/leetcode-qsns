@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T17:36:10.677Z",
+  "updatedAt": "2026-10-23T17:36:20.434Z",
   "problems": [
     {
       "frontendId": "1",
@@ -963,7 +963,7 @@
           "filename": "2073-time-needed-to-buy-tickets.cpp",
           "path": "leetcode/2073-time-needed-to-buy-tickets/2073-time-needed-to-buy-tickets.cpp",
           "sha": "46c99bca7d8386f7d7fbcc479676141f6a90ddc8",
-          "lastSyncedAt": "2026-10-23T16:05:25.268Z"
+          "lastSyncedAt": "2026-10-23T17:36:20.434Z"
         }
       ]
     },
