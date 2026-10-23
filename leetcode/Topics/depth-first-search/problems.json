@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-23T12:32:36.709Z",
+  "updatedAt": "2026-10-23T12:36:14.169Z",
   "problems": [
     {
       "frontendId": "111",
@@ -44,6 +44,26 @@
           "path": "leetcode/0417-pacific-atlantic-water-flow/0417-pacific-atlantic-water-flow.cpp",
           "sha": "aeee99b858ba0cb664dd63b3233353bc959782f7",
           "lastSyncedAt": "2026-10-23T12:32:36.709Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "572",
+      "title": "Subtree of Another Tree",
+      "slug": "subtree-of-another-tree",
+      "problemName": "0572-subtree-of-another-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+      "folderPath": "leetcode/0572-subtree-of-another-tree/",
+      "readmePath": "leetcode/0572-subtree-of-another-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0572-subtree-of-another-tree.cpp",
+          "path": "leetcode/0572-subtree-of-another-tree/0572-subtree-of-another-tree.cpp",
+          "sha": "ba50f4e2b6b88a638dacbe477e052e617fb0dbf5",
+          "lastSyncedAt": "2026-10-23T12:36:14.169Z"
         }
       ]
     },
