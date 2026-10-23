@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T12:21:19.711Z",
+  "updatedAt": "2026-10-23T12:21:56.967Z",
   "problems": [
     {
       "frontendId": "168",
@@ -623,7 +623,7 @@
           "filename": "3345-smallest-divisible-digit-product-i.cpp",
           "path": "leetcode/3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.cpp",
           "sha": "64296c40a118c62f262ab337155a1441ec994501",
-          "lastSyncedAt": "2026-10-23T05:21:04.915Z"
+          "lastSyncedAt": "2026-10-23T12:21:56.967Z"
         }
       ]
     },
