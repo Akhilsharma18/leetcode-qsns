@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T16:08:00.291Z",
+  "updatedAt": "2026-10-23T16:08:03.456Z",
   "problems": [
     {
       "frontendId": "48",
@@ -1063,7 +1063,7 @@
           "filename": "3870-count-commas-in-range.cpp",
           "path": "leetcode/3870-count-commas-in-range/3870-count-commas-in-range.cpp",
           "sha": "c7bc9cfd2268d7b2b1cba7c973d1ac7d6f8fb4de",
-          "lastSyncedAt": "2026-10-23T12:13:26.097Z"
+          "lastSyncedAt": "2026-10-23T16:08:03.456Z"
         }
       ]
     },
