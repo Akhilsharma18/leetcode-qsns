@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-23T12:33:47.127Z",
+  "updatedAt": "2026-10-23T15:37:56.893Z",
   "problems": [
     {
       "frontendId": "45",
@@ -523,7 +523,7 @@
           "filename": "3723-maximize-sum-of-squares-of-digits.cpp",
           "path": "leetcode/3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.cpp",
           "sha": "dd4fca78d6ad291a772c26f3c907a678093eb90d",
-          "lastSyncedAt": "2026-10-23T12:07:46.378Z"
+          "lastSyncedAt": "2026-10-23T15:37:56.893Z"
         }
       ]
     },
