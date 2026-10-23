@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T17:52:02.679Z",
+  "updatedAt": "2026-10-23T17:52:14.194Z",
   "problems": [
     {
       "frontendId": "3",
@@ -943,7 +943,7 @@
           "filename": "3499-maximize-active-section-with-trade-i.cpp",
           "path": "leetcode/3499-maximize-active-section-with-trade-i/3499-maximize-active-section-with-trade-i.cpp",
           "sha": "cbe54a20941c9db299c0ff1fcde667f8691009a0",
-          "lastSyncedAt": "2026-10-23T12:25:35.428Z"
+          "lastSyncedAt": "2026-10-23T17:52:14.194Z"
         }
       ]
     },
