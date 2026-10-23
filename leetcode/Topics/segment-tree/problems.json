@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-23T16:12:01.847Z",
+  "updatedAt": "2026-10-23T17:33:07.268Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -63,7 +63,7 @@
           "filename": "2916-subarrays-distinct-element-sum-of-squares-ii.cpp",
           "path": "leetcode/2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.cpp",
           "sha": "0cca4e8438bd33a32cc7648e850e8d712636b222",
-          "lastSyncedAt": "2026-10-23T16:02:29.330Z"
+          "lastSyncedAt": "2026-10-23T17:33:07.268Z"
         }
       ]
     },
