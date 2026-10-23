@@ -5,7 +5,7 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-10-23T17:39:52.811Z",
+  "updatedAt": "2026-10-23T18:02:28.906Z",
   "problems": [
     {
       "frontendId": "14",
@@ -43,7 +43,7 @@
           "filename": "0139-word-break.cpp",
           "path": "leetcode/0139-word-break/0139-word-break.cpp",
           "sha": "ab66d88d1b710c35f24f59aad602e2e4bc09c17f",
-          "lastSyncedAt": "2026-10-23T12:36:35.157Z"
+          "lastSyncedAt": "2026-10-23T18:02:28.906Z"
         }
       ]
     }
