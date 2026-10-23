@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T12:07:25.964Z",
+  "updatedAt": "2026-10-23T12:07:36.962Z",
   "problems": [
     {
       "frontendId": "1",
@@ -363,7 +363,7 @@
           "filename": "2913-subarrays-distinct-element-sum-of-squares-i.cpp",
           "path": "leetcode/2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.cpp",
           "sha": "1196d571458040742bfa0e2c079b7dc266b4706f",
-          "lastSyncedAt": "2026-10-23T05:07:07.273Z"
+          "lastSyncedAt": "2026-10-23T12:07:36.962Z"
         }
       ]
     },
