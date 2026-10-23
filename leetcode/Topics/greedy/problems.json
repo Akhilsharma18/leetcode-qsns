@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-23T16:04:10.736Z",
+  "updatedAt": "2026-10-23T16:06:31.010Z",
   "problems": [
     {
       "frontendId": "45",
@@ -163,7 +163,7 @@
           "filename": "1520-maximum-number-of-non-overlapping-substrings.cpp",
           "path": "leetcode/1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.cpp",
           "sha": "3325ac9f8e46ea0187790d13a140aac65393e90d",
-          "lastSyncedAt": "2026-10-23T15:42:52.394Z"
+          "lastSyncedAt": "2026-10-23T16:06:31.010Z"
         }
       ]
     },
