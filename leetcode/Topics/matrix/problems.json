@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-23T12:25:39.860Z",
+  "updatedAt": "2026-10-23T12:28:20.684Z",
   "problems": [
     {
       "frontendId": "835",
@@ -83,7 +83,7 @@
           "filename": "3286-find-a-safe-walk-through-a-grid.cpp",
           "path": "leetcode/3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.cpp",
           "sha": "34b632c86cfdfdeb3935601759ea0cbb53de3195",
-          "lastSyncedAt": "2026-10-22T16:52:32.240Z"
+          "lastSyncedAt": "2026-10-23T12:28:20.684Z"
         }
       ]
     },
