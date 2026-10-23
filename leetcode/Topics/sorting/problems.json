@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T16:02:18.071Z",
+  "updatedAt": "2026-10-23T16:02:55.502Z",
   "problems": [
     {
       "frontendId": "15",
@@ -643,7 +643,7 @@
           "filename": "3727-maximum-alternating-sum-of-squares.cpp",
           "path": "leetcode/3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
           "sha": "8563f1f1dcf859f7cef523c0f5776b18e90b9e9e",
-          "lastSyncedAt": "2026-10-23T15:38:04.878Z"
+          "lastSyncedAt": "2026-10-23T16:02:55.502Z"
         }
       ]
     },
