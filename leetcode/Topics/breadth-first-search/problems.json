@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-23T17:59:27.448Z",
+  "updatedAt": "2026-10-23T18:03:30.488Z",
   "problems": [
     {
       "frontendId": "111",
@@ -84,6 +84,26 @@
           "path": "leetcode/1096-brace-expansion-ii/1096-brace-expansion-ii.cpp",
           "sha": "76fe89a260b793c8724acc88d72bb77d402d0cef",
           "lastSyncedAt": "2026-10-23T17:36:28.528Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1559",
+      "title": "Detect Cycles in 2D Grid",
+      "slug": "detect-cycles-in-2d-grid",
+      "problemName": "1559-detect-cycles-in-2d-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/detect-cycles-in-2d-grid/",
+      "folderPath": "leetcode/1559-detect-cycles-in-2d-grid/",
+      "readmePath": "leetcode/1559-detect-cycles-in-2d-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1559-detect-cycles-in-2d-grid.cpp",
+          "path": "leetcode/1559-detect-cycles-in-2d-grid/1559-detect-cycles-in-2d-grid.cpp",
+          "sha": "45a491948623abb4eb5eac57f6e1c0eb729e94f4",
+          "lastSyncedAt": "2026-10-23T18:03:30.488Z"
         }
       ]
     },
