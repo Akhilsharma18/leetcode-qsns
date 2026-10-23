@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T05:22:04.245Z",
+  "updatedAt": "2026-10-23T05:22:38.163Z",
   "problems": [
     {
       "frontendId": "5",
@@ -223,7 +223,7 @@
           "filename": "1025-divisor-game.cpp",
           "path": "leetcode/1025-divisor-game/1025-divisor-game.cpp",
           "sha": "abfc90b94e06ed7ff16332d4b3d6a72a13bff043",
-          "lastSyncedAt": "2026-10-22T16:45:41.768Z"
+          "lastSyncedAt": "2026-10-23T05:22:38.163Z"
         }
       ]
     },
