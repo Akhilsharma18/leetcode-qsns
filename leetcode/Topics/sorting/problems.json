@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T12:27:17.538Z",
+  "updatedAt": "2026-10-23T12:27:59.871Z",
   "problems": [
     {
       "frontendId": "15",
@@ -223,7 +223,7 @@
           "filename": "1288-remove-covered-intervals.cpp",
           "path": "leetcode/1288-remove-covered-intervals/1288-remove-covered-intervals.cpp",
           "sha": "c1f99c9182def204c4455bcec425fc3597c344e2",
-          "lastSyncedAt": "2026-10-22T16:52:03.053Z"
+          "lastSyncedAt": "2026-10-23T12:27:59.871Z"
         }
       ]
     },
