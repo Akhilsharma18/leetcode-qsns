@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T17:37:33.766Z",
+  "updatedAt": "2026-10-23T17:38:00.906Z",
   "problems": [
     {
       "frontendId": "48",
@@ -463,7 +463,7 @@
           "filename": "1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
           "path": "leetcode/1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.cpp",
           "sha": "16427f352cc894f3e2b4d11f68462488cb3022d8",
-          "lastSyncedAt": "2026-10-23T16:06:50.647Z"
+          "lastSyncedAt": "2026-10-23T17:38:00.906Z"
         }
       ]
     },
