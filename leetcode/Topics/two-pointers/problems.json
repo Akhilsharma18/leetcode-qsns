@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T12:27:17.538Z",
+  "updatedAt": "2026-10-23T12:29:55.943Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,7 +23,7 @@
           "filename": "0005-longest-palindromic-substring.cpp",
           "path": "leetcode/0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
           "sha": "beb7443854b3422ada16e3b0e4aa13cb4f340122",
-          "lastSyncedAt": "2026-10-22T16:54:45.246Z"
+          "lastSyncedAt": "2026-10-23T12:29:55.943Z"
         }
       ]
     },
