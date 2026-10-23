@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T12:33:35.675Z",
+  "updatedAt": "2026-10-23T12:33:47.127Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "leetcode/0594-longest-harmonious-subsequence/0594-longest-harmonious-subsequence.cpp",
           "sha": "a5d285eaffd7dd6d5cdb360bb452cda661c6fb71",
           "lastSyncedAt": "2026-10-23T12:18:49.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "763",
+      "title": "Partition Labels",
+      "slug": "partition-labels",
+      "problemName": "0763-partition-labels",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-labels/",
+      "folderPath": "leetcode/0763-partition-labels/",
+      "readmePath": "leetcode/0763-partition-labels/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0763-partition-labels.cpp",
+          "path": "leetcode/0763-partition-labels/0763-partition-labels.cpp",
+          "sha": "be62b55ff44fe9e962e4014e4a4c4bc47f30a01c",
+          "lastSyncedAt": "2026-10-23T12:33:47.127Z"
         }
       ]
     },
