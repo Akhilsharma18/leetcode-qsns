@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T05:08:51.500Z",
+  "updatedAt": "2026-10-23T05:08:59.909Z",
   "problems": [
     {
       "frontendId": "5",
@@ -43,7 +43,7 @@
           "filename": "0022-generate-parentheses.cpp",
           "path": "leetcode/0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "41bc03132f3aad5cd3c592d5e49cd3c916a3a02a",
-          "lastSyncedAt": "2026-10-22T17:54:15.027Z"
+          "lastSyncedAt": "2026-10-23T05:08:59.909Z"
         }
       ]
     },
