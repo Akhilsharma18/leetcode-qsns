@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T17:48:36.528Z",
+  "updatedAt": "2026-10-23T17:49:42.411Z",
   "problems": [
     {
       "frontendId": "15",
@@ -483,7 +483,7 @@
           "filename": "3016-minimum-number-of-pushes-to-type-word-ii.cpp",
           "path": "leetcode/3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.cpp",
           "sha": "06e0a06a3f0d69b5766856357eda8f6180296474",
-          "lastSyncedAt": "2026-10-23T12:23:15.107Z"
+          "lastSyncedAt": "2026-10-23T17:49:42.411Z"
         }
       ]
     },
