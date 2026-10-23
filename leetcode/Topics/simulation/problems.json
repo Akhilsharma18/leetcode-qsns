@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-23T12:31:06.538Z",
+  "updatedAt": "2026-10-23T12:34:10.135Z",
   "problems": [
     {
       "frontendId": "682",
@@ -104,6 +104,26 @@
           "path": "leetcode/2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.cpp",
           "sha": "e7453ea793676557f0551cb7ef735587ab8de29e",
           "lastSyncedAt": "2026-10-23T12:31:06.538Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2553",
+      "title": "Separate the Digits in an Array",
+      "slug": "separate-the-digits-in-an-array",
+      "problemName": "2553-separate-the-digits-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-the-digits-in-an-array/",
+      "folderPath": "leetcode/2553-separate-the-digits-in-an-array/",
+      "readmePath": "leetcode/2553-separate-the-digits-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2553-separate-the-digits-in-an-array.cpp",
+          "path": "leetcode/2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.cpp",
+          "sha": "709f59fbb839b15d7240666a895d7bbeaeb876d5",
+          "lastSyncedAt": "2026-10-23T12:34:10.135Z"
         }
       ]
     },
