@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T12:19:31.678Z",
+  "updatedAt": "2026-10-23T12:22:12.637Z",
   "problems": [
     {
       "frontendId": "1",
@@ -663,7 +663,7 @@
           "filename": "3731-find-missing-elements.cpp",
           "path": "leetcode/3731-find-missing-elements/3731-find-missing-elements.cpp",
           "sha": "9b2c7a75334c195842a6a4e059a742a5dd261efa",
-          "lastSyncedAt": "2026-10-23T05:21:19.866Z"
+          "lastSyncedAt": "2026-10-23T12:22:12.637Z"
         }
       ]
     },
