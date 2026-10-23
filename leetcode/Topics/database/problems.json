@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-23T17:51:40.591Z",
+  "updatedAt": "2026-10-23T18:05:25.051Z",
   "problems": [
+    {
+      "frontendId": "196",
+      "title": "Delete Duplicate Emails",
+      "slug": "delete-duplicate-emails",
+      "problemName": "0196-delete-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-duplicate-emails/",
+      "folderPath": "leetcode/0196-delete-duplicate-emails/",
+      "readmePath": "leetcode/0196-delete-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0196-delete-duplicate-emails.sql",
+          "path": "leetcode/0196-delete-duplicate-emails/0196-delete-duplicate-emails.sql",
+          "sha": "265fca7f9e8ef58fb374bff21b786841b23221ea",
+          "lastSyncedAt": "2026-10-23T18:05:25.051Z"
+        }
+      ]
+    },
     {
       "frontendId": "262",
       "title": "Trips and Users",
