@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "data-stream",
+    "name": "Data Stream",
+    "tagId": "61063"
+  },
+  "updatedAt": "2026-10-23T18:07:46.166Z",
+  "problems": [
+    {
+      "frontendId": "703",
+      "title": "Kth Largest Element in a Stream",
+      "slug": "kth-largest-element-in-a-stream",
+      "problemName": "0703-kth-largest-element-in-a-stream",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "folderPath": "leetcode/0703-kth-largest-element-in-a-stream/",
+      "readmePath": "leetcode/0703-kth-largest-element-in-a-stream/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0703-kth-largest-element-in-a-stream.cpp",
+          "path": "leetcode/0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.cpp",
+          "sha": "86566b86b8bc2da9328a704005b98ea9134183a4",
+          "lastSyncedAt": "2026-10-23T18:07:46.166Z"
+        }
+      ]
+    }
+  ]
+}
