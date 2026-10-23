@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T18:01:50.288Z",
+  "updatedAt": "2026-10-23T18:03:03.608Z",
   "problems": [
     {
       "frontendId": "48",
@@ -564,6 +564,26 @@
           "path": "leetcode/2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "197a2daf465bc1b46c5136a02b6df1d76e3cf3ae",
           "lastSyncedAt": "2026-10-23T17:42:56.722Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2033",
+      "title": "Minimum Operations to Make a Uni-Value Grid",
+      "slug": "minimum-operations-to-make-a-uni-value-grid",
+      "problemName": "2033-minimum-operations-to-make-a-uni-value-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/",
+      "folderPath": "leetcode/2033-minimum-operations-to-make-a-uni-value-grid/",
+      "readmePath": "leetcode/2033-minimum-operations-to-make-a-uni-value-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2033-minimum-operations-to-make-a-uni-value-grid.cpp",
+          "path": "leetcode/2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.cpp",
+          "sha": "15ab89a5172eeaabf8b9412827e269a7e1109142",
+          "lastSyncedAt": "2026-10-23T18:03:03.608Z"
         }
       ]
     },
