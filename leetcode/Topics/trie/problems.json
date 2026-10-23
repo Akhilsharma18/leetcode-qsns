@@ -5,7 +5,7 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-10-23T12:13:53.106Z",
+  "updatedAt": "2026-10-23T12:36:35.157Z",
   "problems": [
     {
       "frontendId": "14",
@@ -24,6 +24,26 @@
           "path": "leetcode/0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "927f592d8b7dab5b59ac07512cfbcab413c9f7ad",
           "lastSyncedAt": "2026-10-23T12:13:53.106Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "leetcode/0139-word-break/",
+      "readmePath": "leetcode/0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0139-word-break.cpp",
+          "path": "leetcode/0139-word-break/0139-word-break.cpp",
+          "sha": "ab66d88d1b710c35f24f59aad602e2e4bc09c17f",
+          "lastSyncedAt": "2026-10-23T12:36:35.157Z"
         }
       ]
     }
