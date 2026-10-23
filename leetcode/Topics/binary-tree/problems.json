@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-23T15:36:47.197Z",
+  "updatedAt": "2026-10-23T15:45:13.199Z",
   "problems": [
     {
       "frontendId": "109",
@@ -123,7 +123,7 @@
           "filename": "2265-count-nodes-equal-to-average-of-subtree.cpp",
           "path": "leetcode/2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.cpp",
           "sha": "3544b6f262fe73e7f628a9b3d2cf329a9a38d9e2",
-          "lastSyncedAt": "2026-10-23T12:13:02.339Z"
+          "lastSyncedAt": "2026-10-23T15:45:13.199Z"
         }
       ]
     }
