@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-23T15:39:16.236Z",
+  "updatedAt": "2026-10-23T15:40:22.094Z",
   "problems": [
     {
       "frontendId": "22",
@@ -23,7 +23,7 @@
           "filename": "0022-generate-parentheses.cpp",
           "path": "leetcode/0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "41bc03132f3aad5cd3c592d5e49cd3c916a3a02a",
-          "lastSyncedAt": "2026-10-23T12:09:31.703Z"
+          "lastSyncedAt": "2026-10-23T15:40:22.094Z"
         }
       ]
     },
