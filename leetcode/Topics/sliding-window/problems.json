@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-23T12:32:25.519Z",
+  "updatedAt": "2026-10-23T12:36:03.143Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "leetcode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp",
           "sha": "17264550b99db6759e151e232779f39329fa84f6",
           "lastSyncedAt": "2026-10-23T12:32:25.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "424",
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "problemName": "0424-longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "folderPath": "leetcode/0424-longest-repeating-character-replacement/",
+      "readmePath": "leetcode/0424-longest-repeating-character-replacement/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0424-longest-repeating-character-replacement.cpp",
+          "path": "leetcode/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.cpp",
+          "sha": "48917d31d6eed231c8b8a1311d3a3f568490371e",
+          "lastSyncedAt": "2026-10-23T12:36:03.143Z"
         }
       ]
     },
