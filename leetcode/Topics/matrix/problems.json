@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-23T18:03:03.608Z",
+  "updatedAt": "2026-10-23T18:03:30.488Z",
   "problems": [
     {
       "frontendId": "48",
@@ -104,6 +104,26 @@
           "path": "leetcode/1260-shift-2d-grid/1260-shift-2d-grid.cpp",
           "sha": "2db56e98070d59540769f802c45e6aa5932a125a",
           "lastSyncedAt": "2026-10-23T17:52:19.433Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1559",
+      "title": "Detect Cycles in 2D Grid",
+      "slug": "detect-cycles-in-2d-grid",
+      "problemName": "1559-detect-cycles-in-2d-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/detect-cycles-in-2d-grid/",
+      "folderPath": "leetcode/1559-detect-cycles-in-2d-grid/",
+      "readmePath": "leetcode/1559-detect-cycles-in-2d-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1559-detect-cycles-in-2d-grid.cpp",
+          "path": "leetcode/1559-detect-cycles-in-2d-grid/1559-detect-cycles-in-2d-grid.cpp",
+          "sha": "45a491948623abb4eb5eac57f6e1c0eb729e94f4",
+          "lastSyncedAt": "2026-10-23T18:03:30.488Z"
         }
       ]
     },
