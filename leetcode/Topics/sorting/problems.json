@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T17:44:55.407Z",
+  "updatedAt": "2026-10-23T17:45:07.547Z",
   "problems": [
     {
       "frontendId": "15",
@@ -123,7 +123,7 @@
           "filename": "0561-array-partition.cpp",
           "path": "leetcode/0561-array-partition/0561-array-partition.cpp",
           "sha": "340b1d5df7fed2f2610d75f7a0a4b58dec9d0f17",
-          "lastSyncedAt": "2026-10-23T12:19:01.517Z"
+          "lastSyncedAt": "2026-10-23T17:45:07.547Z"
         }
       ]
     },
