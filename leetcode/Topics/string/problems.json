@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T12:30:34.505Z",
+  "updatedAt": "2026-10-23T12:32:05.823Z",
   "problems": [
     {
       "frontendId": "5",
@@ -644,6 +644,26 @@
           "path": "leetcode/3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.cpp",
           "sha": "8fdc214912a1d69fcecf0bcae7c09d10fa10de13",
           "lastSyncedAt": "2026-10-23T12:17:21.920Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3120",
+      "title": "Count the Number of Special Characters I",
+      "slug": "count-the-number-of-special-characters-i",
+      "problemName": "3120-count-the-number-of-special-characters-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
+      "folderPath": "leetcode/3120-count-the-number-of-special-characters-i/",
+      "readmePath": "leetcode/3120-count-the-number-of-special-characters-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3120-count-the-number-of-special-characters-i.cpp",
+          "path": "leetcode/3120-count-the-number-of-special-characters-i/3120-count-the-number-of-special-characters-i.cpp",
+          "sha": "ca3d038207a1efcbdf69e2a5cd6b5c575b07d109",
+          "lastSyncedAt": "2026-10-23T12:32:05.823Z"
         }
       ]
     },
