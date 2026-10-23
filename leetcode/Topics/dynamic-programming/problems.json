@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T18:00:40.735Z",
+  "updatedAt": "2026-10-23T18:01:18.652Z",
   "problems": [
     {
       "frontendId": "5",
@@ -243,7 +243,7 @@
           "filename": "0788-rotated-digits.cpp",
           "path": "leetcode/0788-rotated-digits/0788-rotated-digits.cpp",
           "sha": "d15937f3c5b0fb5c3e199a0ea09e35b7d9d97cb3",
-          "lastSyncedAt": "2026-10-23T12:35:16.962Z"
+          "lastSyncedAt": "2026-10-23T18:01:18.652Z"
         }
       ]
     },
