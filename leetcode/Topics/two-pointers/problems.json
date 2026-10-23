@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T18:04:04.965Z",
+  "updatedAt": "2026-10-23T18:04:15.440Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "leetcode/0061-rotate-list/0061-rotate-list.cpp",
           "sha": "e1543a49e5f7679db7e0f0c84857bfb18167d5a4",
           "lastSyncedAt": "2026-10-23T18:00:55.128Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "leetcode/0143-reorder-list/",
+      "readmePath": "leetcode/0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0143-reorder-list.cpp",
+          "path": "leetcode/0143-reorder-list/0143-reorder-list.cpp",
+          "sha": "3d76da2ddaa08825a4e6b657b999601d8dec9052",
+          "lastSyncedAt": "2026-10-23T18:04:15.440Z"
         }
       ]
     },
