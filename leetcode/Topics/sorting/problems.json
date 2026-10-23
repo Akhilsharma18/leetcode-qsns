@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T17:51:27.330Z",
+  "updatedAt": "2026-10-23T17:51:35.588Z",
   "problems": [
     {
       "frontendId": "15",
@@ -583,7 +583,7 @@
           "filename": "3536-maximum-product-of-two-digits.cpp",
           "path": "leetcode/3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.cpp",
           "sha": "64d59af7ab019e357cc252c4facca9b4fc2d8830",
-          "lastSyncedAt": "2026-10-23T12:24:59.525Z"
+          "lastSyncedAt": "2026-10-23T17:51:35.588Z"
         }
       ]
     },
