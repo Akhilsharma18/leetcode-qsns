@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T18:01:18.652Z",
+  "updatedAt": "2026-10-23T18:01:24.569Z",
   "problems": [
     {
       "frontendId": "5",
@@ -163,7 +163,7 @@
           "filename": "0396-rotate-function.cpp",
           "path": "leetcode/0396-rotate-function/0396-rotate-function.cpp",
           "sha": "396ef71be152d0d2c6f93bad63301a11f7428eda",
-          "lastSyncedAt": "2026-10-23T12:35:24.980Z"
+          "lastSyncedAt": "2026-10-23T18:01:24.569Z"
         }
       ]
     },
