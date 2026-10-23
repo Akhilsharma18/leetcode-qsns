@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-23T16:07:41.926Z",
+  "updatedAt": "2026-10-23T17:32:32.430Z",
   "problems": [
     {
       "frontendId": "109",
@@ -83,7 +83,7 @@
           "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
           "path": "leetcode/1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
           "sha": "4ca1273430e2228c70eefe013d5683e38ac84f3b",
-          "lastSyncedAt": "2026-10-23T16:01:51.331Z"
+          "lastSyncedAt": "2026-10-23T17:32:32.430Z"
         }
       ]
     },
