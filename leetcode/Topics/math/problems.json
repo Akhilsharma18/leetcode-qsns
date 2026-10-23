@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T17:32:32.430Z",
+  "updatedAt": "2026-10-23T17:33:28.058Z",
   "problems": [
     {
       "frontendId": "48",
@@ -963,7 +963,7 @@
           "filename": "3723-maximize-sum-of-squares-of-digits.cpp",
           "path": "leetcode/3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.cpp",
           "sha": "dd4fca78d6ad291a772c26f3c907a678093eb90d",
-          "lastSyncedAt": "2026-10-23T16:02:50.217Z"
+          "lastSyncedAt": "2026-10-23T17:33:28.058Z"
         }
       ]
     },
