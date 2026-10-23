@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-10-23T17:54:17.062Z",
+  "updatedAt": "2026-10-23T17:54:36.284Z",
   "problems": [
     {
       "frontendId": "2685",
@@ -83,7 +83,7 @@
           "filename": "3532-path-existence-queries-in-a-graph-i.cpp",
           "path": "leetcode/3532-path-existence-queries-in-a-graph-i/3532-path-existence-queries-in-a-graph-i.cpp",
           "sha": "20a5d5a48e6cccf50f489a8f773ecc654fc6893d",
-          "lastSyncedAt": "2026-10-23T12:27:37.576Z"
+          "lastSyncedAt": "2026-10-23T17:54:36.284Z"
         }
       ]
     },
