@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-23T18:03:30.488Z",
+  "updatedAt": "2026-10-23T18:03:48.141Z",
   "problems": [
     {
       "frontendId": "48",
@@ -44,6 +44,26 @@
           "path": "leetcode/0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp",
           "sha": "df4e3ea39b63941e7920fab3312ee69d70399ef1",
           "lastSyncedAt": "2026-10-23T17:59:37.289Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "leetcode/0200-number-of-islands/",
+      "readmePath": "leetcode/0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0200-number-of-islands.cpp",
+          "path": "leetcode/0200-number-of-islands/0200-number-of-islands.cpp",
+          "sha": "fc3f37c5784132e23633f8f3b77c1b0225f53489",
+          "lastSyncedAt": "2026-10-23T18:03:48.141Z"
         }
       ]
     },
