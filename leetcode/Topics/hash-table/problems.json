@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T18:02:28.906Z",
+  "updatedAt": "2026-10-23T18:06:02.470Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "leetcode/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp",
           "sha": "17264550b99db6759e151e232779f39329fa84f6",
           "lastSyncedAt": "2026-10-23T17:59:20.143Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "leetcode/0036-valid-sudoku/",
+      "readmePath": "leetcode/0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0036-valid-sudoku.cpp",
+          "path": "leetcode/0036-valid-sudoku/0036-valid-sudoku.cpp",
+          "sha": "8fff48759ead8fe49813ad9df18a87a9f18aca2e",
+          "lastSyncedAt": "2026-10-23T18:06:02.470Z"
         }
       ]
     },
