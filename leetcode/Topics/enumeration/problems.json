@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-23T17:58:31.759Z",
+  "updatedAt": "2026-10-23T18:08:09.539Z",
   "problems": [
     {
       "frontendId": "1291",
@@ -144,6 +144,26 @@
           "path": "leetcode/3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.cpp",
           "sha": "7f25971a26ad5176b39626b2262a24171f21bb36",
           "lastSyncedAt": "2026-10-23T17:51:44.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3548",
+      "title": "Equal Sum Grid Partition II",
+      "slug": "equal-sum-grid-partition-ii",
+      "problemName": "3548-equal-sum-grid-partition-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-ii/",
+      "folderPath": "leetcode/3548-equal-sum-grid-partition-ii/",
+      "readmePath": "leetcode/3548-equal-sum-grid-partition-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3548-equal-sum-grid-partition-ii.cpp",
+          "path": "leetcode/3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.cpp",
+          "sha": "c02abfdc3a62c5d86c3cd6f42305dcd137a0523e",
+          "lastSyncedAt": "2026-10-23T18:08:09.539Z"
         }
       ]
     },
