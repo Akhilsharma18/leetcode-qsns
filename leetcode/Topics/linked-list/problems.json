@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-23T12:30:16.097Z",
+  "updatedAt": "2026-10-23T12:30:22.895Z",
   "problems": [
     {
       "frontendId": "21",
@@ -103,7 +103,7 @@
           "filename": "2095-delete-the-middle-node-of-a-linked-list.cpp",
           "path": "leetcode/2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp",
           "sha": "7e5c0542fbc069a9ed2c405cab8ba899311f789d",
-          "lastSyncedAt": "2026-10-22T16:55:16.913Z"
+          "lastSyncedAt": "2026-10-23T12:30:22.895Z"
         }
       ]
     },
