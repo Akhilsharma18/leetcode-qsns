@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-23T17:43:43.522Z",
+  "updatedAt": "2026-10-23T17:44:55.407Z",
   "problems": [
     {
       "frontendId": "3",
@@ -63,7 +63,7 @@
           "filename": "0594-longest-harmonious-subsequence.cpp",
           "path": "leetcode/0594-longest-harmonious-subsequence/0594-longest-harmonious-subsequence.cpp",
           "sha": "a5d285eaffd7dd6d5cdb360bb452cda661c6fb71",
-          "lastSyncedAt": "2026-10-23T12:18:49.759Z"
+          "lastSyncedAt": "2026-10-23T17:44:55.407Z"
         }
       ]
     },
