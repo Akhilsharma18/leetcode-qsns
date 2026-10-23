@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T12:22:12.637Z",
+  "updatedAt": "2026-10-23T12:22:28.886Z",
   "problems": [
     {
       "frontendId": "1",
@@ -483,7 +483,7 @@
           "filename": "1406-stone-game-iii.cpp",
           "path": "leetcode/1406-stone-game-iii/1406-stone-game-iii.cpp",
           "sha": "3e01ca2301a4ae92dc6e247927c854e118975e2b",
-          "lastSyncedAt": "2026-10-23T05:21:35.548Z"
+          "lastSyncedAt": "2026-10-23T12:22:28.886Z"
         }
       ]
     },
