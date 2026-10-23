@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T05:17:49.193Z",
+  "updatedAt": "2026-10-23T05:17:55.993Z",
   "problems": [
     {
       "frontendId": "15",
@@ -503,7 +503,7 @@
           "filename": "3467-transform-array-by-parity.cpp",
           "path": "leetcode/3467-transform-array-by-parity/3467-transform-array-by-parity.cpp",
           "sha": "a7ff405920fc2a30648d358c1773d0249c672474",
-          "lastSyncedAt": "2026-10-22T17:57:40.848Z"
+          "lastSyncedAt": "2026-10-23T05:17:55.993Z"
         }
       ]
     },
