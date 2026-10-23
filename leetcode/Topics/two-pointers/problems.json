@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T18:02:50.547Z",
+  "updatedAt": "2026-10-23T18:03:18.529Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "66a7e9aa73830f6fe3ad2b3f392a660e26c71f59",
           "lastSyncedAt": "2026-10-23T17:45:36.415Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "647",
+      "title": "Palindromic Substrings",
+      "slug": "palindromic-substrings",
+      "problemName": "0647-palindromic-substrings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings/",
+      "folderPath": "leetcode/0647-palindromic-substrings/",
+      "readmePath": "leetcode/0647-palindromic-substrings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0647-palindromic-substrings.cpp",
+          "path": "leetcode/0647-palindromic-substrings/0647-palindromic-substrings.cpp",
+          "sha": "50d0e555e6fbcd10ecf2d3bbd733743b764b7651",
+          "lastSyncedAt": "2026-10-23T18:03:18.529Z"
         }
       ]
     },
