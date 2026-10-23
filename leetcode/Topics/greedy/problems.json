@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-23T12:27:17.538Z",
+  "updatedAt": "2026-10-23T12:28:34.925Z",
   "problems": [
     {
       "frontendId": "45",
@@ -183,7 +183,7 @@
           "filename": "1846-maximum-element-after-decreasing-and-rearranging.cpp",
           "path": "leetcode/1846-maximum-element-after-decreasing-and-rearranging/1846-maximum-element-after-decreasing-and-rearranging.cpp",
           "sha": "e2dcbc22af23f706df7a1a7ef0fcda1df876f6c0",
-          "lastSyncedAt": "2026-10-22T16:52:53.644Z"
+          "lastSyncedAt": "2026-10-23T12:28:34.925Z"
         }
       ]
     },
