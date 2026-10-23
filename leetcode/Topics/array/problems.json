@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T15:45:00.762Z",
+  "updatedAt": "2026-10-23T16:00:51.356Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1803,7 +1803,7 @@
           "filename": "3644-maximum-k-to-sort-a-permutation.cpp",
           "path": "leetcode/3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.cpp",
           "sha": "d289568905cccb1c479fb365a73a18728305a2aa",
-          "lastSyncedAt": "2026-10-23T15:35:50.519Z"
+          "lastSyncedAt": "2026-10-23T16:00:51.356Z"
         }
       ]
     },
