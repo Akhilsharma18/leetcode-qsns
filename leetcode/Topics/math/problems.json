@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T17:58:31.759Z",
+  "updatedAt": "2026-10-23T17:59:04.540Z",
   "problems": [
     {
       "frontendId": "48",
@@ -663,7 +663,7 @@
           "filename": "3300-minimum-element-after-replacement-with-digit-sum.cpp",
           "path": "leetcode/3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.cpp",
           "sha": "d2494063aef16ec40181b582a06d7cf3f05fe729",
-          "lastSyncedAt": "2026-10-23T12:31:58.346Z"
+          "lastSyncedAt": "2026-10-23T17:59:04.540Z"
         }
       ]
     },
