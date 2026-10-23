@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-23T05:22:31.273Z",
+  "updatedAt": "2026-10-23T11:40:35.559Z",
   "problems": [
     {
       "frontendId": "389",
@@ -164,6 +164,26 @@
           "path": "leetcode/3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.cpp",
           "sha": "cadd70a23596c4f9499b510e225d4fe1a6126df8",
           "lastSyncedAt": "2026-10-23T05:13:24.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "problemName": "3644-maximum-k-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+      "folderPath": "leetcode/3644-maximum-k-to-sort-a-permutation/",
+      "readmePath": "leetcode/3644-maximum-k-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3644-maximum-k-to-sort-a-permutation.cpp",
+          "path": "leetcode/3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.cpp",
+          "sha": "d289568905cccb1c479fb365a73a18728305a2aa",
+          "lastSyncedAt": "2026-10-23T11:40:35.559Z"
         }
       ]
     },
