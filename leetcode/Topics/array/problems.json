@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T12:29:31.439Z",
+  "updatedAt": "2026-10-23T12:29:47.006Z",
   "problems": [
     {
       "frontendId": "1",
@@ -663,7 +663,7 @@
           "filename": "1732-find-the-highest-altitude.cpp",
           "path": "leetcode/1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp",
           "sha": "0a1bdaaa46d4cd437f5e2d4e3b9c313abb9d1ee8",
-          "lastSyncedAt": "2026-10-22T16:54:29.396Z"
+          "lastSyncedAt": "2026-10-23T12:29:47.006Z"
         }
       ]
     },
