@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T12:24:52.922Z",
+  "updatedAt": "2026-10-23T12:25:09.416Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1323,7 +1323,7 @@
           "filename": "3514-number-of-unique-xor-triplets-ii.cpp",
           "path": "leetcode/3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.cpp",
           "sha": "7f25971a26ad5176b39626b2262a24171f21bb36",
-          "lastSyncedAt": "2026-10-22T16:47:50.090Z"
+          "lastSyncedAt": "2026-10-23T12:25:09.416Z"
         }
       ]
     },
