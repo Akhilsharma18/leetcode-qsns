@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-23T12:25:39.860Z",
+  "updatedAt": "2026-10-23T12:26:28.526Z",
   "problems": [
     {
       "frontendId": "682",
@@ -243,7 +243,7 @@
           "filename": "3867-sum-of-gcd-of-formed-pairs.cpp",
           "path": "leetcode/3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.cpp",
           "sha": "975843e60d460553386593cca4ac04195b6ce903",
-          "lastSyncedAt": "2026-10-22T16:49:50.537Z"
+          "lastSyncedAt": "2026-10-23T12:26:28.526Z"
         }
       ]
     }
