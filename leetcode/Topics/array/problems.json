@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T17:46:48.841Z",
+  "updatedAt": "2026-10-23T17:47:54.866Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1983,7 +1983,7 @@
           "filename": "3833-count-dominant-indices.cpp",
           "path": "leetcode/3833-count-dominant-indices/3833-count-dominant-indices.cpp",
           "sha": "2777efe391bcac05fc7ca1211d9964e8617485f5",
-          "lastSyncedAt": "2026-10-23T12:21:30.714Z"
+          "lastSyncedAt": "2026-10-23T17:47:54.866Z"
         }
       ]
     },
