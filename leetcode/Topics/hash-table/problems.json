@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-23T12:33:12.906Z",
+  "updatedAt": "2026-10-23T12:33:35.675Z",
   "problems": [
     {
       "frontendId": "1",
@@ -384,6 +384,26 @@
           "path": "leetcode/2540-minimum-common-value/2540-minimum-common-value.cpp",
           "sha": "b6c1a4b9bc2c53e7a0e7961b99ba9502afe340ba",
           "lastSyncedAt": "2026-10-23T12:33:12.906Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2784",
+      "title": "Check if Array is Good",
+      "slug": "check-if-array-is-good",
+      "problemName": "2784-check-if-array-is-good",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-good/",
+      "folderPath": "leetcode/2784-check-if-array-is-good/",
+      "readmePath": "leetcode/2784-check-if-array-is-good/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2784-check-if-array-is-good.cpp",
+          "path": "leetcode/2784-check-if-array-is-good/2784-check-if-array-is-good.cpp",
+          "sha": "eca025035295ba2e7bfc2198b876cfc6c722ff78",
+          "lastSyncedAt": "2026-10-23T12:33:35.675Z"
         }
       ]
     },
