@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-23T17:45:26.629Z",
+  "updatedAt": "2026-10-23T17:48:01.225Z",
   "problems": [
     {
       "frontendId": "389",
@@ -263,7 +263,7 @@
           "filename": "3954-sum-of-compatible-numbers-in-range-i.cpp",
           "path": "leetcode/3954-sum-of-compatible-numbers-in-range-i/3954-sum-of-compatible-numbers-in-range-i.cpp",
           "sha": "503c377d91b572c7571444a934d47c2a484c97ff",
-          "lastSyncedAt": "2026-10-23T12:21:37.830Z"
+          "lastSyncedAt": "2026-10-23T17:48:01.225Z"
         }
       ]
     }
