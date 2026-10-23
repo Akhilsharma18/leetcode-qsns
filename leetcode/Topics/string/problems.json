@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T12:35:06.705Z",
+  "updatedAt": "2026-10-23T12:35:35.945Z",
   "problems": [
     {
       "frontendId": "3",
@@ -604,6 +604,26 @@
           "path": "leetcode/1927-sum-game/1927-sum-game.cpp",
           "sha": "4505e1fc52ca18bdbae24e4bb8e45f92dc455a3a",
           "lastSyncedAt": "2026-10-23T12:15:30.728Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "problemName": "2011-final-value-of-variable-after-performing-operations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "folderPath": "leetcode/2011-final-value-of-variable-after-performing-operations/",
+      "readmePath": "leetcode/2011-final-value-of-variable-after-performing-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2011-final-value-of-variable-after-performing-operations.cpp",
+          "path": "leetcode/2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.cpp",
+          "sha": "f8283c15744a43d56b7e4b9864f689a5ff6911be",
+          "lastSyncedAt": "2026-10-23T12:35:35.945Z"
         }
       ]
     },
