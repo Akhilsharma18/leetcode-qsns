@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T12:35:16.962Z",
+  "updatedAt": "2026-10-23T12:35:24.980Z",
   "problems": [
     {
       "frontendId": "48",
@@ -84,6 +84,26 @@
           "path": "leetcode/0319-bulb-switcher/0319-bulb-switcher.cpp",
           "sha": "d697d63786dd053e594d23f23089d28915a03f80",
           "lastSyncedAt": "2026-10-23T12:22:22.043Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "396",
+      "title": "Rotate Function",
+      "slug": "rotate-function",
+      "problemName": "0396-rotate-function",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-function/",
+      "folderPath": "leetcode/0396-rotate-function/",
+      "readmePath": "leetcode/0396-rotate-function/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0396-rotate-function.cpp",
+          "path": "leetcode/0396-rotate-function/0396-rotate-function.cpp",
+          "sha": "396ef71be152d0d2c6f93bad63301a11f7428eda",
+          "lastSyncedAt": "2026-10-23T12:35:24.980Z"
         }
       ]
     },
