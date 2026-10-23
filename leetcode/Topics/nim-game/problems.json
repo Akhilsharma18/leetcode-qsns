@@ -5,7 +5,7 @@
     "name": "Nim Game",
     "tagId": "103239"
   },
-  "updatedAt": "2026-10-23T17:44:10.220Z",
+  "updatedAt": "2026-10-23T17:51:12.633Z",
   "problems": [
     {
       "frontendId": "292",
@@ -23,7 +23,7 @@
           "filename": "0292-nim-game.cpp",
           "path": "leetcode/0292-nim-game/0292-nim-game.cpp",
           "sha": "502a093448d93d4d47d5d356ba3804fc6ccc05a2",
-          "lastSyncedAt": "2026-10-23T12:24:40.004Z"
+          "lastSyncedAt": "2026-10-23T17:51:12.633Z"
         }
       ]
     },
