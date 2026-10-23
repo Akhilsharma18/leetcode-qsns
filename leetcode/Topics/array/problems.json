@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T18:06:39.797Z",
+  "updatedAt": "2026-10-23T18:07:33.251Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "leetcode/0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.cpp",
           "sha": "2885c5055a5d66030077c32082a71a46e33c0849",
           "lastSyncedAt": "2026-10-23T18:00:00.785Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "leetcode/0189-rotate-array/",
+      "readmePath": "leetcode/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0189-rotate-array.cpp",
+          "path": "leetcode/0189-rotate-array/0189-rotate-array.cpp",
+          "sha": "9839519bf69373b3b279dcf93bdd67822722804d",
+          "lastSyncedAt": "2026-10-23T18:07:33.251Z"
         }
       ]
     },
