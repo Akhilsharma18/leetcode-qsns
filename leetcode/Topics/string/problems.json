@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T12:33:47.127Z",
+  "updatedAt": "2026-10-23T12:34:00.750Z",
   "problems": [
     {
       "frontendId": "3",
@@ -124,6 +124,26 @@
           "path": "leetcode/0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp",
           "sha": "e030018a0b2800479cdb7eed866f0a9d6bae4753",
           "lastSyncedAt": "2026-10-23T12:09:22.940Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "71",
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "problemName": "0071-simplify-path",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/simplify-path/",
+      "folderPath": "leetcode/0071-simplify-path/",
+      "readmePath": "leetcode/0071-simplify-path/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0071-simplify-path.cpp",
+          "path": "leetcode/0071-simplify-path/0071-simplify-path.cpp",
+          "sha": "2c6ec99402bc99767e7853e9f6f3fb9b8365cd3a",
+          "lastSyncedAt": "2026-10-23T12:34:00.750Z"
         }
       ]
     },
