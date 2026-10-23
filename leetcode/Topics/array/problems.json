@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T05:07:45.128Z",
+  "updatedAt": "2026-10-23T05:09:24.330Z",
   "problems": [
     {
       "frontendId": "1",
@@ -923,7 +923,7 @@
           "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
           "path": "leetcode/2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.cpp",
           "sha": "20236ba50f2f1a7fbc3c162f551eecf495a13989",
-          "lastSyncedAt": "2026-10-22T17:54:56.667Z"
+          "lastSyncedAt": "2026-10-23T05:09:24.330Z"
         }
       ]
     },
