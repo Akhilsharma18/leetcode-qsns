@@ -5,7 +5,7 @@
     "name": "Brainteaser",
     "tagId": "32"
   },
-  "updatedAt": "2026-10-23T12:22:22.043Z",
+  "updatedAt": "2026-10-23T12:23:26.269Z",
   "problems": [
     {
       "frontendId": "292",
@@ -83,7 +83,7 @@
           "filename": "3674-minimum-operations-to-equalize-array.cpp",
           "path": "leetcode/3674-minimum-operations-to-equalize-array/3674-minimum-operations-to-equalize-array.cpp",
           "sha": "cbda2fc9817627e1e05f50131fcc0ffa05c5b23a",
-          "lastSyncedAt": "2026-10-23T05:22:31.273Z"
+          "lastSyncedAt": "2026-10-23T12:23:26.269Z"
         }
       ]
     }
