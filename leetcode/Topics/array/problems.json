@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T12:27:00.801Z",
+  "updatedAt": "2026-10-23T12:27:17.538Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1403,7 +1403,7 @@
           "filename": "3534-path-existence-queries-in-a-graph-ii.cpp",
           "path": "leetcode/3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.cpp",
           "sha": "484f92564ab8bcdfc7f098d7bb2a34d2c3e82d96",
-          "lastSyncedAt": "2026-10-22T16:51:07.083Z"
+          "lastSyncedAt": "2026-10-23T12:27:17.538Z"
         }
       ]
     },
