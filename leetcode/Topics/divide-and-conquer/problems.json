@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-23T12:06:46.893Z",
+  "updatedAt": "2026-10-23T12:20:29.489Z",
   "problems": [
     {
       "frontendId": "109",
@@ -43,7 +43,7 @@
           "filename": "0912-sort-an-array.cpp",
           "path": "leetcode/0912-sort-an-array/0912-sort-an-array.cpp",
           "sha": "2f168417f3a3e9dc875c0ea7ebfaf43b2235c28d",
-          "lastSyncedAt": "2026-10-23T05:19:39.825Z"
+          "lastSyncedAt": "2026-10-23T12:20:29.489Z"
         }
       ]
     },
