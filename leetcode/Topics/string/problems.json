@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T12:30:09.354Z",
+  "updatedAt": "2026-10-23T12:30:34.505Z",
   "problems": [
     {
       "frontendId": "5",
@@ -883,7 +883,7 @@
           "filename": "3838-weighted-word-mapping.cpp",
           "path": "leetcode/3838-weighted-word-mapping/3838-weighted-word-mapping.cpp",
           "sha": "de33887b824d2e041136fdbe711d640815510018",
-          "lastSyncedAt": "2026-10-22T16:55:32.437Z"
+          "lastSyncedAt": "2026-10-23T12:30:34.505Z"
         }
       ]
     },
