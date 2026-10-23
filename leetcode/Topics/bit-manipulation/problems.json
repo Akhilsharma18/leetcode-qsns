@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-23T17:49:57.837Z",
+  "updatedAt": "2026-10-23T17:51:44.393Z",
   "problems": [
     {
       "frontendId": "389",
@@ -123,7 +123,7 @@
           "filename": "3514-number-of-unique-xor-triplets-ii.cpp",
           "path": "leetcode/3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.cpp",
           "sha": "7f25971a26ad5176b39626b2262a24171f21bb36",
-          "lastSyncedAt": "2026-10-23T12:25:09.416Z"
+          "lastSyncedAt": "2026-10-23T17:51:44.393Z"
         }
       ]
     },
