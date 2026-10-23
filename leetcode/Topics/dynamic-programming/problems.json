@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T18:02:28.906Z",
+  "updatedAt": "2026-10-23T18:03:18.529Z",
   "problems": [
     {
       "frontendId": "5",
@@ -204,6 +204,26 @@
           "path": "leetcode/0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "bb3deb7dc423324682349fbd6ab1baa6ad4b811a",
           "lastSyncedAt": "2026-10-23T17:50:19.070Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "647",
+      "title": "Palindromic Substrings",
+      "slug": "palindromic-substrings",
+      "problemName": "0647-palindromic-substrings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings/",
+      "folderPath": "leetcode/0647-palindromic-substrings/",
+      "readmePath": "leetcode/0647-palindromic-substrings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0647-palindromic-substrings.cpp",
+          "path": "leetcode/0647-palindromic-substrings/0647-palindromic-substrings.cpp",
+          "sha": "50d0e555e6fbcd10ecf2d3bbd733743b764b7651",
+          "lastSyncedAt": "2026-10-23T18:03:18.529Z"
         }
       ]
     },
