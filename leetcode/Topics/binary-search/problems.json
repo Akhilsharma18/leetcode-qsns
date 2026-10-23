@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-23T12:31:32.490Z",
+  "updatedAt": "2026-10-23T12:33:01.163Z",
   "problems": [
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "leetcode/0033-search-in-rotated-sorted-array/",
+      "readmePath": "leetcode/0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0033-search-in-rotated-sorted-array.cpp",
+          "path": "leetcode/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.cpp",
+          "sha": "908b59d5ab76f923daec5177e315665b64506c40",
+          "lastSyncedAt": "2026-10-23T12:33:01.163Z"
+        }
+      ]
+    },
     {
       "frontendId": "349",
       "title": "Intersection of Two Arrays",
