@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-23T18:04:53.534Z",
+  "updatedAt": "2026-10-23T18:07:33.251Z",
   "problems": [
     {
       "frontendId": "5",
@@ -124,6 +124,26 @@
           "path": "leetcode/0143-reorder-list/0143-reorder-list.cpp",
           "sha": "3d76da2ddaa08825a4e6b657b999601d8dec9052",
           "lastSyncedAt": "2026-10-23T18:04:15.440Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "leetcode/0189-rotate-array/",
+      "readmePath": "leetcode/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0189-rotate-array.cpp",
+          "path": "leetcode/0189-rotate-array/0189-rotate-array.cpp",
+          "sha": "9839519bf69373b3b279dcf93bdd67822722804d",
+          "lastSyncedAt": "2026-10-23T18:07:33.251Z"
         }
       ]
     },
