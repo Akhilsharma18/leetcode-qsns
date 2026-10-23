@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-23T12:20:53.499Z",
+  "updatedAt": "2026-10-23T12:30:16.097Z",
   "problems": [
     {
       "frontendId": "21",
@@ -23,7 +23,7 @@
           "filename": "0021-merge-two-sorted-lists.cpp",
           "path": "leetcode/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
           "sha": "0d5abd930789764308c25b71492f58a58ff058b9",
-          "lastSyncedAt": "2026-10-22T16:55:07.551Z"
+          "lastSyncedAt": "2026-10-23T12:30:16.097Z"
         }
       ]
     },
