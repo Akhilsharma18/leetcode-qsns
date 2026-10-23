@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T17:49:42.411Z",
+  "updatedAt": "2026-10-23T17:50:48.396Z",
   "problems": [
     {
       "frontendId": "15",
@@ -543,7 +543,7 @@
           "filename": "3517-smallest-palindromic-rearrangement-i.cpp",
           "path": "leetcode/3517-smallest-palindromic-rearrangement-i/3517-smallest-palindromic-rearrangement-i.cpp",
           "sha": "ab2901407647e65f859ec800b4ffd0a6a6f186e0",
-          "lastSyncedAt": "2026-10-23T12:24:16.745Z"
+          "lastSyncedAt": "2026-10-23T17:50:48.396Z"
         }
       ]
     },
