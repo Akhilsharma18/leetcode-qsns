@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-23T12:14:29.875Z",
+  "updatedAt": "2026-10-23T12:27:07.430Z",
   "problems": [
     {
       "frontendId": "1569",
@@ -43,7 +43,7 @@
           "filename": "2685-count-the-number-of-complete-components.cpp",
           "path": "leetcode/2685-count-the-number-of-complete-components/2685-count-the-number-of-complete-components.cpp",
           "sha": "bcc138860e293f42cd437a70ecbbb42f3d3dd65c",
-          "lastSyncedAt": "2026-10-22T16:50:55.765Z"
+          "lastSyncedAt": "2026-10-23T12:27:07.430Z"
         }
       ]
     },
