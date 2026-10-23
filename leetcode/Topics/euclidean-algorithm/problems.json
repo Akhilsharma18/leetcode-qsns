@@ -5,8 +5,28 @@
     "name": "Euclidean Algorithm",
     "tagId": "89463"
   },
-  "updatedAt": "2026-10-23T17:53:38.017Z",
+  "updatedAt": "2026-10-23T18:05:45.246Z",
   "problems": [
+    {
+      "frontendId": "1071",
+      "title": "Greatest Common Divisor of Strings",
+      "slug": "greatest-common-divisor-of-strings",
+      "problemName": "1071-greatest-common-divisor-of-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+      "folderPath": "leetcode/1071-greatest-common-divisor-of-strings/",
+      "readmePath": "leetcode/1071-greatest-common-divisor-of-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1071-greatest-common-divisor-of-strings.cpp",
+          "path": "leetcode/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.cpp",
+          "sha": "1e75d0f2fb2aadbdf6f9dda59bc68549a481caa8",
+          "lastSyncedAt": "2026-10-23T18:05:45.246Z"
+        }
+      ]
+    },
     {
       "frontendId": "1979",
       "title": "Find Greatest Common Divisor of Array",
