@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T17:59:09.577Z",
+  "updatedAt": "2026-10-23T17:59:14.797Z",
   "problems": [
     {
       "frontendId": "3",
@@ -863,7 +863,7 @@
           "filename": "3121-count-the-number-of-special-characters-ii.cpp",
           "path": "leetcode/3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.cpp",
           "sha": "6e1cd195c83f642faad8b99af1387992b8603267",
-          "lastSyncedAt": "2026-10-23T12:32:14.481Z"
+          "lastSyncedAt": "2026-10-23T17:59:14.797Z"
         }
       ]
     },
