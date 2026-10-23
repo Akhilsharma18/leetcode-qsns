@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T12:35:24.980Z",
+  "updatedAt": "2026-10-23T12:35:35.945Z",
   "problems": [
     {
       "frontendId": "1",
@@ -884,6 +884,26 @@
           "path": "leetcode/1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
           "sha": "3565b434a735aa494ced7179aefa2eccbeb333dd",
           "lastSyncedAt": "2026-10-23T12:25:56.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "problemName": "2011-final-value-of-variable-after-performing-operations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "folderPath": "leetcode/2011-final-value-of-variable-after-performing-operations/",
+      "readmePath": "leetcode/2011-final-value-of-variable-after-performing-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2011-final-value-of-variable-after-performing-operations.cpp",
+          "path": "leetcode/2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.cpp",
+          "sha": "f8283c15744a43d56b7e4b9864f689a5ff6911be",
+          "lastSyncedAt": "2026-10-23T12:35:35.945Z"
         }
       ]
     },
