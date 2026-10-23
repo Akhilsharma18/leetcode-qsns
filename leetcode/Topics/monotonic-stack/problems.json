@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-10-23T12:25:47.569Z",
+  "updatedAt": "2026-10-23T12:30:51.626Z",
   "problems": [
     {
       "frontendId": "84",
@@ -23,7 +23,7 @@
           "filename": "0084-largest-rectangle-in-histogram.cpp",
           "path": "leetcode/0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
           "sha": "7cc68220d60a5767cd8117a7ce66b71ce609bca9",
-          "lastSyncedAt": "2026-10-22T11:17:29.486Z"
+          "lastSyncedAt": "2026-10-23T12:30:51.626Z"
         }
       ]
     },
