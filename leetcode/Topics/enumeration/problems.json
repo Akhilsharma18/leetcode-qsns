@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-23T16:01:24.597Z",
+  "updatedAt": "2026-10-23T16:03:15.569Z",
   "problems": [
     {
       "frontendId": "1291",
@@ -63,7 +63,7 @@
           "filename": "2778-sum-of-squares-of-special-elements.cpp",
           "path": "leetcode/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
           "sha": "e93085d5e776b7a50ec11f1b30a6738c0a23ff79",
-          "lastSyncedAt": "2026-10-23T15:38:24.437Z"
+          "lastSyncedAt": "2026-10-23T16:03:15.569Z"
         }
       ]
     },
