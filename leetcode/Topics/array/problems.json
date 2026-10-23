@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-23T17:58:07.519Z",
+  "updatedAt": "2026-10-23T17:58:12.973Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1043,7 +1043,7 @@
           "filename": "2161-partition-array-according-to-given-pivot.cpp",
           "path": "leetcode/2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.cpp",
           "sha": "e7453ea793676557f0551cb7ef735587ab8de29e",
-          "lastSyncedAt": "2026-10-23T12:31:06.538Z"
+          "lastSyncedAt": "2026-10-23T17:58:12.973Z"
         }
       ]
     },
