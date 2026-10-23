@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-23T12:27:37.576Z",
+  "updatedAt": "2026-10-23T12:29:23.174Z",
   "problems": [
     {
       "frontendId": "349",
@@ -63,7 +63,7 @@
           "filename": "1283-find-the-smallest-divisor-given-a-threshold.cpp",
           "path": "leetcode/1283-find-the-smallest-divisor-given-a-threshold/1283-find-the-smallest-divisor-given-a-threshold.cpp",
           "sha": "67b27bb74ad4ded808699c881d9e2f160aa5499d",
-          "lastSyncedAt": "2026-10-22T16:54:03.690Z"
+          "lastSyncedAt": "2026-10-23T12:29:23.174Z"
         }
       ]
     },
