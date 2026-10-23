@@ -5,8 +5,28 @@
     "name": "Combinatorics",
     "tagId": "61056"
   },
-  "updatedAt": "2026-10-23T17:52:57.545Z",
+  "updatedAt": "2026-10-23T18:07:10.513Z",
   "problems": [
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "leetcode/0062-unique-paths/",
+      "readmePath": "leetcode/0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0062-unique-paths.cpp",
+          "path": "leetcode/0062-unique-paths/0062-unique-paths.cpp",
+          "sha": "09a9d7d0b54051f8883713fa047b4e9a98b88991",
+          "lastSyncedAt": "2026-10-23T18:07:10.513Z"
+        }
+      ]
+    },
     {
       "frontendId": "1569",
       "title": "Number of Ways to Reorder Array to Get Same BST",
