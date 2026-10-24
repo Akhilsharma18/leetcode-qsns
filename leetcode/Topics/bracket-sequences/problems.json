@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-24T05:35:50.491Z",
+  "updatedAt": "2026-10-24T05:36:01.422Z",
   "problems": [
     {
       "frontendId": "20",
@@ -143,7 +143,7 @@
           "filename": "1021-remove-outermost-parentheses.cpp",
           "path": "leetcode/1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.cpp",
           "sha": "652d9053bb3d8a1b5da26d244a61cfa541a03252",
-          "lastSyncedAt": "2026-10-23T17:34:30.391Z"
+          "lastSyncedAt": "2026-10-24T05:36:01.422Z"
         }
       ]
     },
