@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-24T05:47:44.162Z",
+  "updatedAt": "2026-10-24T05:48:05.600Z",
   "problems": [
     {
       "frontendId": "109",
@@ -23,7 +23,7 @@
           "filename": "0109-convert-sorted-list-to-binary-search-tree.cpp",
           "path": "leetcode/0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.cpp",
           "sha": "2f269e3564305b67a7aad79f363a6a7a11e1829d",
-          "lastSyncedAt": "2026-10-23T17:47:12.442Z"
+          "lastSyncedAt": "2026-10-24T05:48:05.600Z"
         }
       ]
     },
