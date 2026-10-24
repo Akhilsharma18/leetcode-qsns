@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-24T05:41:39.963Z",
+  "updatedAt": "2026-10-24T05:48:37.747Z",
   "problems": [
     {
       "frontendId": "1291",
@@ -263,7 +263,7 @@
           "filename": "3833-count-dominant-indices.cpp",
           "path": "leetcode/3833-count-dominant-indices/3833-count-dominant-indices.cpp",
           "sha": "2777efe391bcac05fc7ca1211d9964e8617485f5",
-          "lastSyncedAt": "2026-10-23T17:47:54.866Z"
+          "lastSyncedAt": "2026-10-24T05:48:37.747Z"
         }
       ]
     },
