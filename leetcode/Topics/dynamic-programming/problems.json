@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-23T18:09:34.967Z",
+  "updatedAt": "2026-10-24T05:34:11.416Z",
   "problems": [
     {
       "frontendId": "5",
@@ -523,7 +523,7 @@
           "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
           "path": "leetcode/1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
           "sha": "4ca1273430e2228c70eefe013d5683e38ac84f3b",
-          "lastSyncedAt": "2026-10-23T17:32:32.430Z"
+          "lastSyncedAt": "2026-10-24T05:34:11.416Z"
         }
       ]
     },
