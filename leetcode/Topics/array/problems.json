@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T05:35:15.237Z",
+  "updatedAt": "2026-10-24T05:35:22.580Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1623,7 +1623,7 @@
           "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "path": "leetcode/2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "sha": "5458de49112ae0ab719a488843eb048b1e8e5019",
-          "lastSyncedAt": "2026-10-23T17:33:42.487Z"
+          "lastSyncedAt": "2026-10-24T05:35:22.580Z"
         }
       ]
     },
