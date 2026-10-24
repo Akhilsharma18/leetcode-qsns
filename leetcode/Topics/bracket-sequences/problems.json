@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-24T05:37:13.279Z",
+  "updatedAt": "2026-10-24T05:37:22.596Z",
   "problems": [
     {
       "frontendId": "20",
@@ -223,7 +223,7 @@
           "filename": "1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "path": "leetcode/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "20be2bc46490ab02f702b98a8d009889131cae9b",
-          "lastSyncedAt": "2026-10-23T17:35:57.477Z"
+          "lastSyncedAt": "2026-10-24T05:37:22.596Z"
         }
       ]
     },
