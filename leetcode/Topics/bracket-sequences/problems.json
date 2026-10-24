@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-24T05:36:42.112Z",
+  "updatedAt": "2026-10-24T05:36:50.460Z",
   "problems": [
     {
       "frontendId": "20",
@@ -43,7 +43,7 @@
           "filename": "0022-generate-parentheses.cpp",
           "path": "leetcode/0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "41bc03132f3aad5cd3c592d5e49cd3c916a3a02a",
-          "lastSyncedAt": "2026-10-23T17:35:25.384Z"
+          "lastSyncedAt": "2026-10-24T05:36:50.460Z"
         }
       ]
     },
