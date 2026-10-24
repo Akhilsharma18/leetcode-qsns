@@ -5,7 +5,7 @@
     "name": "Nim Game",
     "tagId": "103239"
   },
-  "updatedAt": "2026-10-24T05:43:43.881Z",
+  "updatedAt": "2026-10-24T05:44:52.867Z",
   "problems": [
     {
       "frontendId": "292",
@@ -43,7 +43,7 @@
           "filename": "1510-stone-game-iv.cpp",
           "path": "leetcode/1510-stone-game-iv/1510-stone-game-iv.cpp",
           "sha": "a19cacc0f91fbe69d3daf14a3198545535f16a01",
-          "lastSyncedAt": "2026-10-23T17:44:10.220Z"
+          "lastSyncedAt": "2026-10-24T05:44:52.867Z"
         }
       ]
     },
