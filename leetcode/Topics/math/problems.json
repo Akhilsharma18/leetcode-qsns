@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-24T05:35:08.968Z",
+  "updatedAt": "2026-10-24T05:38:02.204Z",
   "problems": [
     {
       "frontendId": "43",
@@ -1003,7 +1003,7 @@
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "path": "leetcode/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "sha": "00608e26d29dabdcdcdb30cbbc9f21e07ed18050",
-          "lastSyncedAt": "2026-10-23T17:36:46.427Z"
+          "lastSyncedAt": "2026-10-24T05:38:02.204Z"
         }
       ]
     },
