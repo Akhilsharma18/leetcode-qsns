@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-23T18:09:16.970Z",
+  "updatedAt": "2026-10-24T05:39:58.105Z",
   "problems": [
     {
       "frontendId": "111",
@@ -163,7 +163,7 @@
           "filename": "2265-count-nodes-equal-to-average-of-subtree.cpp",
           "path": "leetcode/2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.cpp",
           "sha": "3544b6f262fe73e7f628a9b3d2cf329a9a38d9e2",
-          "lastSyncedAt": "2026-10-23T17:38:58.726Z"
+          "lastSyncedAt": "2026-10-24T05:39:58.105Z"
         }
       ]
     },
