@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-24T05:50:16.953Z",
+  "updatedAt": "2026-10-24T17:25:02.862Z",
   "problems": [
     {
       "frontendId": "3",
@@ -884,6 +884,26 @@
           "path": "leetcode/2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "3a9a5e761e18b0bc7bf0910847d5001f11c8b779",
           "lastSyncedAt": "2026-10-24T05:44:15.399Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "slug": "count-days-spent-together",
+      "problemName": "2409-count-days-spent-together",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+      "folderPath": "leetcode/2409-count-days-spent-together/",
+      "readmePath": "leetcode/2409-count-days-spent-together/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2409-count-days-spent-together.cpp",
+          "path": "leetcode/2409-count-days-spent-together/2409-count-days-spent-together.cpp",
+          "sha": "a0c5119b7933d80c6d9cc68287fc8ea3ce489ca9",
+          "lastSyncedAt": "2026-10-24T17:25:02.862Z"
         }
       ]
     },
