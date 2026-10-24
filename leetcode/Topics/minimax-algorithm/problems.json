@@ -5,7 +5,7 @@
     "name": "Minimax",
     "tagId": "35"
   },
-  "updatedAt": "2026-10-23T17:51:12.633Z",
+  "updatedAt": "2026-10-24T05:42:05.593Z",
   "problems": [
     {
       "frontendId": "292",
@@ -143,7 +143,7 @@
           "filename": "1872-stone-game-viii.cpp",
           "path": "leetcode/1872-stone-game-viii/1872-stone-game-viii.cpp",
           "sha": "b0eafdda0fd90c31dfaaf03708991e6a8745951a",
-          "lastSyncedAt": "2026-10-23T17:41:15.149Z"
+          "lastSyncedAt": "2026-10-24T05:42:05.593Z"
         }
       ]
     },
