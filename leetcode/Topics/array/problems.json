@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T05:41:22.956Z",
+  "updatedAt": "2026-10-24T05:41:58.574Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2283,7 +2283,7 @@
           "filename": "3718-smallest-missing-multiple-of-k.cpp",
           "path": "leetcode/3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.cpp",
           "sha": "91219e4253c684e9e4ef25ce80ba006ef2ff8d79",
-          "lastSyncedAt": "2026-10-23T17:41:08.124Z"
+          "lastSyncedAt": "2026-10-24T05:41:58.574Z"
         }
       ]
     },
