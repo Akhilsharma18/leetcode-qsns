@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-23T18:08:09.539Z",
+  "updatedAt": "2026-10-24T05:38:08.191Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -63,7 +63,7 @@
           "filename": "1658-minimum-operations-to-reduce-x-to-zero.java",
           "path": "leetcode/1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.java",
           "sha": "bda38902a431073930a1a5191d1a7cc79a245140",
-          "lastSyncedAt": "2026-10-23T17:36:53.487Z"
+          "lastSyncedAt": "2026-10-24T05:38:08.191Z"
         }
       ]
     },
