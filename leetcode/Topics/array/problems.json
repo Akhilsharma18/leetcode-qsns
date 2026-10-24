@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T05:37:40.899Z",
+  "updatedAt": "2026-10-24T05:38:02.204Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2103,7 +2103,7 @@
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "path": "leetcode/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "sha": "00608e26d29dabdcdcdb30cbbc9f21e07ed18050",
-          "lastSyncedAt": "2026-10-23T17:36:46.427Z"
+          "lastSyncedAt": "2026-10-24T05:38:02.204Z"
         }
       ]
     },
