@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-24T05:34:02.290Z",
+  "updatedAt": "2026-10-24T05:34:40.997Z",
   "problems": [
     {
       "frontendId": "15",
@@ -663,7 +663,7 @@
           "filename": "3551-minimum-swaps-to-sort-by-digit-sum.cpp",
           "path": "leetcode/3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.cpp",
           "sha": "75060ca273e7782e1ea7bd85524e24f77dd21e97",
-          "lastSyncedAt": "2026-10-23T17:32:58.538Z"
+          "lastSyncedAt": "2026-10-24T05:34:40.997Z"
         }
       ]
     },
