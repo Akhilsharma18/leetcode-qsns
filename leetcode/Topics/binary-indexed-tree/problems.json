@@ -5,7 +5,7 @@
     "name": "Binary Indexed Tree",
     "tagId": "28"
   },
-  "updatedAt": "2026-10-24T05:34:49.483Z",
+  "updatedAt": "2026-10-24T05:34:58.826Z",
   "problems": [
     {
       "frontendId": "2913",
@@ -23,7 +23,7 @@
           "filename": "2913-subarrays-distinct-element-sum-of-squares-i.cpp",
           "path": "leetcode/2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.cpp",
           "sha": "1196d571458040742bfa0e2c079b7dc266b4706f",
-          "lastSyncedAt": "2026-10-23T17:33:18.684Z"
+          "lastSyncedAt": "2026-10-24T05:34:58.826Z"
         }
       ]
     },
