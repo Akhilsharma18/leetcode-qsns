@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-24T05:38:47.641Z",
+  "updatedAt": "2026-10-24T05:39:39.678Z",
   "problems": [
     {
       "frontendId": "15",
@@ -563,7 +563,7 @@
           "filename": "3414-maximum-score-of-non-overlapping-intervals.cpp",
           "path": "leetcode/3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.cpp",
           "sha": "3056c6739b270a6b79113307cb6140d71296d1d3",
-          "lastSyncedAt": "2026-10-23T17:38:36.710Z"
+          "lastSyncedAt": "2026-10-24T05:39:39.678Z"
         }
       ]
     },
