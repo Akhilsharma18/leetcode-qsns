@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T05:40:34.005Z",
+  "updatedAt": "2026-10-24T05:40:39.525Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2443,7 +2443,7 @@
           "filename": "3876-construct-uniform-parity-array-ii.cpp",
           "path": "leetcode/3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.cpp",
           "sha": "ebb353d11942fc9d09c1dd33aa6ab8a9ef029446",
-          "lastSyncedAt": "2026-10-23T17:39:46.564Z"
+          "lastSyncedAt": "2026-10-24T05:40:39.525Z"
         }
       ]
     },
