@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-24T05:37:22.596Z",
+  "updatedAt": "2026-10-24T05:37:28.619Z",
   "problems": [
     {
       "frontendId": "20",
@@ -283,7 +283,7 @@
           "filename": "1190-reverse-substrings-between-each-pair-of-parentheses.cpp",
           "path": "leetcode/1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.cpp",
           "sha": "84476a5573876a63a85fc52f4254145e4432d410",
-          "lastSyncedAt": "2026-10-23T17:36:04.071Z"
+          "lastSyncedAt": "2026-10-24T05:37:28.619Z"
         }
       ]
     },
