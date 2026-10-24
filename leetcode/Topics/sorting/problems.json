@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-24T05:46:34.209Z",
+  "updatedAt": "2026-10-24T05:46:41.088Z",
   "problems": [
     {
       "frontendId": "15",
@@ -103,7 +103,7 @@
           "filename": "0389-find-the-difference.cpp",
           "path": "leetcode/0389-find-the-difference/0389-find-the-difference.cpp",
           "sha": "2af820e7e528039d650b6a38f933768e56d7b95b",
-          "lastSyncedAt": "2026-10-23T17:45:26.629Z"
+          "lastSyncedAt": "2026-10-24T05:46:41.088Z"
         }
       ]
     },
