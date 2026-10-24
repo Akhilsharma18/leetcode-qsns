@@ -5,7 +5,7 @@
     "name": "Ordered Set",
     "tagId": "61070"
   },
-  "updatedAt": "2026-10-23T17:43:31.999Z",
+  "updatedAt": "2026-10-24T05:44:15.399Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -23,7 +23,7 @@
           "filename": "2213-longest-substring-of-one-repeating-character.cpp",
           "path": "leetcode/2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "3a9a5e761e18b0bc7bf0910847d5001f11c8b779",
-          "lastSyncedAt": "2026-10-23T17:43:31.999Z"
+          "lastSyncedAt": "2026-10-24T05:44:15.399Z"
         }
       ]
     }
