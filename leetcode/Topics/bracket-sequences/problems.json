@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-24T05:36:16.163Z",
+  "updatedAt": "2026-10-24T05:36:24.319Z",
   "problems": [
     {
       "frontendId": "20",
@@ -103,7 +103,7 @@
           "filename": "0856-score-of-parentheses.cpp",
           "path": "leetcode/0856-score-of-parentheses/0856-score-of-parentheses.cpp",
           "sha": "22d8becba799c49447827adb0f52293dda3f0cbb",
-          "lastSyncedAt": "2026-10-23T17:34:54.601Z"
+          "lastSyncedAt": "2026-10-24T05:36:24.319Z"
         }
       ]
     },
