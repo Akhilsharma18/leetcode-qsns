@@ -5,7 +5,7 @@
     "name": "Bucket Sort",
     "tagId": "61060"
   },
-  "updatedAt": "2026-10-23T17:55:06.883Z",
+  "updatedAt": "2026-10-24T05:47:44.162Z",
   "problems": [
     {
       "frontendId": "451",
@@ -43,7 +43,7 @@
           "filename": "0912-sort-an-array.cpp",
           "path": "leetcode/0912-sort-an-array/0912-sort-an-array.cpp",
           "sha": "2f168417f3a3e9dc875c0ea7ebfaf43b2235c28d",
-          "lastSyncedAt": "2026-10-23T17:46:48.841Z"
+          "lastSyncedAt": "2026-10-24T05:47:44.162Z"
         }
       ]
     }
