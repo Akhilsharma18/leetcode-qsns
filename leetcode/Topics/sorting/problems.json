@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-24T05:45:49.445Z",
+  "updatedAt": "2026-10-24T05:46:00.196Z",
   "problems": [
     {
       "frontendId": "15",
@@ -423,7 +423,7 @@
           "filename": "2231-largest-number-after-digit-swaps-by-parity.cpp",
           "path": "leetcode/2231-largest-number-after-digit-swaps-by-parity/2231-largest-number-after-digit-swaps-by-parity.cpp",
           "sha": "a56d560d212ce2c7589b96652edb17fb55717f45",
-          "lastSyncedAt": "2026-10-23T17:44:41.172Z"
+          "lastSyncedAt": "2026-10-24T05:46:00.196Z"
         }
       ]
     },
