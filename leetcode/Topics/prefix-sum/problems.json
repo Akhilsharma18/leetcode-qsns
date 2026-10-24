@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-24T05:39:07.938Z",
+  "updatedAt": "2026-10-24T05:40:28.465Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -223,7 +223,7 @@
           "filename": "3904-smallest-stable-index-ii.cpp",
           "path": "leetcode/3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.cpp",
           "sha": "f553d983e9ebec3f08d34794e43ddb58c4fe1224",
-          "lastSyncedAt": "2026-10-23T17:39:34.340Z"
+          "lastSyncedAt": "2026-10-24T05:40:28.465Z"
         }
       ]
     }
