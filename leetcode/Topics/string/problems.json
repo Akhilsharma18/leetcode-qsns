@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-24T05:38:37.049Z",
+  "updatedAt": "2026-10-24T05:38:47.641Z",
   "problems": [
     {
       "frontendId": "3",
@@ -763,7 +763,7 @@
           "filename": "1520-maximum-number-of-non-overlapping-substrings.cpp",
           "path": "leetcode/1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.cpp",
           "sha": "3325ac9f8e46ea0187790d13a140aac65393e90d",
-          "lastSyncedAt": "2026-10-23T17:37:38.831Z"
+          "lastSyncedAt": "2026-10-24T05:38:47.641Z"
         }
       ]
     },
