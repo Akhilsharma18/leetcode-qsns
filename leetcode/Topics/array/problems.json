@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T05:35:32.442Z",
+  "updatedAt": "2026-10-24T05:35:37.797Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1503,7 +1503,7 @@
           "filename": "2333-minimum-sum-of-squared-difference.cpp",
           "path": "leetcode/2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
           "sha": "49c8ba64f353161beb872d5929a9423e349c2718",
-          "lastSyncedAt": "2026-10-23T17:34:07.401Z"
+          "lastSyncedAt": "2026-10-24T05:35:37.797Z"
         }
       ]
     },
