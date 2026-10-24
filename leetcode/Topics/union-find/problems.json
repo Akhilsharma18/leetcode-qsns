@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-24T05:34:11.416Z",
+  "updatedAt": "2026-10-24T05:41:22.956Z",
   "problems": [
     {
       "frontendId": "200",
@@ -103,7 +103,7 @@
           "filename": "2948-make-lexicographically-smallest-array-by-swapping-elements.cpp",
           "path": "leetcode/2948-make-lexicographically-smallest-array-by-swapping-elements/2948-make-lexicographically-smallest-array-by-swapping-elements.cpp",
           "sha": "0f2e4ee4fd6dd2125b111168920d559748f0710d",
-          "lastSyncedAt": "2026-10-23T17:40:32.095Z"
+          "lastSyncedAt": "2026-10-24T05:41:22.956Z"
         }
       ]
     },
