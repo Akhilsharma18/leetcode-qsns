@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-24T05:40:58.687Z",
+  "updatedAt": "2026-10-24T05:41:39.963Z",
   "problems": [
     {
       "frontendId": "1",
@@ -903,7 +903,7 @@
           "filename": "3720-lexicographically-smallest-permutation-greater-than-target.cpp",
           "path": "leetcode/3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.cpp",
           "sha": "8c3cdc41b03c9c1eacb182b4f9b5792e1fe4d4f9",
-          "lastSyncedAt": "2026-10-23T17:40:50.106Z"
+          "lastSyncedAt": "2026-10-24T05:41:39.963Z"
         }
       ]
     },
