@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-24T05:36:01.422Z",
+  "updatedAt": "2026-10-24T05:36:07.642Z",
   "problems": [
     {
       "frontendId": "3",
@@ -343,7 +343,7 @@
           "filename": "0301-remove-invalid-parentheses.cpp",
           "path": "leetcode/0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp",
           "sha": "5858e86f3bc28138989fa454471bc5e210e90950",
-          "lastSyncedAt": "2026-10-23T17:34:37.911Z"
+          "lastSyncedAt": "2026-10-24T05:36:07.642Z"
         }
       ]
     },
