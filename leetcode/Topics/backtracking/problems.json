@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-24T05:36:50.460Z",
+  "updatedAt": "2026-10-24T05:37:48.866Z",
   "problems": [
     {
       "frontendId": "22",
@@ -83,7 +83,7 @@
           "filename": "1096-brace-expansion-ii.cpp",
           "path": "leetcode/1096-brace-expansion-ii/1096-brace-expansion-ii.cpp",
           "sha": "76fe89a260b793c8724acc88d72bb77d402d0cef",
-          "lastSyncedAt": "2026-10-23T17:36:28.528Z"
+          "lastSyncedAt": "2026-10-24T05:37:48.866Z"
         }
       ]
     },
