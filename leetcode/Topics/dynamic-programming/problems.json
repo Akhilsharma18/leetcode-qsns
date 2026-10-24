@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-24T05:47:33.852Z",
+  "updatedAt": "2026-10-24T05:48:42.941Z",
   "problems": [
     {
       "frontendId": "5",
@@ -783,7 +783,7 @@
           "filename": "3954-sum-of-compatible-numbers-in-range-i.cpp",
           "path": "leetcode/3954-sum-of-compatible-numbers-in-range-i/3954-sum-of-compatible-numbers-in-range-i.cpp",
           "sha": "503c377d91b572c7571444a934d47c2a484c97ff",
-          "lastSyncedAt": "2026-10-23T17:48:01.225Z"
+          "lastSyncedAt": "2026-10-24T05:48:42.941Z"
         }
       ]
     }
