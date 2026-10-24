@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-24T05:38:02.204Z",
+  "updatedAt": "2026-10-24T05:38:21.335Z",
   "problems": [
     {
       "frontendId": "43",
@@ -963,7 +963,7 @@
           "filename": "3525-find-x-value-of-array-ii.cpp",
           "path": "leetcode/3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.cpp",
           "sha": "3a2b9d7f807a3ea5d2cc40e2645b3f01b1a08f4f",
-          "lastSyncedAt": "2026-10-23T17:37:06.688Z"
+          "lastSyncedAt": "2026-10-24T05:38:21.335Z"
         }
       ]
     },
