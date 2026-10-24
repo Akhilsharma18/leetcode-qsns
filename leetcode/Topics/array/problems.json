@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T05:43:43.881Z",
+  "updatedAt": "2026-10-24T05:44:02.387Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2263,7 +2263,7 @@
           "filename": "3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
           "path": "leetcode/3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
           "sha": "d6f91082c7e4a9d07337f6e3bce15a7388c3ca73",
-          "lastSyncedAt": "2026-10-23T17:43:15.774Z"
+          "lastSyncedAt": "2026-10-24T05:44:02.387Z"
         }
       ]
     },
