@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-24T05:41:39.963Z",
+  "updatedAt": "2026-10-24T05:42:25.448Z",
   "problems": [
     {
       "frontendId": "11",
@@ -303,7 +303,7 @@
           "filename": "1927-sum-game.cpp",
           "path": "leetcode/1927-sum-game/1927-sum-game.cpp",
           "sha": "4505e1fc52ca18bdbae24e4bb8e45f92dc455a3a",
-          "lastSyncedAt": "2026-10-23T17:41:33.423Z"
+          "lastSyncedAt": "2026-10-24T05:42:25.448Z"
         }
       ]
     },
