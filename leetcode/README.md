@@ -5,99 +5,114 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 7 | 3 | 4 | 0 |
+| 69 | 28 | 40 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 6 |
+| 1 days | 4 days | 52 |
 
 | Date | Problems |
 | --- | ---: |
+| 2026-05-17 | 1 |
+| 2026-05-19 | 1 |
+| 2026-05-24 | 1 |
+| 2026-05-27 | 1 |
+| 2026-05-28 | 1 |
+| 2026-05-29 | 1 |
 | 2026-05-31 | 1 |
 | 2026-06-02 | 2 |
 | 2026-06-05 | 1 |
 | 2026-06-08 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
+| 2026-10-24 | 1 |
+| 2026-10-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 6 | 86% |
-| Greedy | 2 | 29% |
-| Sorting | 2 | 29% |
-| Binary Search | 1 | 14% |
-| Binary Tree | 1 | 14% |
-| Bit Manipulation | 1 | 14% |
-| Dynamic Programming | 1 | 14% |
-| Enumeration | 1 | 14% |
-| Hash Table | 1 | 14% |
-| Math | 1 | 14% |
+| Array | 41 | 59% |
+| String | 20 | 29% |
+| Hash Table | 14 | 20% |
+| Two Pointers | 13 | 19% |
+| Dynamic Programming | 12 | 17% |
+| Math | 12 | 17% |
+| Matrix | 11 | 16% |
+| Greedy | 8 | 12% |
+| Depth-First Search | 7 | 10% |
+| Breadth-First Search | 6 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 90 |
-| [Backtracking](Topics/backtracking/) | 4 |
+| [Array](Topics/array/) | 127 |
+| [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
-| [Binary Search](Topics/binary-search/) | 15 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 5 |
+| [Binary Search](Topics/binary-search/) | 18 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 4 |
+| [Binary Tree](Topics/binary-tree/) | 8 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 13 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 12 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 7 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 13 |
+| [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
-| [Combinatorics](Topics/combinatorics/) | 5 |
-| [Counting](Topics/counting/) | 12 |
+| [Combinatorics](Topics/combinatorics/) | 6 |
+| [Counting](Topics/counting/) | 13 |
 | [Counting Sort](Topics/counting-sort/) | 3 |
-| [Database](Topics/database/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 4 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 28 |
-| [Enumeration](Topics/enumeration/) | 14 |
-| [Euclidean Algorithm](Topics/euclidean-algorithm/) | 3 |
+| [Data Stream](Topics/data-stream/) | 1 |
+| [Database](Topics/database/) | 3 |
+| [Depth-First Search](Topics/depth-first-search/) | 11 |
+| [Design](Topics/design/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 39 |
+| [Enumeration](Topics/enumeration/) | 15 |
+| [Euclidean Algorithm](Topics/euclidean-algorithm/) | 4 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Game Theory](Topics/game-theory/) | 12 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph Theory](Topics/graph/) | 5 |
-| [Greatest Common Divisor](Topics/greatest-common-divisor/) | 3 |
-| [Greedy](Topics/greedy/) | 26 |
-| [Hash Table](Topics/hash-table/) | 34 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
+| [Greatest Common Divisor](Topics/greatest-common-divisor/) | 4 |
+| [Greedy](Topics/greedy/) | 32 |
+| [Hash Function](Topics/hash-function/) | 1 |
+| [Hash Table](Topics/hash-table/) | 47 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Impartial Game](Topics/impartial-game/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
-| [Linked List](Topics/linked-list/) | 6 |
+| [Linked List](Topics/linked-list/) | 8 |
+| [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 52 |
-| [Matrix](Topics/matrix/) | 5 |
-| [Memoization](Topics/memoization/) | 2 |
+| [Math](Topics/math/) | 63 |
+| [Matrix](Topics/matrix/) | 16 |
+| [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 8 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Nim Game](Topics/nim-game/) | 3 |
 | [Number Theory](Topics/number-theory/) | 7 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 10 |
+| [Prefix Sum](Topics/prefix-sum/) | 11 |
 | [Queue](Topics/queue/) | 3 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
-| [Recursion](Topics/recursion/) | 5 |
+| [Recursion](Topics/recursion/) | 6 |
 | [Segment Tree](Topics/segment-tree/) | 6 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
-| [Simulation](Topics/simulation/) | 12 |
-| [Sliding Window](Topics/sliding-window/) | 6 |
-| [Sorting](Topics/sorting/) | 34 |
+| [Simulation](Topics/simulation/) | 15 |
+| [Sliding Window](Topics/sliding-window/) | 8 |
+| [Sorting](Topics/sorting/) | 38 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 16 |
-| [String](Topics/string/) | 45 |
-| [Tree](Topics/tree/) | 5 |
-| [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 14 |
-| [Union-Find](Topics/union-find/) | 4 |
+| [Stack](Topics/stack/) | 18 |
+| [String](Topics/string/) | 65 |
+| [String Matching](Topics/string-matching/) | 2 |
+| [Tree](Topics/tree/) | 8 |
+| [Trie](Topics/trie/) | 2 |
+| [Two Pointers](Topics/two-pointers/) | 26 |
+| [Union-Find](Topics/union-find/) | 7 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 7 |
 <!---LeetHub Summary End-->
