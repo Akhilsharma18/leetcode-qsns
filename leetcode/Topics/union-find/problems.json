@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-25T18:44:25.725Z",
+  "updatedAt": "2026-10-26T17:54:48.969Z",
   "problems": [
     {
       "frontendId": "200",
@@ -144,6 +144,26 @@
           "path": "leetcode/3532-path-existence-queries-in-a-graph-i/3532-path-existence-queries-in-a-graph-i.cpp",
           "sha": "20a5d5a48e6cccf50f489a8f773ecc654fc6893d",
           "lastSyncedAt": "2026-10-23T17:54:36.284Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3619",
+      "title": "Count Islands With Total Value Divisible by K",
+      "slug": "count-islands-with-total-value-divisible-by-k",
+      "problemName": "3619-count-islands-with-total-value-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/",
+      "folderPath": "leetcode/3619-count-islands-with-total-value-divisible-by-k/",
+      "readmePath": "leetcode/3619-count-islands-with-total-value-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3619-count-islands-with-total-value-divisible-by-k.cpp",
+          "path": "leetcode/3619-count-islands-with-total-value-divisible-by-k/3619-count-islands-with-total-value-divisible-by-k.cpp",
+          "sha": "1458c4dc9263bfa2f533d2fd4d80415cbd228b06",
+          "lastSyncedAt": "2026-10-26T17:54:48.969Z"
         }
       ]
     }
