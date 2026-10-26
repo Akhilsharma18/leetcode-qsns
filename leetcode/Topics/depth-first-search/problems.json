@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-25T18:44:25.725Z",
+  "updatedAt": "2026-10-26T17:54:48.969Z",
   "problems": [
     {
       "frontendId": "111",
@@ -224,6 +224,26 @@
           "path": "leetcode/3310-remove-methods-from-project/3310-remove-methods-from-project.cpp",
           "sha": "17e1cc0e2191f68b72d4988c93fb344b8fdc7d45",
           "lastSyncedAt": "2026-10-24T05:49:06.963Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3619",
+      "title": "Count Islands With Total Value Divisible by K",
+      "slug": "count-islands-with-total-value-divisible-by-k",
+      "problemName": "3619-count-islands-with-total-value-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/",
+      "folderPath": "leetcode/3619-count-islands-with-total-value-divisible-by-k/",
+      "readmePath": "leetcode/3619-count-islands-with-total-value-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3619-count-islands-with-total-value-divisible-by-k.cpp",
+          "path": "leetcode/3619-count-islands-with-total-value-divisible-by-k/3619-count-islands-with-total-value-divisible-by-k.cpp",
+          "sha": "1458c4dc9263bfa2f533d2fd4d80415cbd228b06",
+          "lastSyncedAt": "2026-10-26T17:54:48.969Z"
         }
       ]
     }
