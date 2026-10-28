@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-28T17:47:33.472Z",
+  "updatedAt": "2026-10-28T17:47:58.473Z",
   "problems": [
     {
       "frontendId": "5",
@@ -783,7 +783,7 @@
           "filename": "3882-minimum-xor-path-in-a-grid.cpp",
           "path": "leetcode/3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.cpp",
           "sha": "42f3e9cff24574a316e0d3252417108c51e60ef9",
-          "lastSyncedAt": "2026-10-28T17:47:33.472Z"
+          "lastSyncedAt": "2026-10-28T17:47:58.473Z"
         }
       ]
     },
