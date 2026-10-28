@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-24T05:50:01.307Z",
+  "updatedAt": "2026-10-28T17:46:32.337Z",
   "problems": [
     {
       "frontendId": "5",
@@ -764,6 +764,26 @@
           "path": "leetcode/3751-total-waviness-of-numbers-in-range-i/3751-total-waviness-of-numbers-in-range-i.cpp",
           "sha": "70c79b0df719aeeec70ad249072e3499e06e0c17",
           "lastSyncedAt": "2026-10-23T17:58:31.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3882",
+      "title": "Minimum XOR Path in a Grid",
+      "slug": "minimum-xor-path-in-a-grid",
+      "problemName": "3882-minimum-xor-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+      "folderPath": "leetcode/3882-minimum-xor-path-in-a-grid/",
+      "readmePath": "leetcode/3882-minimum-xor-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3882-minimum-xor-path-in-a-grid.cpp",
+          "path": "leetcode/3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.cpp",
+          "sha": "42f3e9cff24574a316e0d3252417108c51e60ef9",
+          "lastSyncedAt": "2026-10-28T17:46:32.337Z"
         }
       ]
     },
