@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-26T17:54:48.969Z",
+  "updatedAt": "2026-10-29T17:49:00.721Z",
   "problems": [
     {
       "frontendId": "111",
@@ -244,6 +244,26 @@
           "path": "leetcode/3619-count-islands-with-total-value-divisible-by-k/3619-count-islands-with-total-value-divisible-by-k.cpp",
           "sha": "1458c4dc9263bfa2f533d2fd4d80415cbd228b06",
           "lastSyncedAt": "2026-10-26T17:54:48.969Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3841",
+      "title": "Palindromic Path Queries in a Tree",
+      "slug": "palindromic-path-queries-in-a-tree",
+      "problemName": "3841-palindromic-path-queries-in-a-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+      "folderPath": "leetcode/3841-palindromic-path-queries-in-a-tree/",
+      "readmePath": "leetcode/3841-palindromic-path-queries-in-a-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3841-palindromic-path-queries-in-a-tree.cpp",
+          "path": "leetcode/3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.cpp",
+          "sha": "e25b78a7bedd25a19277a6952fd7c39610c80579",
+          "lastSyncedAt": "2026-10-29T17:49:00.721Z"
         }
       ]
     }
