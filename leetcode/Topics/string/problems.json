@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-24T17:25:02.862Z",
+  "updatedAt": "2026-10-29T17:49:00.721Z",
   "problems": [
     {
       "frontendId": "3",
@@ -1284,6 +1284,26 @@
           "path": "leetcode/3838-weighted-word-mapping/3838-weighted-word-mapping.cpp",
           "sha": "de33887b824d2e041136fdbe711d640815510018",
           "lastSyncedAt": "2026-10-23T17:57:37.995Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3841",
+      "title": "Palindromic Path Queries in a Tree",
+      "slug": "palindromic-path-queries-in-a-tree",
+      "problemName": "3841-palindromic-path-queries-in-a-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+      "folderPath": "leetcode/3841-palindromic-path-queries-in-a-tree/",
+      "readmePath": "leetcode/3841-palindromic-path-queries-in-a-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3841-palindromic-path-queries-in-a-tree.cpp",
+          "path": "leetcode/3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.cpp",
+          "sha": "e25b78a7bedd25a19277a6952fd7c39610c80579",
+          "lastSyncedAt": "2026-10-29T17:49:00.721Z"
         }
       ]
     },
