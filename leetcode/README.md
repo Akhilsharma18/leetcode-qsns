@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 71 | 28 | 42 | 1 |
+| 72 | 28 | 42 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 53 |
+| 2 days | 4 days | 54 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-05-19 | 1 |
 | 2026-05-24 | 1 |
 | 2026-05-27 | 1 |
 | 2026-05-28 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-24 | 1 |
 | 2026-10-26 | 2 |
 | 2026-10-28 | 1 |
+| 2026-10-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 43 | 61% |
-| String | 20 | 28% |
-| Hash Table | 14 | 20% |
+| Array | 44 | 61% |
+| String | 21 | 29% |
+| Hash Table | 14 | 19% |
 | Dynamic Programming | 13 | 18% |
 | Matrix | 13 | 18% |
 | Two Pointers | 13 | 18% |
 | Math | 12 | 17% |
-| Depth-First Search | 8 | 11% |
+| Depth-First Search | 9 | 13% |
 | Greedy | 8 | 11% |
 | Breadth-First Search | 7 | 10% |
 
@@ -49,13 +49,13 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 129 |
+| [Array](Topics/array/) | 130 |
 | [Backtracking](Topics/backtracking/) | 5 |
-| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
+| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 3 |
 | [Binary Search](Topics/binary-search/) | 18 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 8 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 14 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 15 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 12 |
 | [Brainteaser](Topics/brainteaser/) | 4 |
@@ -67,9 +67,9 @@ Contains topicwise list of solved problems.
 | [Counting Sort](Topics/counting-sort/) | 3 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Database](Topics/database/) | 3 |
-| [Depth-First Search](Topics/depth-first-search/) | 12 |
+| [Depth-First Search](Topics/depth-first-search/) | 13 |
 | [Design](Topics/design/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 40 |
 | [Enumeration](Topics/enumeration/) | 15 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 4 |
@@ -101,16 +101,16 @@ Contains topicwise list of solved problems.
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Range Minimum/Maximum Query](Topics/range-minimum-maximum-query/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
-| [Segment Tree](Topics/segment-tree/) | 6 |
+| [Segment Tree](Topics/segment-tree/) | 7 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 15 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 38 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 18 |
-| [String](Topics/string/) | 65 |
+| [String](Topics/string/) | 66 |
 | [String Matching](Topics/string-matching/) | 2 |
-| [Tree](Topics/tree/) | 8 |
+| [Tree](Topics/tree/) | 9 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 26 |
 | [Union-Find](Topics/union-find/) | 8 |
