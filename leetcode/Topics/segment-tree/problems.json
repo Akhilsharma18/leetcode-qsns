@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-24T05:44:15.399Z",
+  "updatedAt": "2026-10-29T17:49:00.721Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -124,6 +124,26 @@
           "path": "leetcode/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.cpp",
           "sha": "ed95717fcc2d658fa2ed20a3ff340347dd663d98",
           "lastSyncedAt": "2026-10-23T17:55:43.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3841",
+      "title": "Palindromic Path Queries in a Tree",
+      "slug": "palindromic-path-queries-in-a-tree",
+      "problemName": "3841-palindromic-path-queries-in-a-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+      "folderPath": "leetcode/3841-palindromic-path-queries-in-a-tree/",
+      "readmePath": "leetcode/3841-palindromic-path-queries-in-a-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3841-palindromic-path-queries-in-a-tree.cpp",
+          "path": "leetcode/3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.cpp",
+          "sha": "e25b78a7bedd25a19277a6952fd7c39610c80579",
+          "lastSyncedAt": "2026-10-29T17:49:00.721Z"
         }
       ]
     }
