@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-28T17:47:58.473Z",
+  "updatedAt": "2026-10-31T17:58:44.425Z",
   "problems": [
     {
       "frontendId": "5",
@@ -744,6 +744,26 @@
           "path": "leetcode/3660-jump-game-ix/3660-jump-game-ix.cpp",
           "sha": "e7e16ff6765809b2c34bd4a80bcb6d94d618ecde",
           "lastSyncedAt": "2026-10-23T18:00:40.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3665",
+      "title": "Twisted Mirror Path Count",
+      "slug": "twisted-mirror-path-count",
+      "problemName": "3665-twisted-mirror-path-count",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/twisted-mirror-path-count/",
+      "folderPath": "leetcode/3665-twisted-mirror-path-count/",
+      "readmePath": "leetcode/3665-twisted-mirror-path-count/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3665-twisted-mirror-path-count.cpp",
+          "path": "leetcode/3665-twisted-mirror-path-count/3665-twisted-mirror-path-count.cpp",
+          "sha": "316f1f92055c266fa2a98de9e3f0404ff4cf6236",
+          "lastSyncedAt": "2026-10-31T17:58:44.425Z"
         }
       ]
     },
