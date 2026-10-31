@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-28T17:47:58.473Z",
+  "updatedAt": "2026-10-31T17:58:44.425Z",
   "problems": [
     {
       "frontendId": "36",
@@ -344,6 +344,26 @@
           "path": "leetcode/3619-count-islands-with-total-value-divisible-by-k/3619-count-islands-with-total-value-divisible-by-k.cpp",
           "sha": "1458c4dc9263bfa2f533d2fd4d80415cbd228b06",
           "lastSyncedAt": "2026-10-26T17:54:48.969Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3665",
+      "title": "Twisted Mirror Path Count",
+      "slug": "twisted-mirror-path-count",
+      "problemName": "3665-twisted-mirror-path-count",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/twisted-mirror-path-count/",
+      "folderPath": "leetcode/3665-twisted-mirror-path-count/",
+      "readmePath": "leetcode/3665-twisted-mirror-path-count/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3665-twisted-mirror-path-count.cpp",
+          "path": "leetcode/3665-twisted-mirror-path-count/3665-twisted-mirror-path-count.cpp",
+          "sha": "316f1f92055c266fa2a98de9e3f0404ff4cf6236",
+          "lastSyncedAt": "2026-10-31T17:58:44.425Z"
         }
       ]
     },
