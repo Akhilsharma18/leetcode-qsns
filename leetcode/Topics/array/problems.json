@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-31T17:58:44.425Z",
+  "updatedAt": "2026-11-01T18:01:58.377Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "leetcode/0417-pacific-atlantic-water-flow/0417-pacific-atlantic-water-flow.cpp",
           "sha": "aeee99b858ba0cb664dd63b3233353bc959782f7",
           "lastSyncedAt": "2026-10-23T17:59:27.448Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "453",
+      "title": "Minimum Moves to Equal Array Elements",
+      "slug": "minimum-moves-to-equal-array-elements",
+      "problemName": "0453-minimum-moves-to-equal-array-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
+      "folderPath": "leetcode/0453-minimum-moves-to-equal-array-elements/",
+      "readmePath": "leetcode/0453-minimum-moves-to-equal-array-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0453-minimum-moves-to-equal-array-elements.cpp",
+          "path": "leetcode/0453-minimum-moves-to-equal-array-elements/0453-minimum-moves-to-equal-array-elements.cpp",
+          "sha": "2ac4da68189133e94657eafa8e71bf2c24727813",
+          "lastSyncedAt": "2026-11-01T18:01:58.377Z"
         }
       ]
     },
