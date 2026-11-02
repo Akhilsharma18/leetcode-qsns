@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 75 | 28 | 45 | 2 |
+| 76 | 28 | 46 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 57 |
+| 6 days | 6 days | 58 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-05-29 | 1 |
 | 2026-05-31 | 1 |
 | 2026-06-02 | 2 |
 | 2026-06-05 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-10-30 | 1 |
 | 2026-10-31 | 1 |
 | 2026-11-01 | 1 |
+| 2026-11-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 46 | 61% |
+| Array | 47 | 62% |
 | String | 22 | 29% |
-| Dynamic Programming | 14 | 19% |
-| Hash Table | 14 | 19% |
-| Matrix | 14 | 19% |
-| Math | 13 | 17% |
+| Dynamic Programming | 14 | 18% |
+| Hash Table | 14 | 18% |
+| Math | 14 | 18% |
+| Matrix | 14 | 18% |
 | Two Pointers | 13 | 17% |
 | Depth-First Search | 9 | 12% |
 | Greedy | 8 | 11% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 132 |
+| [Array](Topics/array/) | 133 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 3 |
 | [Binary Search](Topics/binary-search/) | 18 |
@@ -87,7 +87,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 8 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 64 |
+| [Math](Topics/math/) | 65 |
 | [Matrix](Topics/matrix/) | 19 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
@@ -105,7 +105,7 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 2 |
 | [Simulation](Topics/simulation/) | 15 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
-| [Sorting](Topics/sorting/) | 38 |
+| [Sorting](Topics/sorting/) | 39 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 18 |
 | [String](Topics/string/) | 67 |
