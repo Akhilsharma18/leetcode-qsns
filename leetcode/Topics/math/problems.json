@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-02T17:06:26.220Z",
+  "updatedAt": "2026-11-04T18:28:08.200Z",
   "problems": [
     {
       "frontendId": "43",
@@ -924,6 +924,26 @@
           "path": "leetcode/3360-stone-removal-game/3360-stone-removal-game.cpp",
           "sha": "33b9095477c556d90695d95f8c3733c2e24c45d1",
           "lastSyncedAt": "2026-10-24T05:47:01.715Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3505",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "problemName": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "folderPath": "leetcode/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "readmePath": "leetcode/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.cpp",
+          "path": "leetcode/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.cpp",
+          "sha": "1774630ce70d20aedd81cec230fb71005d814fe8",
+          "lastSyncedAt": "2026-11-04T18:28:08.200Z"
         }
       ]
     },
