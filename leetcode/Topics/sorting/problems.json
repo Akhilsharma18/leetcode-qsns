@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-02T17:06:26.220Z",
+  "updatedAt": "2026-11-05T18:06:32.797Z",
   "problems": [
     {
       "frontendId": "15",
@@ -304,6 +304,26 @@
           "path": "leetcode/1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.cpp",
           "sha": "3666f64c26172026b3e058c71314e396fe107c0a",
           "lastSyncedAt": "2026-10-23T17:53:58.326Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "problemName": "1385-find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "folderPath": "leetcode/1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "leetcode/1385-find-the-distance-value-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1385-find-the-distance-value-between-two-arrays.cpp",
+          "path": "leetcode/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.cpp",
+          "sha": "74f82e4c31873fc1f7f959cfda4eb54717551178",
+          "lastSyncedAt": "2026-11-05T18:06:32.797Z"
         }
       ]
     },
