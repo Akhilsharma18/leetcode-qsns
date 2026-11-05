@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-24T05:48:28.690Z",
+  "updatedAt": "2026-11-05T18:06:32.797Z",
   "problems": [
     {
       "frontendId": "33",
@@ -104,6 +104,26 @@
           "path": "leetcode/1283-find-the-smallest-divisor-given-a-threshold/1283-find-the-smallest-divisor-given-a-threshold.cpp",
           "sha": "67b27bb74ad4ded808699c881d9e2f160aa5499d",
           "lastSyncedAt": "2026-10-23T17:56:30.313Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "problemName": "1385-find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "folderPath": "leetcode/1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "leetcode/1385-find-the-distance-value-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1385-find-the-distance-value-between-two-arrays.cpp",
+          "path": "leetcode/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.cpp",
+          "sha": "74f82e4c31873fc1f7f959cfda4eb54717551178",
+          "lastSyncedAt": "2026-11-05T18:06:32.797Z"
         }
       ]
     },
