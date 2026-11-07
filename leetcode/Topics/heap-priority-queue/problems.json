@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-04T18:28:08.200Z",
+  "updatedAt": "2026-11-07T16:24:32.789Z",
   "problems": [
     {
       "frontendId": "451",
@@ -104,6 +104,26 @@
           "path": "leetcode/1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.java",
           "sha": "fc69dac2ce21a5526ea1cc07ec1d9216463d6f33",
           "lastSyncedAt": "2026-10-23T17:51:04.019Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1882",
+      "title": "Process Tasks Using Servers",
+      "slug": "process-tasks-using-servers",
+      "problemName": "1882-process-tasks-using-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/process-tasks-using-servers/",
+      "folderPath": "leetcode/1882-process-tasks-using-servers/",
+      "readmePath": "leetcode/1882-process-tasks-using-servers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1882-process-tasks-using-servers.cpp",
+          "path": "leetcode/1882-process-tasks-using-servers/1882-process-tasks-using-servers.cpp",
+          "sha": "9bce45cc86ac08a2b3bc82889148e70bbfffa684",
+          "lastSyncedAt": "2026-11-07T16:24:32.789Z"
         }
       ]
     },
