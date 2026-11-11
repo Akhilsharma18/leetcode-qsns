@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-09T17:45:18.980Z",
+  "updatedAt": "2026-11-11T13:50:11.927Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2424,6 +2424,26 @@
           "path": "leetcode/3689-maximum-total-subarray-value-i/3689-maximum-total-subarray-value-i.cpp",
           "sha": "a4436d01170f29a55478745cd8d353e057e6868b",
           "lastSyncedAt": "2026-10-23T17:58:07.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3693",
+      "title": "Climbing Stairs II",
+      "slug": "climbing-stairs-ii",
+      "problemName": "3693-climbing-stairs-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs-ii/",
+      "folderPath": "leetcode/3693-climbing-stairs-ii/",
+      "readmePath": "leetcode/3693-climbing-stairs-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3693-climbing-stairs-ii.cpp",
+          "path": "leetcode/3693-climbing-stairs-ii/3693-climbing-stairs-ii.cpp",
+          "sha": "757d6a337a21ee64ac3c5720b0b464bcdda16248",
+          "lastSyncedAt": "2026-11-11T13:50:11.927Z"
         }
       ]
     },
