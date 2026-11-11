@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-24T05:50:16.953Z",
+  "updatedAt": "2026-11-11T13:51:06.047Z",
   "problems": [
     {
       "frontendId": "11",
@@ -644,6 +644,26 @@
           "path": "leetcode/3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
           "sha": "8563f1f1dcf859f7cef523c0f5776b18e90b9e9e",
           "lastSyncedAt": "2026-10-24T05:35:15.237Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3789",
+      "title": "Minimum Cost to Acquire Required Items",
+      "slug": "minimum-cost-to-acquire-required-items",
+      "problemName": "3789-minimum-cost-to-acquire-required-items",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/",
+      "folderPath": "leetcode/3789-minimum-cost-to-acquire-required-items/",
+      "readmePath": "leetcode/3789-minimum-cost-to-acquire-required-items/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3789-minimum-cost-to-acquire-required-items.cpp",
+          "path": "leetcode/3789-minimum-cost-to-acquire-required-items/3789-minimum-cost-to-acquire-required-items.cpp",
+          "sha": "9ce0ceb5a30b78036e0d05097f2e1eb852c24b35",
+          "lastSyncedAt": "2026-11-11T13:51:06.047Z"
         }
       ]
     }
