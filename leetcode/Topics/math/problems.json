@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-04T18:28:08.200Z",
+  "updatedAt": "2026-11-11T13:51:06.047Z",
   "problems": [
     {
       "frontendId": "43",
@@ -1204,6 +1204,26 @@
           "path": "leetcode/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
           "sha": "9e578767a4d667ab25dc2e55092daaa7b61a2836",
           "lastSyncedAt": "2026-10-23T17:54:48.248Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3789",
+      "title": "Minimum Cost to Acquire Required Items",
+      "slug": "minimum-cost-to-acquire-required-items",
+      "problemName": "3789-minimum-cost-to-acquire-required-items",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/",
+      "folderPath": "leetcode/3789-minimum-cost-to-acquire-required-items/",
+      "readmePath": "leetcode/3789-minimum-cost-to-acquire-required-items/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3789-minimum-cost-to-acquire-required-items.cpp",
+          "path": "leetcode/3789-minimum-cost-to-acquire-required-items/3789-minimum-cost-to-acquire-required-items.cpp",
+          "sha": "9ce0ceb5a30b78036e0d05097f2e1eb852c24b35",
+          "lastSyncedAt": "2026-11-11T13:51:06.047Z"
         }
       ]
     },
