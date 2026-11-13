@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-24T05:47:07.654Z",
+  "updatedAt": "2026-11-13T16:49:22.588Z",
   "problems": [
     {
       "frontendId": "20",
@@ -364,6 +364,26 @@
           "path": "leetcode/2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.cpp",
           "sha": "a1e38e073f1084529fedd5e24a80a39a9c1261d3",
           "lastSyncedAt": "2026-10-23T17:57:30.963Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3420",
+      "title": "Count Non-Decreasing Subarrays After K Operations",
+      "slug": "count-non-decreasing-subarrays-after-k-operations",
+      "problemName": "3420-count-non-decreasing-subarrays-after-k-operations",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
+      "folderPath": "leetcode/3420-count-non-decreasing-subarrays-after-k-operations/",
+      "readmePath": "leetcode/3420-count-non-decreasing-subarrays-after-k-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3420-count-non-decreasing-subarrays-after-k-operations.cpp",
+          "path": "leetcode/3420-count-non-decreasing-subarrays-after-k-operations/3420-count-non-decreasing-subarrays-after-k-operations.cpp",
+          "sha": "aa4b00d10f6cedf7f238ef8a093fc0a3b3e2e37b",
+          "lastSyncedAt": "2026-11-13T16:49:22.588Z"
         }
       ]
     }
