@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-14T17:19:45.294Z",
+  "updatedAt": "2026-11-14T17:19:58.447Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1983,7 +1983,7 @@
           "filename": "3364-minimum-positive-sum-subarray.cpp",
           "path": "leetcode/3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.cpp",
           "sha": "a3483f034c7d7cc2cf32d4784511c0bbe3878336",
-          "lastSyncedAt": "2026-11-14T17:19:45.294Z"
+          "lastSyncedAt": "2026-11-14T17:19:58.447Z"
         }
       ]
     },
