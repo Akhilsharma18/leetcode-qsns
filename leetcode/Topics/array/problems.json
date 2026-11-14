@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T16:49:22.588Z",
+  "updatedAt": "2026-11-14T17:19:45.294Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1964,6 +1964,26 @@
           "path": "leetcode/3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.cpp",
           "sha": "17e5f31c7518620effa34b610a9052f8349a0d6d",
           "lastSyncedAt": "2026-10-23T17:53:38.017Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "leetcode/3364-minimum-positive-sum-subarray/",
+      "readmePath": "leetcode/3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3364-minimum-positive-sum-subarray.cpp",
+          "path": "leetcode/3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.cpp",
+          "sha": "a3483f034c7d7cc2cf32d4784511c0bbe3878336",
+          "lastSyncedAt": "2026-11-14T17:19:45.294Z"
         }
       ]
     },
