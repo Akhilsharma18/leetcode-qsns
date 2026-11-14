@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-13T16:49:22.588Z",
+  "updatedAt": "2026-11-14T17:19:45.294Z",
   "problems": [
     {
       "frontendId": "3",
@@ -164,6 +164,26 @@
           "path": "leetcode/3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.cpp",
           "sha": "8fdc214912a1d69fcecf0bcae7c09d10fa10de13",
           "lastSyncedAt": "2026-10-24T05:44:07.935Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "leetcode/3364-minimum-positive-sum-subarray/",
+      "readmePath": "leetcode/3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3364-minimum-positive-sum-subarray.cpp",
+          "path": "leetcode/3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.cpp",
+          "sha": "a3483f034c7d7cc2cf32d4784511c0bbe3878336",
+          "lastSyncedAt": "2026-11-14T17:19:45.294Z"
         }
       ]
     },
