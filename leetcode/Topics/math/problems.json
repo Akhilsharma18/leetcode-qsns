@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T13:51:06.047Z",
+  "updatedAt": "2026-11-15T16:49:44.112Z",
   "problems": [
     {
       "frontendId": "43",
@@ -524,6 +524,26 @@
           "path": "leetcode/1510-stone-game-iv/1510-stone-game-iv.cpp",
           "sha": "a19cacc0f91fbe69d3daf14a3198545535f16a01",
           "lastSyncedAt": "2026-10-24T05:44:52.867Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1524",
+      "title": "Number of Sub-arrays With Odd Sum",
+      "slug": "number-of-sub-arrays-with-odd-sum",
+      "problemName": "1524-number-of-sub-arrays-with-odd-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+      "folderPath": "leetcode/1524-number-of-sub-arrays-with-odd-sum/",
+      "readmePath": "leetcode/1524-number-of-sub-arrays-with-odd-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1524-number-of-sub-arrays-with-odd-sum.cpp",
+          "path": "leetcode/1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.cpp",
+          "sha": "76e09250e9b414885831b3f42c72ccceb6b48495",
+          "lastSyncedAt": "2026-11-15T16:49:44.112Z"
         }
       ]
     },
