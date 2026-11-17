@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-05T18:08:14.946Z",
+  "updatedAt": "2026-11-17T19:29:53.605Z",
   "problems": [
     {
       "frontendId": "5",
@@ -424,6 +424,26 @@
           "path": "leetcode/2540-minimum-common-value/2540-minimum-common-value.cpp",
           "sha": "b6c1a4b9bc2c53e7a0e7961b99ba9502afe340ba",
           "lastSyncedAt": "2026-10-23T17:59:51.318Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problemName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+      "folderPath": "leetcode/2911-minimum-changes-to-make-k-semi-palindromes/",
+      "readmePath": "leetcode/2911-minimum-changes-to-make-k-semi-palindromes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2911-minimum-changes-to-make-k-semi-palindromes.cpp",
+          "path": "leetcode/2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.cpp",
+          "sha": "49bc389d9c76007e8ceb42dc620d2deed2df7d24",
+          "lastSyncedAt": "2026-11-17T19:29:53.605Z"
         }
       ]
     },
