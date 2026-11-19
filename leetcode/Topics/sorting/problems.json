@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-05T18:08:14.946Z",
+  "updatedAt": "2026-11-19T19:31:28.178Z",
   "problems": [
     {
       "frontendId": "15",
@@ -504,6 +504,26 @@
           "path": "leetcode/2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
           "sha": "49c8ba64f353161beb872d5929a9423e349c2718",
           "lastSyncedAt": "2026-10-24T05:35:37.797Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2567",
+      "title": "Minimum Score by Changing Two Elements",
+      "slug": "minimum-score-by-changing-two-elements",
+      "problemName": "2567-minimum-score-by-changing-two-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/",
+      "folderPath": "leetcode/2567-minimum-score-by-changing-two-elements/",
+      "readmePath": "leetcode/2567-minimum-score-by-changing-two-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2567-minimum-score-by-changing-two-elements.cpp",
+          "path": "leetcode/2567-minimum-score-by-changing-two-elements/2567-minimum-score-by-changing-two-elements.cpp",
+          "sha": "86defb4a2e465cdc6a64f6e36f04b24ddfb65393",
+          "lastSyncedAt": "2026-11-19T19:31:28.178Z"
         }
       ]
     },
