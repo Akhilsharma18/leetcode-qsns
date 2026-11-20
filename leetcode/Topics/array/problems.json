@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T19:31:28.178Z",
+  "updatedAt": "2026-11-20T03:35:16.085Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1884,6 +1884,26 @@
           "path": "leetcode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "sha": "565b074d0c0adb9d420407413e75dfc9017f25f5",
           "lastSyncedAt": "2026-10-24T05:44:36.762Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3041",
+      "title": "Maximize Consecutive Elements in an Array After Modification",
+      "slug": "maximize-consecutive-elements-in-an-array-after-modification",
+      "problemName": "3041-maximize-consecutive-elements-in-an-array-after-modification",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/",
+      "folderPath": "leetcode/3041-maximize-consecutive-elements-in-an-array-after-modification/",
+      "readmePath": "leetcode/3041-maximize-consecutive-elements-in-an-array-after-modification/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3041-maximize-consecutive-elements-in-an-array-after-modification.cpp",
+          "path": "leetcode/3041-maximize-consecutive-elements-in-an-array-after-modification/3041-maximize-consecutive-elements-in-an-array-after-modification.cpp",
+          "sha": "80f8de4d2d981c593ff2da66b918aace04db8ae5",
+          "lastSyncedAt": "2026-11-20T03:35:16.085Z"
         }
       ]
     },
