@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 83 | 30 | 49 | 4 |
+| 85 | 30 | 50 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 6 days | 65 |
+| 1 days | 6 days | 66 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-26 | 2 |
 | 2026-10-28 | 1 |
 | 2026-10-29 | 1 |
 | 2026-10-30 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-13 | 1 |
 | 2026-11-14 | 1 |
 | 2026-11-15 | 1 |
+| 2026-11-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 54 | 65% |
-| String | 22 | 27% |
-| Dynamic Programming | 17 | 20% |
+| Array | 56 | 66% |
+| String | 22 | 26% |
+| Dynamic Programming | 18 | 21% |
 | Math | 16 | 19% |
 | Hash Table | 15 | 18% |
-| Matrix | 14 | 17% |
-| Two Pointers | 14 | 17% |
+| Matrix | 14 | 16% |
+| Two Pointers | 14 | 16% |
+| Sorting | 10 | 12% |
 | Depth-First Search | 9 | 11% |
-| Greedy | 8 | 10% |
-| Sorting | 8 | 10% |
+| Greedy | 9 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 142 |
+| [Array](Topics/array/) | 144 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 3 |
 | [Binary Search](Topics/binary-search/) | 19 |
@@ -70,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 13 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 44 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 45 |
 | [Enumeration](Topics/enumeration/) | 15 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 4 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph Theory](Topics/graph/) | 6 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 4 |
-| [Greedy](Topics/greedy/) | 33 |
+| [Greedy](Topics/greedy/) | 34 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 48 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 12 |
@@ -106,14 +106,14 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 2 |
 | [Simulation](Topics/simulation/) | 16 |
 | [Sliding Window](Topics/sliding-window/) | 11 |
-| [Sorting](Topics/sorting/) | 40 |
+| [Sorting](Topics/sorting/) | 42 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 19 |
 | [String](Topics/string/) | 67 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Tree](Topics/tree/) | 9 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 27 |
+| [Two Pointers](Topics/two-pointers/) | 28 |
 | [Union-Find](Topics/union-find/) | 8 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 7 |
 <!---LeetHub Summary End-->
