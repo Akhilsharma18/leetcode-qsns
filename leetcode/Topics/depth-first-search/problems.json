@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-29T17:49:00.721Z",
+  "updatedAt": "2026-11-21T17:30:53.224Z",
   "problems": [
     {
       "frontendId": "111",
@@ -224,6 +224,26 @@
           "path": "leetcode/3310-remove-methods-from-project/3310-remove-methods-from-project.cpp",
           "sha": "17e1cc0e2191f68b72d4988c93fb344b8fdc7d45",
           "lastSyncedAt": "2026-10-24T05:49:06.963Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3331",
+      "title": "Find Subtree Sizes After Changes",
+      "slug": "find-subtree-sizes-after-changes",
+      "problemName": "3331-find-subtree-sizes-after-changes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/",
+      "folderPath": "leetcode/3331-find-subtree-sizes-after-changes/",
+      "readmePath": "leetcode/3331-find-subtree-sizes-after-changes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3331-find-subtree-sizes-after-changes.cpp",
+          "path": "leetcode/3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.cpp",
+          "sha": "0f2d4747aada718f3cb7d00c32ebb0afe9f67dc8",
+          "lastSyncedAt": "2026-11-21T17:30:53.224Z"
         }
       ]
     },
