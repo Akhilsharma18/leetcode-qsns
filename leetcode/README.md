@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 86 | 30 | 51 | 5 |
+| 87 | 31 | 51 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 6 days | 67 |
+| 3 days | 6 days | 68 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-29 | 1 |
 | 2026-10-30 | 1 |
 | 2026-10-31 | 1 |
 | 2026-11-01 | 1 |
@@ -29,20 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 1 |
 | 2026-11-20 | 2 |
 | 2026-11-21 | 1 |
+| 2026-11-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 57 | 66% |
-| String | 23 | 27% |
+| String | 24 | 28% |
 | Dynamic Programming | 18 | 21% |
-| Hash Table | 16 | 19% |
-| Math | 16 | 19% |
+| Hash Table | 16 | 18% |
+| Math | 16 | 18% |
 | Matrix | 14 | 16% |
 | Two Pointers | 14 | 16% |
-| Depth-First Search | 10 | 12% |
-| Sorting | 10 | 12% |
+| Depth-First Search | 10 | 11% |
+| Sorting | 10 | 11% |
 | Greedy | 9 | 10% |
 
 ## Topics
@@ -109,7 +109,7 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 42 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 19 |
-| [String](Topics/string/) | 68 |
+| [String](Topics/string/) | 69 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Tree](Topics/tree/) | 10 |
 | [Trie](Topics/trie/) | 2 |
