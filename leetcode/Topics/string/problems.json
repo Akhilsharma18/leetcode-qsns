@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-21T17:30:53.224Z",
+  "updatedAt": "2026-11-22T12:01:56.239Z",
   "problems": [
     {
       "frontendId": "3",
@@ -864,6 +864,26 @@
           "path": "leetcode/2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.cpp",
           "sha": "f8283c15744a43d56b7e4b9864f689a5ff6911be",
           "lastSyncedAt": "2026-10-23T18:01:39.293Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "problemName": "2124-check-if-all-as-appears-before-all-bs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+      "folderPath": "leetcode/2124-check-if-all-as-appears-before-all-bs/",
+      "readmePath": "leetcode/2124-check-if-all-as-appears-before-all-bs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2124-check-if-all-as-appears-before-all-bs.cpp",
+          "path": "leetcode/2124-check-if-all-as-appears-before-all-bs/2124-check-if-all-as-appears-before-all-bs.cpp",
+          "sha": "d1987a2942ca51784869431d521c91b7475c6e58",
+          "lastSyncedAt": "2026-11-22T12:01:56.239Z"
         }
       ]
     },
