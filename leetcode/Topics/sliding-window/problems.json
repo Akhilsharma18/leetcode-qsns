@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-14T17:19:45.294Z",
+  "updatedAt": "2026-11-24T13:26:38.384Z",
   "problems": [
     {
       "frontendId": "3",
@@ -184,6 +184,26 @@
           "path": "leetcode/3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.cpp",
           "sha": "a3483f034c7d7cc2cf32d4784511c0bbe3878336",
           "lastSyncedAt": "2026-11-14T17:19:45.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3411",
+      "title": "Maximum Subarray With Equal Products",
+      "slug": "maximum-subarray-with-equal-products",
+      "problemName": "3411-maximum-subarray-with-equal-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+      "folderPath": "leetcode/3411-maximum-subarray-with-equal-products/",
+      "readmePath": "leetcode/3411-maximum-subarray-with-equal-products/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3411-maximum-subarray-with-equal-products.cpp",
+          "path": "leetcode/3411-maximum-subarray-with-equal-products/3411-maximum-subarray-with-equal-products.cpp",
+          "sha": "ff07e58bff6fd05f5ab5e11e1e87f2a4fb8a3261",
+          "lastSyncedAt": "2026-11-24T13:26:38.384Z"
         }
       ]
     },
