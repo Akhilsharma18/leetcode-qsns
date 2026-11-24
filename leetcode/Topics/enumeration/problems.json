@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-24T05:49:01.216Z",
+  "updatedAt": "2026-11-24T13:26:38.384Z",
   "problems": [
     {
       "frontendId": "1291",
@@ -84,6 +84,26 @@
           "path": "leetcode/3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.cpp",
           "sha": "64296c40a118c62f262ab337155a1441ec994501",
           "lastSyncedAt": "2026-10-24T05:49:01.216Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3411",
+      "title": "Maximum Subarray With Equal Products",
+      "slug": "maximum-subarray-with-equal-products",
+      "problemName": "3411-maximum-subarray-with-equal-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+      "folderPath": "leetcode/3411-maximum-subarray-with-equal-products/",
+      "readmePath": "leetcode/3411-maximum-subarray-with-equal-products/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3411-maximum-subarray-with-equal-products.cpp",
+          "path": "leetcode/3411-maximum-subarray-with-equal-products/3411-maximum-subarray-with-equal-products.cpp",
+          "sha": "ff07e58bff6fd05f5ab5e11e1e87f2a4fb8a3261",
+          "lastSyncedAt": "2026-11-24T13:26:38.384Z"
         }
       ]
     },
