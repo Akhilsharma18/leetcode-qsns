@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-21T17:30:53.224Z",
+  "updatedAt": "2026-11-25T18:26:04.730Z",
   "problems": [
     {
       "frontendId": "1",
@@ -984,6 +984,26 @@
           "path": "leetcode/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.cpp",
           "sha": "ed95717fcc2d658fa2ed20a3ff340347dd663d98",
           "lastSyncedAt": "2026-10-23T17:55:43.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3934",
+      "title": "Smallest Unique Subarray",
+      "slug": "smallest-unique-subarray",
+      "problemName": "3934-smallest-unique-subarray",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-unique-subarray/",
+      "folderPath": "leetcode/3934-smallest-unique-subarray/",
+      "readmePath": "leetcode/3934-smallest-unique-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3934-smallest-unique-subarray.cpp",
+          "path": "leetcode/3934-smallest-unique-subarray/3934-smallest-unique-subarray.cpp",
+          "sha": "8c44912048bf6bc2ba75a01f2bde00913774d69d",
+          "lastSyncedAt": "2026-11-25T18:26:04.730Z"
         }
       ]
     }
