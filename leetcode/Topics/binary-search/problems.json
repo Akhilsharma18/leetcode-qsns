@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-05T18:08:14.946Z",
+  "updatedAt": "2026-11-25T18:26:04.730Z",
   "problems": [
     {
       "frontendId": "33",
@@ -384,6 +384,26 @@
           "path": "leetcode/3633-earliest-finish-time-for-land-and-water-rides-i/3633-earliest-finish-time-for-land-and-water-rides-i.cpp",
           "sha": "a579722581b12509aa1b599d7b48c56e31447037",
           "lastSyncedAt": "2026-10-23T17:58:42.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3934",
+      "title": "Smallest Unique Subarray",
+      "slug": "smallest-unique-subarray",
+      "problemName": "3934-smallest-unique-subarray",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-unique-subarray/",
+      "folderPath": "leetcode/3934-smallest-unique-subarray/",
+      "readmePath": "leetcode/3934-smallest-unique-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3934-smallest-unique-subarray.cpp",
+          "path": "leetcode/3934-smallest-unique-subarray/3934-smallest-unique-subarray.cpp",
+          "sha": "8c44912048bf6bc2ba75a01f2bde00913774d69d",
+          "lastSyncedAt": "2026-11-25T18:26:04.730Z"
         }
       ]
     }
