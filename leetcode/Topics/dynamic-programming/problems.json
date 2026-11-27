@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-20T03:35:16.085Z",
+  "updatedAt": "2026-11-27T17:48:38.815Z",
   "problems": [
     {
       "frontendId": "5",
@@ -884,6 +884,26 @@
           "path": "leetcode/3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.cpp",
           "sha": "42f3e9cff24574a316e0d3252417108c51e60ef9",
           "lastSyncedAt": "2026-10-28T17:47:58.473Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3946",
+      "title": "Maximum Number of Items From Sale I",
+      "slug": "maximum-number-of-items-from-sale-i",
+      "problemName": "3946-maximum-number-of-items-from-sale-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-items-from-sale-i/",
+      "folderPath": "leetcode/3946-maximum-number-of-items-from-sale-i/",
+      "readmePath": "leetcode/3946-maximum-number-of-items-from-sale-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3946-maximum-number-of-items-from-sale-i.cpp",
+          "path": "leetcode/3946-maximum-number-of-items-from-sale-i/3946-maximum-number-of-items-from-sale-i.cpp",
+          "sha": "294df4f23e8e33d861246e09fa3e5ec622098fe3",
+          "lastSyncedAt": "2026-11-27T17:48:38.815Z"
         }
       ]
     },
