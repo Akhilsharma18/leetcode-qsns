@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-25T18:26:04.730Z",
+  "updatedAt": "2026-11-27T17:48:38.815Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2944,6 +2944,26 @@
           "path": "leetcode/3942-minimum-operations-to-sort-a-permutation/3942-minimum-operations-to-sort-a-permutation.cpp",
           "sha": "c8c3b2a572fd27b4cfc15f6ca0f9099a5e554870",
           "lastSyncedAt": "2026-10-24T05:33:25.639Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3946",
+      "title": "Maximum Number of Items From Sale I",
+      "slug": "maximum-number-of-items-from-sale-i",
+      "problemName": "3946-maximum-number-of-items-from-sale-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-items-from-sale-i/",
+      "folderPath": "leetcode/3946-maximum-number-of-items-from-sale-i/",
+      "readmePath": "leetcode/3946-maximum-number-of-items-from-sale-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3946-maximum-number-of-items-from-sale-i.cpp",
+          "path": "leetcode/3946-maximum-number-of-items-from-sale-i/3946-maximum-number-of-items-from-sale-i.cpp",
+          "sha": "294df4f23e8e33d861246e09fa3e5ec622098fe3",
+          "lastSyncedAt": "2026-11-27T17:48:38.815Z"
         }
       ]
     }
