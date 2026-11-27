@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 88 | 32 | 51 | 5 |
+| 89 | 32 | 52 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 69 |
+| 1 days | 6 days | 70 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-31 | 1 |
 | 2026-11-01 | 1 |
 | 2026-11-02 | 1 |
 | 2026-11-04 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-21 | 1 |
 | 2026-11-22 | 1 |
 | 2026-11-24 | 1 |
+| 2026-11-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 58 | 66% |
+| Array | 59 | 66% |
 | String | 24 | 27% |
-| Dynamic Programming | 18 | 20% |
+| Dynamic Programming | 19 | 21% |
 | Math | 17 | 19% |
 | Hash Table | 16 | 18% |
 | Matrix | 14 | 16% |
 | Two Pointers | 14 | 16% |
 | Depth-First Search | 10 | 11% |
+| Greedy | 10 | 11% |
 | Sorting | 10 | 11% |
-| Greedy | 9 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 147 |
+| [Array](Topics/array/) | 148 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 3 |
 | [Binary Search](Topics/binary-search/) | 20 |
@@ -70,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 14 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 45 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 46 |
 | [Enumeration](Topics/enumeration/) | 16 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 4 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph Theory](Topics/graph/) | 6 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 4 |
-| [Greedy](Topics/greedy/) | 34 |
+| [Greedy](Topics/greedy/) | 35 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 50 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 12 |
